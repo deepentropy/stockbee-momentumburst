@@ -1,0 +1,148 @@
+## Table of Contents
+
+1. Overview of Momentum Bursts  
+2. Typical Duration of Momentum Bursts  
+   2.1 Standard Duration (3–5 Days)  
+   2.2 Rare Extended Moves (8–15 Days)  
+3. Impact of Stock Price on Momentum Burst Length  
+   3.1 Lower-Priced Stocks (Below $40)  
+   3.2 Higher-Priced Stocks (Above $100)  
+4. Entry Strategy for Momentum Bursts  
+   4.1 Importance of Entering on the First Day  
+   4.2 When Next-Day Entry Is Acceptable  
+5. Exit Strategy and Profit Protection  
+   5.1 Avoiding Overstaying the Trade  
+   5.2 The “Golden Period” for Exits  
+6. Examples and Chart-Based Observations  
+   6.1 Lower-Priced Stock Examples  
+   6.2 Higher-Priced Stock Examples (e.g., AutoZone)  
+7. Psychological and Practical Considerations  
+
+
+---
+
+## 1. Overview of Momentum Bursts
+
+A momentum burst is a short, powerful price move in a stock that typically unfolds over a few consecutive days. Understanding how long these bursts usually last is crucial for designing effective entries, exits, and profit targets. The entire trading approach around momentum bursts depends on correctly timing these short-lived moves.
+
+---
+
+## 2. Typical Duration of Momentum Bursts
+
+### 2.1 Standard Duration (3–5 Days)
+
+- Most momentum bursts last **3 to 5 days**.  
+- This 3–5 day window is the **normal** and **common** pattern observed repeatedly.  
+- Many bursts are effectively **over by the 4th or 5th day**, meaning the main profit opportunity has passed.
+
+### 2.2 Rare Extended Moves (8–15 Days)
+
+- Occasionally, a momentum burst can last **8, 10, 12, or even 15 days**.  
+- These longer moves are **anomalies**, not the norm.  
+- They should not be the basis for your standard trading plan; they are exceptions.
+
+---
+
+## 3. Impact of Stock Price on Momentum Burst Length
+
+The price level of a stock influences how long its momentum burst can last and how it behaves on the breakout day.
+
+### 3.1 Lower-Priced Stocks (Below $40)
+
+- Lower-priced stocks (especially **below $40**) typically have momentum bursts lasting **3 to 5 days**.  
+- Their breakout moves often show **larger percentage gains** (e.g., 4%, 5%, 6% or more) in a single day.  
+- Because the move is compressed into a few days, the **entire opportunity is short-lived**.  
+- It is **seldom** that lower-priced stocks will have momentum bursts extending to 8–10 days.
+
+### 3.2 Higher-Priced Stocks (Above $100)
+
+- Higher-priced stocks (e.g., **above $100**) can have **longer momentum bursts**, often **6 to 10 days**.  
+- They usually **do not break out with very large percentage moves** on the first day.  
+  - Instead of a 4–6% surge, they might move **$2–$3**, which is a smaller percentage move relative to their price.  
+- Because the initial breakout is smaller in percentage terms, the **uptrend can continue for more days**, creating longer bursts (e.g., 6, 7, 8, or more days).
+
+---
+
+## 4. Entry Strategy for Momentum Bursts
+
+### 4.1 Importance of Entering on the First Day
+
+- If a typical momentum burst lasts **3 days**, you must **enter on the first day** to capture the bulk of the move.  
+- Entering on the first day is **critical** for this style of trading.  
+- Not entering on the first day is described as a **“cardinal sin”** in momentum burst trading.  
+- If you cannot consistently enter on the first day, this style of trading—where you aim for **10–20% gains in a few days**—may **not be suitable** for you.
+
+### 4.2 When Next-Day Entry Is Acceptable
+
+- In **higher-priced stocks** (above $100) with longer bursts (6–10 days), it is sometimes possible to **enter on the second day** and still participate meaningfully in the move.  
+- This flexibility is due to:
+  - Smaller percentage move on day one.
+  - The tendency for the move to **extend over more days**.
+
+---
+
+## 5. Exit Strategy and Profit Protection
+
+### 5.1 Avoiding Overstaying the Trade
+
+- **Overstaying a momentum burst**—holding beyond the typical 3–5 day window—often leads to **giving back profits**.  
+- Many momentum bursts are **done by day 4 or 5**.  
+- If you stay in too long, the stock can stall or reverse, erasing gains made during the burst.
+
+### 5.2 The “Golden Period” for Exits
+
+- For **lower-priced stocks**, the **“golden period”** to trade and exit a momentum burst is **3 to 5 days**.  
+- For **higher-priced stocks**, the burst can extend to **6–10 days**, but the **core idea remains**:  
+  - Focus on the **burst window**, not on holding indefinitely.  
+- Your profit targets and exit rules should be designed around these **time-based expectations**.
+
+---
+
+## 6. Examples and Chart-Based Observations
+
+Pradeep references his charting platform (TC2000/TeleChart) to illustrate how these principles appear in real stocks.
+
+### 6.1 Lower-Priced Stock Examples
+
+- On lower-priced stocks, multiple examples show:
+  - A **momentum burst lasting 3–5 days**.  
+  - Moves that are **clearly over** after the 4th or 5th day.  
+- On both the **long side** and the **short side**, bursts are:
+  - Short-lived (3–5 days).
+  - Followed by uncertainty—**you do not know** if the move will continue after that window.  
+- These examples reinforce:
+  - The need to **enter on day one**.
+  - The need to **exit within the 3–5 day window** to avoid giving back profits.
+
+### 6.2 Higher-Priced Stock Examples (e.g., AutoZone)
+
+- Example: **AutoZone** (a higher-priced stock):
+  - A **range expansion day** is identified where the day’s range is **bigger than any of the prior days**.  
+  - On that breakout day, the stock moves only about **2%**, not a huge percentage move.  
+  - From that day, the stock continues to go up for **6–7 days**.  
+- Another momentum burst in the same stock:
+  - Extends for **7–8 days**.  
+- These examples show:
+  - Higher-priced stocks can have **longer-lasting bursts**.
+  - The initial breakout may be **modest in percentage terms**, but the **trend persists** for more days.
+
+---
+
+## 7. Psychological and Practical Considerations
+
+- **Discipline in timing** is essential:
+  - You must be prepared to **act on the first day** of the burst, especially in lower-priced stocks.  
+- If you **cannot enter on the first day**, this specific momentum burst strategy—aiming for **10–20% in a few days**—may not fit your trading style or constraints.  
+- Recognizing the **typical duration** of bursts helps:
+  - Avoid unrealistic expectations of long, continuous moves.
+  - Prevent **overstaying** and losing profits.
+- You may need to **wait for the right setups**:
+  - Sometimes you must wait a few days for a proper momentum burst to appear.
+  - Patience is required to trade only when the **burst conditions** are present.
+
+---
+
+**Core takeaway:**  
+Design your momentum burst trades around **time**:  
+- Lower-priced stocks: plan for **3–5 days**, enter on **day one**, exit within the **golden period**.  
+- Higher-priced stocks: bursts can last **6–10 days**, allowing occasional **second-day entries**, but the focus remains on the **burst window**, not on long-term holding.

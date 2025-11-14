@@ -1,0 +1,314 @@
+## Table of Contents
+
+1. Overview of the 4% Breakout Momentum Burst Trade  
+2. Initial Trade Setup  
+   2.1. Running the 4% Breakout Scan  
+   2.2. Selecting Stocks (Tool Inch Criteria)  
+   2.3. Entry and Initial Stop Placement  
+   2.4. Position Sizing  
+3. Post-Entry Trade Management Framework  
+   3.1. Key Idea: Behavior-Based Stop Management  
+   3.2. Time-Based Nature of Momentum Burst Trades  
+4. Scenario 1: Immediate Follow-Through After Entry  
+   4.1. Day 1: Entry and Initial Risk  
+   4.2. Day 2: Strong Follow-Through – Reducing Risk  
+   4.3. Day 3: Large Open Profit – Aggressive Stop Tightening  
+   4.4. Day 4: Bonus Day – Switch to Tight Trailing Stop  
+5. Scenario 2: Delayed Follow-Through (Move Starts on Day 3)  
+   5.1. Day 1–2: No Move, Original Stop Intact  
+   5.2. Day 3: Breakout Finally Works – Locking in Gains  
+   5.3. Exit on Pullback After Day 3  
+6. Scenario 3: No Follow-Through by Day 3 (Time Stop)  
+   6.1. Recognizing a Failed Momentum Burst  
+   6.2. Midday Day 3 Exit Rule  
+7. General Rules for Stop Management in Momentum Burst Trades  
+   7.1. When to Move Stops  
+   7.2. How Much Profit to Protect  
+   7.3. Trailing Stop Parameters  
+   7.4. Time Stop: Maximum Holding Period  
+8. Psychological and Behavioral Guidance  
+   8.1. Avoiding Greed and Unrealistic Expectations  
+   8.2. Avoiding Hope-Based Holding  
+   8.3. Importance of Trade Management vs. Entry  
+
+
+---
+
+## 1. Overview of the 4% Breakout Momentum Burst Trade
+
+This lesson explains how to manage a 4% breakout “momentum burst” trade after you are already in the position. The focus is not on finding the setup, but on:
+
+- Where to place and how to move stops.
+- How to respond to different price behaviors after entry.
+- When to exit based on time and profit.
+- How to avoid giving back large gains due to poor trade management.
+
+Momentum burst trades in this context are short-term trades, typically lasting 3–5 days, most often 3–4 days.
+
+---
+
+## 2. Initial Trade Setup
+
+### 2.1. Running the 4% Breakout Scan
+
+- You start by running a **4% breakout scan** to find stocks that have made a strong momentum move.
+- From the scan results, you select stocks based on your **tool inch** criteria (the specific selection criteria you use; not elaborated further in this excerpt).
+
+### 2.2. Selecting Stocks (Tool Inch Criteria)
+
+- After the scan, you choose a particular setup that fits your rules.
+- The lesson assumes you have already done this and are ready to enter.
+
+### 2.3. Entry and Initial Stop Placement
+
+Once you decide to buy:
+
+- You enter on the breakout day (Day 1).
+- You place your initial stop:
+  - Either at the **low of the day**, or  
+  - At **half of the day’s range** (a “half-of-the-day” stop).
+
+Example from the lesson:
+
+- Day 1 range ≈ 45 cents.
+- Half-of-the-day stop ≈ 25 cents below your entry.
+- This corresponds to roughly **2.5% risk** if the full day’s move is about 5%.
+
+### 2.4. Position Sizing
+
+- You calculate the **number of shares** based on:
+  - Your chosen stop distance (low of day or half of day).
+  - Your acceptable percentage risk (e.g., 2.5–5%).
+- Once you enter and place the stop, you are in the position and trade management begins.
+
+---
+
+## 3. Post-Entry Trade Management Framework
+
+### 3.1. Key Idea: Behavior-Based Stop Management
+
+After entry, several things can happen:
+
+- You get stopped out quickly.
+- The stock does nothing for a day or two.
+- The stock follows through strongly.
+
+Your stop management must **adapt to what the stock does after entry**. You do not keep the same risk profile once you have a significant profit.
+
+### 3.2. Time-Based Nature of Momentum Burst Trades
+
+- These trades are **inherently short-term**:
+  - Most last **3–4 days**.
+  - Very few go beyond **5 days**.
+- There is a **time stop**:
+  - If the stock does not move within a defined time (by Day 3), the trade is considered over.
+
+---
+
+## 4. Scenario 1: Immediate Follow-Through After Entry
+
+This is the “ideal” situation: the stock follows through right after your entry.
+
+### 4.1. Day 1: Entry and Initial Risk
+
+- You enter on Day 1 with a half-of-the-day stop.
+- Example:
+  - Risk ≈ 2.5% (half of a 5% breakout).
+- Your stop is initially placed at that calculated level (e.g., 25 cents below entry).
+
+### 4.2. Day 2: Strong Follow-Through – Reducing Risk
+
+On Day 2, the stock **follows through** and moves up:
+
+- You now have about **6% profit** in the trade.
+- Keeping the original stop (still risking ~2.5–3%) **no longer makes sense**:
+  - You would be willing to give back too much relative to your open profit.
+- Action:
+  - **Move your stop up**.
+  - Do **not** simply use half of Day 2’s range if that still leaves ~3% risk.
+  - Instead, move the stop **slightly above half of Day 2’s range**, so:
+    - Worst case: you get stopped out with a **profit**, not a loss.
+
+### 4.3. Day 3: Large Open Profit – Aggressive Stop Tightening
+
+On Day 3, there is another good follow-through:
+
+- By Day 3, you might have around **14% profit**.
+- For a **sub-$10 stock**, a typical momentum burst target is around **20%**.
+- Even if you are happy with 14–15% in two to three days, you must **protect it aggressively**.
+
+Action on Day 3:
+
+- Move your stop **very aggressively**:
+  - Place it just below the Day 3 close.
+  - Typically **1–2% below the close**.
+- You may choose to risk only about **one-fourth of that day’s gain**.
+- The goal:
+  - Keep the majority of the profit.
+  - Accept that you might get stopped out but with a **solid gain**.
+
+### 4.4. Day 4: Bonus Day – Switch to Tight Trailing Stop
+
+Day 4 is treated as a **bonus**:
+
+- If the stock continues up on Day 4:
+  - You **shift your strategy to a trailing stop**.
+  - Use a **tight trailing stop**, e.g.:
+    - **1–2%** (or 2–3% in general trailing-stop terms mentioned later).
+- Implementation:
+  - As the stock goes up during the day, your stop trails the price.
+  - If the stock reverses, you get stopped out and **lock in profits**.
+
+Key point:
+
+- There is **no reason** to stay in a 4% breakout momentum burst trade **beyond Day 4 or Day 5**.
+- By this stage, the **profit-harvesting phase** should be complete.
+
+---
+
+## 5. Scenario 2: Delayed Follow-Through (Move Starts on Day 3)
+
+In this scenario, the stock does not move immediately after entry but eventually works.
+
+### 5.1. Day 1–2: No Move, Original Stop Intact
+
+- You enter on Day 1 with your initial stop (low of day or half-of-day).
+- Day 2:
+  - The stock **does not really move**; maybe a small up move but no real follow-through.
+  - You **do not move your stop**.
+  - You keep the **original stop** because nothing meaningful has happened yet.
+
+### 5.2. Day 3: Breakout Finally Works – Locking in Gains
+
+On Day 3, the stock finally makes a **good move**:
+
+- You know momentum bursts typically last **3–4 days**.
+- By Day 3, you might have around **10% profit**.
+
+Action:
+
+- Move your stop **very close to the Day 3 gain**:
+  - Protect **80–90%** of the profit you have by Day 3.
+  - Place the stop just below the Day 3 close (similar logic to Scenario 1, Day 3).
+
+### 5.3. Exit on Pullback After Day 3
+
+- On the next day (Day 4), the stock may **dip below your tightened stop**.
+- You get **stopped out** and exit the trade.
+- Result:
+  - You capture most of the 10% move.
+  - You do not hold on hoping for more once the momentum shows signs of stalling.
+
+---
+
+## 6. Scenario 3: No Follow-Through by Day 3 (Time Stop)
+
+This scenario covers trades that **never really get going**.
+
+### 6.1. Recognizing a Failed Momentum Burst
+
+- You buy a breakout on Day 1.
+- Day 2:
+  - The stock **does not follow through**.
+- Day 3:
+  - By **midday**, the stock still has **not made a meaningful move**.
+  - There is no real momentum burst.
+
+### 6.2. Midday Day 3 Exit Rule
+
+For every 4% breakout momentum burst trade:
+
+- There is a **time stop**:
+  - **By Day 3**, if the stock has not moved, the trade is considered **over**.
+- Specific rule:
+  - **By midday of Day 3**, if there is no follow-through:
+    - You **exit the trade**, regardless of:
+      - Small profit, or
+      - Small loss.
+- You do **not** stay in the trade hoping it will eventually work.
+- The absence of follow-through by Day 3 is itself a **signal to exit**.
+
+---
+
+## 7. General Rules for Stop Management in Momentum Burst Trades
+
+### 7.1. When to Move Stops
+
+- **Day 1**:
+  - Use initial stop (low of day or half-of-day).
+- **Day 2**:
+  - If there is **no real move**, keep the original stop.
+  - If there is **strong follow-through**, **tighten the stop** to reduce risk and lock in some profit.
+- **Day 3**:
+  - If the trade has worked (good profit), **move the stop close to the close**:
+    - Typically **1–2% below the close**.
+    - Aim to keep **80–90%** of the profit by Day 3.
+
+### 7.2. How Much Profit to Protect
+
+- By Day 3:
+  - You want to **protect the majority** of your gains:
+    - Keep **80–90%** of the open profit.
+- You should not be willing to give back a large portion of a 10–15% gain at this stage.
+
+### 7.3. Trailing Stop Parameters
+
+- On Day 4 (and possibly Day 5 if you are still in):
+  - Switch to a **trailing stop**.
+  - Typical trailing distance:
+    - **2–3% below the current price** (or as tight as 1–2% in strong moves).
+- As the stock moves up:
+  - The stop automatically moves up.
+- When the stock reverses:
+  - You get stopped out and **exit with profit**.
+
+### 7.4. Time Stop: Maximum Holding Period
+
+- Momentum burst trades are **3–5 day trades**:
+  - Most will be **3–4 days**.
+  - Very few should be held **beyond 5 days**.
+- If the stock has not moved by **midday of Day 3**, you **exit**:
+  - This is your **time stop**.
+- You do not convert a failed short-term momentum trade into a long-term hold.
+
+---
+
+## 8. Psychological and Behavioral Guidance
+
+### 8.1. Avoiding Greed and Unrealistic Expectations
+
+- After a strong move (e.g., 14–20% in a few days), it is easy to start fantasizing:
+  - That the stock will keep going up indefinitely.
+  - That you will make enough money to buy extravagant things.
+- This mindset leads to **not taking profits** and **giving back gains**.
+- The lesson emphasizes:
+  - **Do not expect endless continuation**.
+  - Treat Day 4 as a **bonus**, not the start of a new long-term trend.
+
+### 8.2. Avoiding Hope-Based Holding
+
+- When a stock does nothing for 2–3 days:
+  - Do not **hope** it will eventually move.
+  - If there is no follow-through by Day 3, **exit**.
+- When you have a profit:
+  - Do not hold on just because you **hope** for more.
+  - Use **rules** (tight stops, trailing stops, time stops) instead of hope.
+
+### 8.3. Importance of Trade Management vs. Entry
+
+- Managing the trade **after entry** is **as important** as:
+  - Finding the setup.
+  - Getting the entry right.
+- Your **profit outcome** is determined largely by:
+  - How you **move stops**.
+  - How you **harvest profits**.
+  - How you **respect time stops**.
+- A good entry without disciplined management will not produce consistent results.
+
+---
+
+This structured approach to managing 4% breakout momentum burst trades ensures that:
+
+- Risk is controlled from the start.
+- Profits are aggressively protected once the trade works.
+- Capital is not tied up in trades that fail to follow through.

@@ -1,0 +1,88 @@
+## Table of Contents
+
+1. Overview of the 4% Breakout Method  
+2. Expected Number of Trades per Year  
+   2.1. Market Conditions and Trade Frequency  
+   2.2. Focus on A-Quality Setups  
+3. Position Sizing and Its Impact on Trade Count  
+   3.1. Aggressive Sizing and Capital Constraints  
+   3.2. Balancing Number of Trades and Position Size  
+4. Win Rate, Trade Quality, and Compounding  
+   4.1. Importance of A-Quality Setups for Higher Win Rate  
+   4.2. Trade Frequency and Account Growth  
+   4.3. Risk of Too Many Low-Impact Trades  
+5. Practical Target: How Many Trades to Aim For  
+
+---
+
+## 1. Overview of the 4% Breakout Method
+
+The discussion centers on using a 4% breakout method for trading, and how many trades a trader can realistically expect to take in a year, along with how position sizing and trade quality affect results and account growth.
+
+---
+
+## 2. Expected Number of Trades per Year
+
+### 2.1. Market Conditions and Trade Frequency
+
+- The number of trades available with the 4% breakout method depends heavily on market conditions (bullish vs. bearish).  
+- In an average year, the probability is that the market will be bullish.  
+- In a bullish market, if you trade only A-quality setups using the 4% breakout method, you can expect roughly **200 to 250 potential trades** in a year.  
+- In a strong bull phase, these opportunities may cluster, giving more trades in a shorter period.
+
+### 2.2. Focus on A-Quality Setups
+
+- The count of 200–250 trades assumes you are **only trading A-quality setups**.  
+- A-quality setups are emphasized because they have a **higher probability of working**, which is crucial for both win rate and profitability.
+
+---
+
+## 3. Position Sizing and Its Impact on Trade Count
+
+### 3.1. Aggressive Sizing and Capital Constraints
+
+- Your ability to actually take all 200–250 trades is limited by your **position sizing**.  
+- If you use **aggressive sizing**, risking about **1% of your account per trade**, you may become **fully invested after just 3–4 trades**.  
+- Once fully invested, you may not have capital available for new trades for **3–4 days**, depending on how long existing trades are held.  
+- As a result, even though 200–250 A-quality setups may appear, you might only be able to **participate in 100–150 trades** in practice.
+
+### 3.2. Balancing Number of Trades and Position Size
+
+- There is a trade-off between:
+  - Taking **more trades** with smaller size, and  
+  - Taking **fewer trades** with larger, more aggressive size.  
+- Your sizing approach directly affects how many of the available A-quality setups you can actually trade.
+
+---
+
+## 4. Win Rate, Trade Quality, and Compounding
+
+### 4.1. Importance of A-Quality Setups for Higher Win Rate
+
+- The **single most important objective** is to ensure you **only trade A-quality setups**.  
+- A-quality setups:
+  - Have a **higher probability of success**.  
+  - Lead to a **higher win rate**.  
+- With a higher win rate, you can make **more money with fewer trades**, which is beneficial if your trade count is limited by capital or other constraints.
+
+### 4.2. Trade Frequency and Account Growth
+
+- To make a **meaningful difference** in your account, you must be able to do **enough trades**.  
+- If you cannot execute a sufficient number of trades, it becomes **difficult to compound your money** effectively over time.
+
+### 4.3. Risk of Too Many Low-Impact Trades
+
+- Doing **too many trades** while taking **only small profits** on each can lead to:
+  - A high trade count, but  
+  - **Little actual movement in your account equity**.  
+- The goal is not just more trades, but **high-quality trades that move the account meaningfully**.
+
+---
+
+## 5. Practical Target: How Many Trades to Aim For
+
+- Realistically, using only the 4% breakout method and focusing on A-quality setups, you should **aim for about 150 to 200 trades per year**.  
+- This target assumes:
+  - A generally bullish market environment.  
+  - Sensible position sizing that allows you to participate in a good portion of the A-quality opportunities.  
+- This range (150–200 trades) is presented as a **practical and meaningful** trade count for compounding and growing your account using the 4% breakout method alone, without combining it with other breakout strategies.

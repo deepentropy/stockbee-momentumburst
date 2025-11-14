@@ -1,0 +1,234 @@
+## Table of Contents
+
+1. Introduction to Momentum Burst (Part 2 Focus)  
+2. Definition of Range Expansion and Momentum Burst  
+3. Characteristics of the First Day of a Momentum Burst  
+4. Long-Side Examples of Range Expansion  
+   4.1 Beyond Meat (BYND) – 7% Range Expansion Leading to 28% Move  
+   4.2 Beyond Meat – 13% Range Expansion Leading to 10% Move  
+   4.3 Large Range Expansion Leading to 199% Move  
+   4.4 42% Range Expansion Leading to 102% Move in 7 Days  
+   4.5 Additional Range Expansion Leading to 102% Move in 5–6 Days  
+   4.6 Smaller 4.66% Range Expansion and Subsequent Move  
+5. Range Expansion on the Short Side  
+   5.1 Nvidia – Downside Range Expansion Leading to 16% Decline  
+   5.2 Nvidia – Upside Range Expansion and Subsequent Rally  
+6. General Rules and Behavior of Range Expansion  
+7. Reliability, Limitations, and Practical Implications  
+
+
+---
+
+## 1. Introduction to Momentum Burst (Part 2 Focus)
+
+This lesson is Part 2 of a series on momentum bursts.  
+The focus here is specifically on:
+
+- What starts a momentum burst.
+- How the first day of a momentum burst looks on a chart.
+- How to recognize this “start” using range expansion or a large candle.
+
+The goal is to understand this pattern so it can be identified in real stocks in real time.
+
+
+## 2. Definition of Range Expansion and Momentum Burst
+
+**Momentum Burst:**  
+A short-term, powerful move in a stock, typically lasting about 3–5 days (sometimes a bit longer), where the stock moves strongly in one direction.
+
+**Range Expansion (Start of Momentum Burst):**
+
+- A day where the stock’s price movement (the daily bar or candle) is significantly larger than recent days.
+- Often appears after the stock has:
+  - Been going sideways, or  
+  - Been going down, or  
+  - Been making only minor moves.
+- This large bar or big candle is the **trigger** that starts the momentum burst.
+
+The **magnitude** of that first day is important. It should be clearly larger than the prior 3–4 days, indicating a real burst of momentum.
+
+
+## 3. Characteristics of the First Day of a Momentum Burst
+
+Key features of the first day:
+
+- **Large Candle / Big Bar:**  
+  The daily bar is visibly bigger than the bars of the last 3–4 days.
+
+- **Range Expansion:**  
+  The day’s range (high–low) and/or percentage move is much larger than recent days.
+
+- **Directional Signal:**  
+  - If the range expansion is **positive** (up day), it often signals a move **up** for the next 3–5 days.  
+  - If the range expansion is **negative** (down day), it often signals a move **down** for the next 3–5 days.
+
+- **Context:**  
+  The stock is usually:
+  - Not making big moves just before this day.
+  - Either drifting down, pulling back, or moving sideways.
+
+This first large bar is what kicks off the momentum burst phase.
+
+
+## 4. Long-Side Examples of Range Expansion
+
+These examples illustrate how a range expansion day starts a momentum burst to the upside.
+
+### 4.1 Beyond Meat (BYND) – 7% Range Expansion Leading to 28% Move
+
+- Before the move:
+  - The stock was not making a big move.
+  - It had been going down for 3–4 days.
+- Range expansion day:
+  - The stock moved up about **7%** in a single day.
+  - This day’s bar was clearly larger than the prior days.
+- After the range expansion:
+  - For the next **3–5 days**, the stock kept going up.
+  - The total move from that start was about **28%**.
+- Interpretation:
+  - This 7% day was the **start of a momentum burst**.
+
+### 4.2 Beyond Meat – 13% Range Expansion Leading to 10% Move
+
+- Before the move:
+  - The stock was not making a big move.
+  - It was having a **minor pullback**.
+- Range expansion day:
+  - A big day compared to the last 3–4 days.
+  - The stock was up about **13%**.
+- After the range expansion:
+  - This started another momentum burst.
+  - Over the next **3 days**, the stock moved about **10%**.
+- Interpretation:
+  - Again, the large bar (13% up) marked the **start of a new momentum burst**.
+
+### 4.3 Large Range Expansion Leading to 199% Move
+
+- Setup:
+  - The stock had relatively small bars before the move.
+- Range expansion day:
+  - A big day compared to all other recent days.
+  - Clear range expansion / large candle.
+- After the range expansion:
+  - From that day, the stock entered a momentum phase.
+  - The stock ultimately made a move of about **199%**.
+- Interpretation:
+  - The big bar was the **start of a very powerful momentum burst**.
+
+### 4.4 42% Range Expansion Leading to 102% Move in 7 Days
+
+- Before the move:
+  - The stock was not going up for 3–4 days.
+  - It was essentially flat or quiet.
+- Range expansion day:
+  - A very clear, large range expansion.
+  - The stock was up about **42%** in one day.
+- After the range expansion:
+  - This kicked off a momentum phase.
+  - Over the next **7 days**, the stock kept going up.
+  - The total move in those 7 days was about **102%**.
+- Interpretation:
+  - A very strong example of a range expansion starting a multi-day momentum burst.
+
+### 4.5 Additional Range Expansion Leading to 102% Move in 5–6 Days
+
+- Another example on the same stock:
+  - Again, a clear momentum burst started by a big bar.
+- Range expansion day:
+  - A large bar indicating strong momentum.
+- After the range expansion:
+  - In about **5–6 days**, the stock made a move of about **102%**.
+- Interpretation:
+  - Repeated pattern: big bar → 3–7 day momentum burst.
+
+### 4.6 Smaller 4.66% Range Expansion and Subsequent Move
+
+- Range expansion day:
+  - This day’s bar was bigger than any of the recent days.
+  - The stock was up about **4.66%**.
+- After the range expansion:
+  - The stock kept going up from that point.
+- Additional observations:
+  - There were other range expansions on the same stock:
+    - Some led to good moves.
+    - One example: a range expansion that **did not** lead to much of a move.
+- Interpretation:
+  - Even a relatively smaller percentage move (4.66%) can be a range expansion if it is clearly larger than the prior 3–4 days.
+  - Not every range expansion leads to a big follow-through, but many do.
+
+
+## 5. Range Expansion on the Short Side
+
+Range expansion works similarly on the downside: a large negative bar can start a downward momentum burst.
+
+### 5.1 Nvidia – Downside Range Expansion Leading to 16% Decline
+
+- Range expansion day:
+  - A **big range expansion to the downside**.
+  - The bar was much larger than recent bars.
+- After the range expansion:
+  - Over the next **3–5 days**, the stock went down about **16%**.
+- Interpretation:
+  - A large negative bar signaled a momentum burst **down**.
+
+### 5.2 Nvidia – Upside Range Expansion and Subsequent Rally
+
+- Range expansion day:
+  - A **range expansion to the upside**.
+  - The bar was bigger than the bars in the last 3–4 days.
+- After the range expansion:
+  - From that day, the stock kept going up for the next **3–5 days**.
+- Interpretation:
+  - The direction of the range expansion (up or down) indicates the likely direction of the next 3–5 days.
+
+
+## 6. General Rules and Behavior of Range Expansion
+
+From all the examples, the following general behavior emerges:
+
+1. **Range Expansion = Start of Momentum Burst**
+   - At the beginning of any momentum burst (long or short), you typically see a **large range expansion bar**.
+   - This bar is larger than the prior 3–4 days’ bars.
+
+2. **Direction of Move**
+   - Positive range expansion (big up day) → stock tends to move **up** for the next 3–5 days.
+   - Negative range expansion (big down day) → stock tends to move **down** for the next 3–5 days.
+
+3. **Time Frame of the Burst**
+   - The momentum burst typically lasts about **3–5 days**.
+   - In some examples, the move extended to **7 days**.
+
+4. **Visual Clarity**
+   - On a chart, the range expansion day stands out:
+     - The candle is visibly larger than recent candles.
+     - It is a clear “big bar” relative to the last 3–4 days.
+
+5. **Applies to Both Sides**
+   - The concept works on:
+     - The **long side** (upside bursts).
+     - The **short side** (downside bursts).
+
+
+## 7. Reliability, Limitations, and Practical Implications
+
+- **Powerful but Not Perfect**
+  - Range expansion is described as a **powerful signal**.
+  - It tells you that the stock is likely to go up or down in the direction of the range expansion for the next 3–5 days.
+  - However:
+    - **Not every range expansion will have follow-through.**
+    - Some range expansions will fail or lead to only small moves.
+
+- **Frequency and Usefulness**
+  - Enough range expansions in a year **do** have follow-through to make this a useful and powerful concept for traders.
+  - The key is to recognize:
+    - The **start** of the move (the big bar).
+    - The **direction** indicated by that bar.
+
+- **Practical Takeaway**
+  - At the beginning of any momentum burst, look for:
+    - A **large range expansion bar** compared to the last 3–4 days.
+  - Use the direction of that bar (up or down) to anticipate:
+    - A **3–5 day move** in the same direction.
+  - Understand that:
+    - Range expansion is a **signal**, not a guarantee.
+    - It is most valuable because a significant number of these signals lead to strong, tradable momentum bursts.

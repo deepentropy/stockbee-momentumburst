@@ -1,0 +1,92 @@
+## Table of Contents
+
+1. Overview of the Two-Inch Setup  
+2. Importance of Recognizing Variations  
+   2.1. Length of Consolidation  
+   2.2. Acceptable Price Behavior During Consolidation  
+3. Example: ENTA Two-Inch Setup  
+   3.1. First Leg Characteristics  
+   3.2. Consolidation Phase Details  
+   3.3. Breakout Characteristics  
+4. Practical Criteria and Preferences  
+   4.1. Minimum Consolidation Duration  
+   4.2. Longer Consolidations That Still Qualify  
+   4.3. Confirming the Setup Meets Two-Inch Criteria  
+
+
+---
+
+## 1. Overview of the Two-Inch Setup
+
+The “two-inch” setup is a specific breakout pattern used in day and swing trading. While it has a core structure, it can appear in multiple variations. Understanding these variations is essential to correctly identify valid setups rather than rigidly expecting only one exact pattern.
+
+---
+
+## 2. Importance of Recognizing Variations
+
+### 2.1. Length of Consolidation
+
+- The consolidation phase before the breakout can vary in length.  
+- Sometimes consolidation is **just three days**.  
+- Sometimes it can be **longer** and still fully meet the two-inch criteria.  
+- The trader emphasizes that knowing and recognizing these variations is important for effective trading.
+
+### 2.2. Acceptable Price Behavior During Consolidation
+
+- During consolidation, the stock may have **some negative (down) days**.  
+- However, these down days must **not** include a **4% breakdown** or larger.  
+- The acceptable pattern is essentially **sideways movement** without significant breakdowns.
+
+---
+
+## 3. Example: ENTA Two-Inch Setup
+
+The stock ENTA is used as an example of a valid two-inch setup with a slightly different “flavor” from earlier examples.
+
+### 3.1. First Leg Characteristics
+
+- ENTA shows a clear **first leg up** before consolidation.  
+- This first leg is characterized by **aggressive buying**.  
+- The setup is described as a **“young” setup**, implying it is early in its move, not an extended or late-stage pattern.
+
+### 3.2. Consolidation Phase Details
+
+- After the first leg, ENTA goes into a **longer consolidation** period.  
+- The stock **goes sideways** for a longer time rather than just a brief pause.  
+- There are **some negative days**, but:
+  - No day shows a **4% or more breakdown**.
+  - The overall structure remains intact and sideways, not a deep pullback.
+
+### 3.3. Breakout Characteristics
+
+- After the sideways consolidation, ENTA has a **clean breakout**:
+  - The stock **closes near the high of the day**.
+  - The breakout day does **not** show the stock being **up two days in a row** into the breakout; it breaks out cleanly from the consolidation.
+  - There is **no significant giving up of gains** intraday; the move holds into the close.
+- This behavior fits the desired breakout profile for the two-inch setup.
+
+---
+
+## 4. Practical Criteria and Preferences
+
+### 4.1. Minimum Consolidation Duration
+
+- The trader **likes at least three days of consolidation** before the breakout.  
+- **Less than three days** of consolidation is **not preferred** for this setup.
+
+### 4.2. Longer Consolidations That Still Qualify
+
+- Consolidation can be **longer than three days** and still be a valid two-inch setup.  
+- ENTA is presented as an example of a **longer consolidation** that still qualifies:
+  - Strong first leg with aggressive buying.
+  - Sideways action without a 4% breakdown.
+  - Clean breakout afterward.
+
+### 4.3. Confirming the Setup Meets Two-Inch Criteria
+
+- Even with variations in consolidation length and minor negative days, the key question is:  
+  **Does it meet the two-inch criteria?**  
+- In the ENTA example, the answer is **yes**:
+  - Young setup with a strong first leg.
+  - Sideways consolidation without major breakdowns.
+  - Clean breakout with a close near the high and no loss of gains.

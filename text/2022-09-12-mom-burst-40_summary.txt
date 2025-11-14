@@ -1,0 +1,222 @@
+## Table of Contents
+
+1. Introduction: Context of the Setup  
+2. Conventional Trade Management (Beginner Focus)  
+3. Advanced Position Management Concepts  
+   3.1. Large Position Sizing (40–80% of Account)  
+   3.2. Increasing Risk per Trade (1% vs. 2%)  
+4. The 80–20 Technique (Partial Profit-Taking)  
+   4.1. How 80–20 Works  
+   4.2. When 80–20 Makes Sense  
+   4.3. Example: Tripling Position on a “W” Pattern  
+5. Requirements and Prerequisites for Using Advanced Techniques  
+   5.1. Need for Experience and High Win Rate  
+   5.2. Problems Beginners Face with Advanced Tactics  
+6. When Partial Profit-Taking Is Not Useful  
+   6.1. Small Position Sizes (5–10% of Account)  
+   6.2. Psychological and Decision-Making Issues  
+7. Summary Guidance on Progression and Study  
+
+
+---
+
+## 1. Introduction: Context of the Setup
+
+The lesson assumes you already know a basic swing trading setup, including:
+- How to **find** the setup.
+- How to **enter** the trade.
+- How to **exit** the trade using a conventional stop.
+
+The focus here is on **how to manage the position** once you have experience with the setup and want to **increase profitability** by using more advanced trade management techniques.
+
+---
+
+## 2. Conventional Trade Management (Beginner Focus)
+
+For beginners, the recommended approach is:
+- Use a **simple, conventional method**:
+  - Standard position sizing (e.g., 5–10% of account per trade).
+  - A **normal stop** (e.g., based on the day’s range or a predefined risk).
+- Focus on:
+  - Executing the setup consistently.
+  - Building a **good win rate**.
+  - Gaining experience over **years**, not weeks.
+
+Advanced techniques should **not** be the starting point. First, become consistently profitable with the basic method.
+
+---
+
+## 3. Advanced Position Management Concepts
+
+Once you have **enough experience** and a **good win rate**, you can consider more aggressive ways to manage trades.
+
+### 3.1. Large Position Sizing (40–80% of Account)
+
+If you place a **tight stop** (e.g., half of the day’s range), your risk per share is smaller. This allows you to:
+- Put **much more capital** into the trade:
+  - Instead of 5–10% of your account, you might allocate **40–50%**, or even **60–80%** of your account on a single swing trade.
+
+This large size creates:
+- Higher **profit potential**.
+- Higher **concentration risk**, which must be managed carefully.
+
+### 3.2. Increasing Risk per Trade (1% vs. 2%)
+
+Another advanced adjustment is to **increase the percentage of account risked per trade**:
+- Conventional risk: **1%** of account per trade.
+- Advanced risk: **2%** of account per trade.
+
+In the example referenced:
+- At **2% risk**, with a tight stop, you can end up with **almost 100% of your capital** in a single swing trade.
+- In such a case, it becomes **very important** to manage the position actively, including taking partial profits to:
+  - **Reduce risk**.
+  - **Free up capital** for the next breakout.
+
+---
+
+## 4. The 80–20 Technique (Partial Profit-Taking)
+
+### 4.1. How 80–20 Works
+
+The **80–20 technique** is an advanced method of **partial profit-taking** and **position management**:
+- You **enter a large position** (often much larger than your normal swing size).
+- As the trade moves in your favor:
+  - You **take 80% of the position off** (lock in profits).
+  - You **keep 20%** of the position to capture any further move.
+
+This can be done:
+- On the **second day**.
+- On the **third day**.
+- Or at a point where the move has already given a good profit.
+
+This approach is sometimes referred to as:
+- **“Pilling a position”** (building and then peeling off).
+- Related to **reverse pyramid** concepts (building larger early, then reducing size as the move matures).
+
+### 4.2. When 80–20 Makes Sense
+
+80–20 and similar partial profit techniques make sense **only when**:
+- You are using **large position sizes**:
+  - Typically **50–60–70–80%** of your account in a single swing trade.
+- You are **risking more** (e.g., 2% of account) and thus have a **very concentrated** position.
+
+In that context:
+- Taking **80% off**:
+  - Reduces risk significantly.
+  - Frees capital for **new breakouts**.
+  - Still leaves a **20% runner** to benefit from any extended move.
+
+If you are **not** using large size, the benefit of 80–20 is minimal.
+
+### 4.3. Example: Tripling Position on a “W” Pattern
+
+In some advanced scenarios:
+- On a pattern like a **“W”** (double-bottom type structure), the trader may:
+  - **Triple** the position size compared to what they would normally take on a standard swing.
+  - Then, as the trade works:
+    - **Take 80% off** on the **second or third day**.
+    - Keep the remaining **20%** to see if the move extends further.
+
+This is a **highly aggressive** tactic and is only suitable for traders who:
+- Have **mastered** the basic setup.
+- Have traded it successfully for **years**.
+
+---
+
+## 5. Requirements and Prerequisites for Using Advanced Techniques
+
+### 5.1. Need for Experience and High Win Rate
+
+Advanced techniques like:
+- 80–20 partial profit-taking,
+- Large position sizing (60–80% of account),
+- Reverse pyramiding,
+
+should only be used by traders who:
+- Have **mastered** the basic setup.
+- Have traded it successfully for a **couple of years**.
+- Have a **good win rate**.
+
+Without a solid foundation:
+- These techniques will not increase profitability.
+- They will likely **complicate** your trading and **worsen** results.
+
+### 5.2. Problems Beginners Face with Advanced Tactics
+
+If a trader:
+- Does **not** have a good win rate, and
+- Tries to use advanced techniques,
+
+then:
+- The trading process becomes **more complicated**.
+- Risk of **large drawdowns** increases due to big position sizes.
+- The trader may **not execute** the techniques correctly, leading to:
+  - Poor exits.
+  - Inconsistent decisions.
+  - Overall **suboptimal performance**.
+
+For beginners, these methods are **not recommended**.
+
+---
+
+## 6. When Partial Profit-Taking Is Not Useful
+
+### 6.1. Small Position Sizes (5–10% of Account)
+
+If you are trading:
+- **Small positions**, such as **5–10%** of your account per trade,
+
+then:
+- **Partial profit-taking (pilling)** does **not** significantly increase profitability.
+- Taking 80% off a small position does not meaningfully change:
+  - Risk profile.
+  - Capital availability.
+  - Overall returns.
+
+In such cases, partial profit-taking:
+- Adds complexity without real benefit.
+
+### 6.2. Psychological and Decision-Making Issues
+
+Using partial profit-taking with small size often leads to **psychological problems**:
+- Constantly asking:
+  - “When should I peel?”
+  - “Should I take profits now or later?”
+- Common mistakes:
+  - **Peeling too early** and missing a big move.
+  - **Not peeling at the right time**, giving back profits.
+
+The result:
+- You **sub-optimize** the trade.
+- Your thinking becomes **confused** and **inconsistent**.
+- Your overall trading becomes **less effective**.
+
+Therefore, partial profit-taking is only recommended when:
+- You are using **large size**, and
+- You have the **experience** to manage it.
+
+---
+
+## 7. Summary Guidance on Progression and Study
+
+- **Step 1: Master the basics**
+  - Use conventional position sizing (e.g., 5–10% of account).
+  - Use standard stops and exits.
+  - Focus on building a **high win rate** and consistent execution.
+
+- **Step 2: Trade the setup for years**
+  - Gain **real experience** with the setup.
+  - Understand its behavior across different markets.
+
+- **Step 3: Gradually adopt advanced techniques**
+  - Only after mastering the setup, consider:
+    - Larger position sizes (40–80% of account).
+    - Higher risk per trade (e.g., 2%).
+    - Advanced methods like **80–20**, **pilling**, and **reverse pyramiding**.
+
+- **Step 4: Use advanced techniques selectively**
+  - Only when:
+    - You are putting **large capital** into a trade.
+    - You need to **manage risk** and **free capital** for new opportunities.
+
+The advanced techniques discussed (80–20, pilling, reverse pyramid) are intended for a **separate advanced section** and are **not** for beginners. Beginners should focus on the **conventional approach** until they have proven, long-term success with the basic setup.

@@ -1,0 +1,137 @@
+## Table of Contents
+
+1. Overview of the “Tool Inch” Setup  
+2. Market and Sector Bottoms as Context  
+3. Structure of a High-Quality Tool Inch Setup  
+   3.1. First Leg of the Move  
+   3.2. Consolidation Characteristics  
+   3.3. Breakout Day Characteristics  
+4. Example: Biotechnology Stocks Near Lows  
+5. Using the 4% Breakout Scan  
+6. Probability and Timing of Breakouts  
+   6.1. Why First-Leg Setups Are High Probability  
+   6.2. Increased Failure Rate Later in the Move  
+
+
+---
+
+## 1. Overview of the “Tool Inch” Setup
+
+The “tool inch” setup is a breakout pattern that often appears when a stock, sector, or the overall market has recently put in a bottom and then starts turning up. The setup is especially powerful when it occurs early in a new up-leg, after a clear bottoming process.
+
+Key idea:  
+- You may not capture the very first tick off the bottom, but the second leg of the move can develop very quickly and offer a strong, tradable opportunity.
+
+---
+
+## 2. Market and Sector Bottoms as Context
+
+Tool inch setups frequently appear:
+
+- After the **overall market** has formed a bottom and begins to turn up.  
+- After a **specific sector** (e.g., biotechnology) has bottomed and starts to recover.
+
+In these environments:
+
+- Multiple stocks in the same sector can show similar bottoming and turning patterns at roughly the same time.  
+- The setups that form near these lows can be particularly powerful because they are aligned with a fresh, emerging uptrend.
+
+---
+
+## 3. Structure of a High-Quality Tool Inch Setup
+
+A good tool inch setup has a clear, structured sequence:
+
+### 3.1. First Leg of the Move
+
+- The stock has been **going down** and then **turns** (puts in a bottom).  
+- The **first leg up** after this turn is:
+  - **Very linear** (price moves up in a relatively straight, consistent manner).  
+  - Shows **a lot of buying** and **hardly any selling**.  
+- This first leg indicates strong demand and the presence of committed buyers.
+
+### 3.2. Consolidation Characteristics
+
+After the first leg up:
+
+- The stock enters an **orderly consolidation**.  
+- Consolidation features:
+  - **Orderly** price action (no wild swings).  
+  - **Narrow** range or even a **negative day** just prior to the breakout.  
+- The consolidation suggests that:
+  - Buyers are **still in control**.  
+  - There is **no significant profit-taking** or distribution.  
+  - The stock is **resting** before the next move higher.
+
+### 3.3. Breakout Day Characteristics
+
+On the breakout day:
+
+- The stock **breaks out of the consolidation**.  
+- The **breakout day closes near the high** of the day.  
+- This confirms:
+  - Strong buying pressure into the close.  
+  - Continuation of the uptrend that started with the first leg.
+
+When all these elements are present—linear first leg, orderly consolidation, and a breakout closing near the high—the stock often makes a **strong follow-through move**.
+
+---
+
+## 4. Example: Biotechnology Stocks Near Lows
+
+An example mentioned is a setup in **biotechnology stocks**:
+
+- Many biotech names formed bottoms around the same time as the market.  
+- After bottoming, they showed:
+  - A **strong first leg up** with heavy buying and minimal selling.  
+  - **Orderly consolidations** near the lows.  
+  - **Breakouts** that fit the tool inch definition.
+
+These examples illustrate how tool inch setups can work **very well near lows**, especially when both the sector and the broader market share similar bottoming and turning patterns.
+
+---
+
+## 5. Using the 4% Breakout Scan
+
+To find these setups in real time:
+
+- Run a **4% breakout scan**.  
+- When you see a stock that:
+  - Has just put in a bottom,  
+  - Shows a **linear first leg up**,  
+  - Has an **orderly consolidation**, and  
+  - Is now breaking out by around **4% or more**,  
+- That is when you should **get excited** and pay close attention.
+
+The **best candidates** are those that are in the **first leg** of a new move after a bottom, not those that are already extended after multiple legs up.
+
+---
+
+## 6. Probability and Timing of Breakouts
+
+### 6.1. Why First-Leg Setups Are High Probability
+
+The **first tool inch setup** that forms after a bottom is the **highest probability**:
+
+- Strong initial buying shows **fresh demand**.  
+- Small, orderly consolidation indicates **buyers are not exiting**.  
+- The stock has **room to run**, as the new uptrend is just beginning.
+
+Because of this, the first-leg tool inch setup can “really keep on going up” once it breaks out.
+
+### 6.2. Increased Failure Rate Later in the Move
+
+As the move progresses:
+
+- The **later** you try to trade breakouts in the same stock (after multiple legs up),  
+- The **higher the failure rate** of those breakouts.
+
+Reason:
+
+- Later-stage breakouts occur after much of the move may already be done.  
+- There is more risk of:
+  - Exhaustion of buyers.  
+  - Increased profit-taking.  
+  - Failed breakouts and reversals.
+
+Therefore, focus your efforts on **early, first-leg tool inch setups** near bottoms, and be cautious with **late-stage breakouts** that occur after the stock has already moved significantly.

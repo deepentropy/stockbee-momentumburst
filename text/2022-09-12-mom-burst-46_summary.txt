@@ -1,0 +1,183 @@
+## Table of Contents
+
+1. Introduction to 4% Breakout Trading  
+2. The Challenge: Too Many Breakout Candidates  
+3. Using Filters to Manage 4% Breakout Lists  
+   3.1. Overview of Filter Use  
+   3.2. The TI65 Momentum Filter  
+4. Implementing the TI65 Filter in TC2000  
+   4.1. Base 4% Breakout Scan  
+   4.2. TI65 Formula and Logic  
+   4.3. Effect on Number of Breakouts  
+5. Choosing TI65 Thresholds (1.05 vs 1.19)  
+   5.1. TI65 ≥ 1.05: Moderate Momentum Filter  
+   5.2. TI65 ≥ 1.19: Strict Momentum Filter  
+6. When to Use or Avoid TI65 Filters  
+   6.1. Market Conditions and Missed Opportunities  
+   6.2. Suitability for Busy Traders  
+7. Psychological and Practical Advice on Using Filters  
+
+
+---
+
+## 1. Introduction to 4% Breakout Trading
+
+When trading the 4% breakout method, a scan will typically return a large number of stocks that moved 4% or more in a day. This is the core setup being discussed: identifying daily 4% breakouts and then selecting which ones to trade.
+
+---
+
+## 2. The Challenge: Too Many Breakout Candidates
+
+- On a typical day, a 4% breakout scan can show:
+  - 100–150 stocks, and  
+  - Sometimes 300–400 stocks, or even more in very bullish markets.
+- For beginners or traders with limited time, this volume of candidates can be overwhelming.
+- Therefore, filters can be used to reduce the list to a more manageable number.
+
+---
+
+## 3. Using Filters to Manage 4% Breakout Lists
+
+### 3.1. Overview of Filter Use
+
+- Filters are optional tools to:
+  - Reduce the number of breakout stocks you need to review.
+  - Focus on stocks with certain desirable characteristics (e.g., established momentum).
+- The instructor currently does **not** use filters in his own trading, but:
+  - He has used them in the past.
+  - They are useful for traders who:
+    - Don’t have enough time to go through every 4% breakout.
+    - Feel overwhelmed by large breakout lists.
+
+### 3.2. The TI65 Momentum Filter
+
+- One key filter discussed is the **TI65 filter**, which focuses on **established momentum**.
+- Purpose:
+  - Select only those breakout stocks that already have a defined momentum trend.
+  - Reduce the number of candidates while maintaining quality.
+
+---
+
+## 4. Implementing the TI65 Filter in TC2000
+
+### 4.1. Base 4% Breakout Scan
+
+In TC2000, you start with a basic 4% breakout scan that typically includes conditions such as:
+
+- Stock has moved at least 4% (the breakout condition).
+- Price is above $3 (a price filter).
+- This base scan might initially return dozens of stocks (e.g., 73 in the example).
+
+### 4.2. TI65 Formula and Logic
+
+To add the TI65 momentum filter in TC2000, you write a formula:
+
+- **Formula:**
+
+  `Average(C, 7) / Average(C, 65) >= X`
+
+  In the transcription, it is described as:
+
+  - `average C7 / average C65 >= 1.05` (for the 1.05 threshold case)
+
+- Interpretation:
+  - `Average C7` = 7-day average closing price.
+  - `Average C65` = 65-day average closing price.
+  - The ratio measures **trend intensity / momentum**.
+  - A value above 1 means the recent price (7-day average) is above the longer-term average (65-day), indicating upward momentum.
+- This is used as a **momentum indicator** to ensure you are only selecting stocks with **established momentum**.
+
+### 4.3. Effect on Number of Breakouts
+
+- Example given:
+  - Before TI65 filter: 73 breakout stocks.
+  - After applying TI65 ≥ 1.05: reduced to 24 breakout stocks.
+- Result:
+  - You significantly reduce the number of breakouts.
+  - You focus only on stocks with established momentum that also:
+    - Broke out by 4%,
+    - Are priced above $3.
+
+---
+
+## 5. Choosing TI65 Thresholds (1.05 vs 1.19)
+
+### 5.1. TI65 ≥ 1.05: Moderate Momentum Filter
+
+- Condition: `Average C7 / Average C65 >= 1.05`
+- Characteristics:
+  - Moderately restrictive.
+  - Filters out weaker or non-trending stocks.
+  - Keeps a reasonable number of candidates.
+- Recommended usage:
+  - Considered a **better default filter** than 1.19.
+  - Useful when:
+    - You want to reduce the list but still capture many good opportunities.
+    - The market is bullish and you are getting many breakouts.
+
+### 5.2. TI65 ≥ 1.19: Strict Momentum Filter
+
+- Condition: `Average C7 / Average C65 >= 1.19`
+- Characteristics:
+  - Much more restrictive.
+  - Focuses on stocks with very strong, established momentum.
+  - Often these stocks also show **linearity** in their trend (smooth, strong uptrend).
+  - The number of candidates becomes very small.
+- Recommended usage:
+  - Suitable for traders who:
+    - Are very busy.
+    - Only want to focus on a few, very strong momentum stocks.
+  - However, it can be **too restrictive** and may cause you to miss many good trades.
+
+---
+
+## 6. When to Use or Avoid TI65 Filters
+
+### 6.1. Market Conditions and Missed Opportunities
+
+- The instructor used TI65 filters for many years but later stopped using them.
+- Reason for stopping:
+  - After studying 4% breakouts more deeply, he found that:
+    - These filters can cause you to **miss very good trades**, especially:
+      - At the **beginning of a bull market**, when:
+        - Many stocks have not yet developed a high trend intensity (e.g., TI65 above 1.05).
+- Market phase matters:
+  - **Early bull market**:
+    - Fewer stocks have strong established momentum.
+    - Strict momentum filters can exclude early leaders.
+  - **Established strong bull market**:
+    - Many stocks show strong momentum.
+    - Filters like TI65 can be helpful to manage very large breakout lists (e.g., 800–1500 stocks).
+
+### 6.2. Suitability for Busy Traders
+
+- Filters are particularly useful if:
+  - You do not have time to go through every 4% breakout.
+  - You are overwhelmed by large numbers of candidates.
+- In very wild bullish markets:
+  - You may see 800, 1000, or 1500 stocks in your 4% breakout scan.
+  - TI65 filters (especially 1.05) can help reduce this to a manageable number.
+- Personal practice of the instructor:
+  - Currently does **not** use these filters.
+  - But acknowledges they are a **valid way** to handle large lists and focus on momentum.
+
+---
+
+## 7. Psychological and Practical Advice on Using Filters
+
+- Filters are tools to:
+  - Reduce the number of stocks you review.
+  - Potentially increase the probability that your breakouts work.
+  - Potentially improve your win rate.
+- However, whenever you add a filter:
+  - **Think through the filter carefully**:
+    - Understand what it is doing.
+    - Understand what kinds of trades you might be excluding.
+  - Use filters that:
+    - Increase the probability of success.
+    - Align with your time constraints and trading style.
+- Key trade-off:
+  - More filters = fewer candidates, higher average quality, but more missed opportunities.
+  - Fewer or no filters = more candidates, more work, but more chances to catch early moves.
+
+In summary, TI65 filters (1.05 and 1.19) are optional momentum-based tools to manage large 4% breakout lists. They are especially useful in strong bull markets or for busy traders, but can be too restrictive in early bull phases and may cause missed opportunities. Use them thoughtfully, with clear awareness of their impact on your trade selection and win rate.

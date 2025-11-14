@@ -1,0 +1,313 @@
+## Table of Contents
+
+1. Introduction  
+2. Setting Up the Base Chart in TC2000  
+   2.1 Open a New Blank Chart  
+   2.2 Adjust Chart Properties (Candles, Grid, Watermark, Scaling)  
+3. Adding and Formatting Volume  
+4. Creating the 4% Breakout (Bullish) Indicator  
+   4.1 Add a Custom PCF True Indicator  
+   4.2 Visual Formatting (Area, Color, Fill)  
+   4.3 Bullish 4% Breakout Formula  
+   4.4 Visual Interpretation on Different Stocks  
+5. Creating the 4% Breakdown (Bearish) Indicator  
+   5.1 Add a Second Custom PCF True Indicator  
+   5.2 Visual Formatting (Area, Color, Fill)  
+   5.3 Bearish 4% Breakdown Formula  
+   5.4 Overlaying Bullish and Bearish in One Panel  
+6. Arranging Panels: Price, 4% Panel, and Volume  
+7. Adding the Trend Intensity (TI 65) Indicator  
+   7.1 Bullish Trend Intensity (TI)  
+   7.2 Bearish Trend Intensity (TI)  
+   7.3 Overlaying TI on the Volume Panel  
+8. Saving the Complete 4% Chart Template  
+9. Practical Use and Visual Advantages  
+
+---
+
+## 1. Introduction
+
+This lesson explains how to set up a **4% breakout and breakdown chart template** in TC2000.  
+The goal is to:
+
+- Visually mark days when a stock moves **+4% or more** (breakout) or **−4% or more** (breakdown) on higher volume.  
+- Add a **Trend Intensity (TI 65)** indicator to understand whether the stock is in a bullish or bearish trend.  
+- Create a reusable chart template that can be applied to any stock to quickly see 4% moves and trend context.
+
+---
+
+## 2. Setting Up the Base Chart in TC2000
+
+### 2.1 Open a New Blank Chart
+
+1. In TC2000, start with a **new chart**:
+   - Either click the **new chart symbol** on the layout, or  
+   - Go to **Chart → Blank Chart**.
+2. This opens a default price chart based on your current settings.
+
+### 2.2 Adjust Chart Properties (Candles, Grid, Watermark, Scaling)
+
+1. **Edit Chart Properties**:
+   - Set chart type to **Candlestick**.
+   - Change candle color:
+     - Set candles to **black** instead of green (for a cleaner look).
+
+2. **Grid Lines**:
+   - If you don’t want horizontal/vertical grid lines, set their value to **0** to remove them and get a clean chart.
+
+3. **Watermark**:
+   - Adjust watermark visibility (symbol name in the background) using the watermark settings:
+     - You can make it lighter or bolder depending on preference.
+
+4. **Right-Side Gap (Price Padding)**:
+   - There is often an unnecessary gap between the last price bar and the right edge of the chart.
+   - Use the **small triangle** on the right edge of the chart to drag the price bars closer to the edge and remove that gap.
+
+5. **Vertical Scaling**:
+   - If the chart looks too “tall” or compressed, adjust the vertical scale:
+     - Use the **triangle** on the price scale to bring the scale down to around **40–50%** for a more natural look.
+
+At this point, you have a clean price-only chart ready for indicators.
+
+---
+
+## 3. Adding and Formatting Volume
+
+1. **Add Volume Plot**:
+   - Right-click (or left-click depending on your setup) on the chart and choose **Edit → Add Plot**.
+   - Search for **Volume** and add it.
+
+2. **Remove Volume Moving Average (Optional)**:
+   - By default, TC2000 adds a **50-period moving average** on volume.
+   - If you don’t need it, remove it from the volume plot.
+
+3. **Volume Colors**:
+   - By default, volume bars may be green/red.
+   - Change them to:
+     - **Black** and **red** (as used in the lesson) for consistency and clarity.
+
+4. **Resize Volume Panel**:
+   - Drag the panel boundary to make the volume window smaller so price remains the main focus.
+
+---
+
+## 4. Creating the 4% Breakout (Bullish) Indicator
+
+### 4.1 Add a Custom PCF True Indicator
+
+1. On the chart, **Add Plot → Custom PCF % True Indicator**.
+2. This type of indicator is used because the 4% breakout condition is **true/false** (yes/no).
+
+By default, TC2000 inserts a formula like `C / C1`, which you will replace.
+
+### 4.2 Visual Formatting (Area, Color, Fill)
+
+1. Edit the newly added indicator:
+   - Change **Plot Type** from **Line** to **Area**.
+   - Set **Color** to **green** (for bullish).
+   - Set **Area Fill Color** to a **lighter green** for a clear visual highlight.
+
+### 4.3 Bullish 4% Breakout Formula
+
+Replace the default formula with the 4% breakout condition:
+
+- **Formula:**
+
+  ```text
+  C / C1 >= 1.04 AND
+  V > V1 AND
+  V >= 100000
+  ```
+
+- Explanation:
+  - `C / C1 >= 1.04` → Today’s close is at least **4% higher** than yesterday’s close.
+  - `V > V1` → Today’s volume is **greater than** yesterday’s volume.
+  - `V >= 100000` → Today’s volume is at least **100,000 shares** (liquidity filter).
+
+2. Label the indicator (optional but recommended):
+   - For example, name it **4** (for 4% bullish).
+
+3. After clicking OK, you will see **green spikes/areas** on days where the 4% breakout condition is true.
+
+### 4.4 Visual Interpretation on Different Stocks
+
+- Example: **Beyond Meat (BYND)**  
+  - You will see green areas on days where:
+    - The stock had a **4% breakout** with higher volume and at least 100k shares.
+- Example: **Tesla (TSLA)**  
+  - You can visually identify:
+    - Days with 4% breakouts that started moves (e.g., a 4% breakout that led to a **14% move**).
+- Example: **Apple (AAPL)**  
+  - You may notice long periods with **no 4% breakout**, and then a breakout that **did not follow through**, which is also useful information.
+
+This visual representation helps you quickly see where significant bullish momentum days occurred.
+
+---
+
+## 5. Creating the 4% Breakdown (Bearish) Indicator
+
+### 5.1 Add a Second Custom PCF True Indicator
+
+1. Again, **Add Plot → Custom PCF % True Indicator**.
+2. This will be the **bearish** 4% breakdown condition.
+
+### 5.2 Visual Formatting (Area, Color, Fill)
+
+1. Edit the new indicator:
+   - Change **Plot Type** to **Area**.
+   - Set **Color** to **red**.
+   - Set **Area Fill Color** to a **light red/pink**.
+
+### 5.3 Bearish 4% Breakdown Formula
+
+Use the following formula:
+
+- **Formula:**
+
+  ```text
+  C / C1 <= 0.96 AND
+  V > V1 AND
+  V >= 100000
+  ```
+
+- Explanation:
+  - `C / C1 <= 0.96` → Today’s close is at least **4% lower** than yesterday’s close.
+  - `V > V1` → Today’s volume is **greater than** yesterday’s volume.
+  - `V >= 100000` → Volume is at least **100,000 shares**.
+
+2. Label this indicator (for example) as **4.96** or any label that reminds you it’s the 4% breakdown.
+
+### 5.4 Overlaying Bullish and Bearish in One Panel
+
+Initially, the bullish and bearish 4% indicators may appear in **separate panels**. To combine them:
+
+1. On the bearish indicator panel, use the **Move → Move and Overlay** option.
+2. Overlay it onto the **bullish 4% indicator panel**.
+
+Now:
+
+- **Green areas** = 4% breakouts (bullish).
+- **Red/pink areas** = 4% breakdowns (bearish).
+- Both are in the **same panel**, making it easy to see all 4% events in one place.
+
+You can adjust the panel height to your preference.
+
+---
+
+## 6. Arranging Panels: Price, 4% Panel, and Volume
+
+To match the layout used in the lesson:
+
+1. You may want the **4% breakout/breakdown panel at the top** and **volume at the bottom**.
+2. To do this:
+   - Move the **volume panel down**:
+     - Click on the volume panel and use **Insert Here** or move it so that volume is at the bottom.
+   - Ensure the **4% panel** is just below the price chart.
+
+Final layout:
+
+- Top: **Price chart**  
+- Middle: **4% breakout/breakdown panel**  
+- Bottom: **Volume (with TI overlaid later)**  
+
+---
+
+## 7. Adding the Trend Intensity (TI 65) Indicator
+
+The Trend Intensity (TI 65) indicator is used to visually identify periods of bullish or bearish trend based on moving averages of price.
+
+You will add it as **two PCF True indicators** (bullish and bearish) and overlay them on the **volume panel**.
+
+### 7.1 Bullish Trend Intensity (TI)
+
+1. **Add Plot → Custom PCF % True Indicator**.
+2. Edit the indicator:
+   - Change **Plot Type** to **Area**.
+   - Set **Color** to **green**.
+   - Set **Area Fill Color** to a **light green**.
+
+3. Use the following formula:
+
+   ```text
+   AVG(C,7) / AVG(C,65) >= 1.05
+   ```
+
+   (In TC2000 syntax, this is written as `average C7 / average C65 >= 1.05`.)
+
+   - Interpretation:
+     - The **7-day average close** is at least **5% above** the **65-day average close**.
+     - This indicates a **bullish trend**.
+
+4. Label this indicator as **TI** (for Trend Intensity).
+
+5. After applying, you will see green areas where the bullish TI condition is true.
+
+6. **Overlay on Volume**:
+   - Use **Move → Move and Overlay** to place this TI indicator on the **volume panel**.
+
+### 7.2 Bearish Trend Intensity (TI)
+
+1. Again, **Add Plot → Custom PCF % True Indicator**.
+2. Edit the indicator:
+   - Change **Plot Type** to **Area**.
+   - Set **Color** to **red**.
+   - Set **Area Fill Color** to a **light red**.
+
+3. Use the following formula:
+
+   ```text
+   AVG(C,7) / AVG(C,65) <= 0.95
+   ```
+
+   (In TC2000 syntax: `average C7 / average C65 <= 0.95`.)
+
+   - Interpretation:
+     - The **7-day average close** is at least **5% below** the **65-day average close**.
+     - This indicates a **bearish trend**.
+
+4. Label this indicator also as **TI** so you know both are part of Trend Intensity.
+
+5. Overlay this bearish TI indicator on the **same volume panel**:
+   - Use **Move → Move and Overlay**.
+
+Now the volume panel shows:
+
+- Volume bars.
+- Green TI areas for bullish trend.
+- Red TI areas for bearish trend.
+
+---
+
+## 8. Saving the Complete 4% Chart Template
+
+Once the chart is fully configured:
+
+1. **Save the Chart**:
+   - Use the save option and give the chart a clear name, for example: **4P** (to distinguish it from any existing “4” chart you may already have).
+
+2. **Finding the Saved Chart Later**:
+   - If the chart layout disappears or you want to apply it again:
+     - Go to **Chart**.
+     - Under the list of chart templates (including Blank Chart), you will see your saved template (e.g., **4P**).
+     - Select it to reapply the full 4% breakout/breakdown + TI setup.
+
+---
+
+## 9. Practical Use and Visual Advantages
+
+With this setup, you now have a **complete 4% breakout/breakdown chart** with **Trend Intensity**:
+
+- **4% Panel**:
+  - Shows all **4% breakouts** (green) and **4% breakdowns** (red) with volume confirmation and minimum liquidity.
+  - Helps you quickly see where significant moves started, and whether they led to larger trends (e.g., a 4% breakout that led to a 14% move in Tesla).
+
+- **TI 65 on Volume**:
+  - Shows **bullish trend periods** (green TI) and **bearish trend periods** (red TI).
+  - Gives context to 4% moves: you can see whether a breakout is happening in an already strong trend or against a weak trend.
+
+- **Examples**:
+  - **Tesla**: Multiple 4% breakouts, some starting strong moves.
+  - **Apple**: Long periods without 4% breakouts, and a breakout that did not follow through.
+  - **Beyond Meat**: Clear 4% breakout days marked.
+
+Once this template is saved and applied, you are ready to use it as a visual tool to identify and trade 4% breakouts and breakdowns, with trend context provided by TI 65.

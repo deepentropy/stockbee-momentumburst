@@ -1,0 +1,98 @@
+## Table of Contents
+
+1. Introduction to the 4% Breakout Method  
+2. Historical Research Behind the 4% Breakout  
+   2.1 Study Universe and Timeframe  
+   2.2 Key Finding: The 4% Breakout Pattern  
+3. Why 4% (and Not 1%, 2%, or 3%)  
+4. Persistence of the 4% Breakout Phenomenon  
+5. Practical Implications for Traders  
+6. Next Steps: Scanning and Chart Setup (Preview)
+
+---
+
+## 1. Introduction to the 4% Breakout Method
+
+The 4% breakout is a momentum burst trading method developed by Pradeep Bond (StockBee) about 20 years ago. It is based on the observation that many stocks making large monthly moves show a distinct price behavior at the start of their move: a single-day breakout of 4% or more.
+
+This method is one of the earliest and core momentum burst scans Pradeep has used consistently over two decades.
+
+---
+
+## 2. Historical Research Behind the 4% Breakout
+
+### 2.1 Study Universe and Timeframe
+
+- Pradeep examined **every stock that traded over a 40-year period**.  
+- From this universe, he focused on stocks that had a **25% or greater price move within a single month**.
+
+The goal of the study was to identify common characteristics at the **beginning** of these large monthly moves.
+
+### 2.2 Key Finding: The 4% Breakout Pattern
+
+When analyzing stocks that moved **25%+ in a month**, he found a recurring pattern:
+
+- At the **start of their big move**, these stocks **typically had a 4%+ breakout day**.  
+- This breakout occurred on the **beginning day of the move**, acting as a trigger or early signal.
+
+This pattern was not an isolated or rare occurrence; it appeared **commonly** across the historical sample.
+
+---
+
+## 3. Why 4% (and Not 1%, 2%, or 3%)
+
+In the research, different single-day percentage moves were examined:
+
+- 1% move  
+- 2% move  
+- 3% move  
+- 4%+ move
+
+The conclusion:
+
+- The **most common characteristic** at the start of a 25%+ monthly move was a **4% or greater** breakout day.  
+- It was **not** typically a 1%, 2%, or 3% move that marked the beginning of these large runs.  
+- This is why the method is specifically defined as a **4% breakout**, not a smaller percentage.
+
+Thus, the 4% threshold is **empirically derived**, not arbitrary.
+
+---
+
+## 4. Persistence of the 4% Breakout Phenomenon
+
+After initially discovering this pattern, Pradeep:
+
+- Has **continued to study and use** the 4% breakout method for the last **20 years**.  
+- Reports that the **same phenomenon persists**:  
+  - When you look at stocks that are up **25%+ in a month**, you will **still** find that they typically had a **4% breakout at the beginning** of their move.
+
+He emphasizes that traders can **verify this themselves**:
+
+- Study different periods, months, and years.  
+- Repeatedly, you will find the **4% breakout** as a **common characteristic** at the start of strong monthly moves.
+
+---
+
+## 5. Practical Implications for Traders
+
+The 4% breakout method is designed to:
+
+- **Capture stocks at the beginning** of a potential **25%+ monthly move**.  
+- Use a **4%+ single-day price breakout** as a **screening and entry signal** for momentum bursts.
+
+Key practical takeaway:
+
+- If your goal is to find stocks that can move **25% or more in a month**, focusing on **4% breakout days** is a historically grounded way to identify candidates **at the start** of their move.
+
+---
+
+## 6. Next Steps: Scanning and Chart Setup (Preview)
+
+Pradeep indicates that:
+
+- The **next lesson/video** will cover:
+  - The **exact scan** he uses for the 4% breakout.  
+  - **How to scan** for these setups.  
+  - **How to create and use charts** specifically for the 4% breakout method.
+
+This current lesson establishes the **conceptual and historical foundation**; the **implementation details** (scan criteria and chart configuration) follow in the next part of the series.

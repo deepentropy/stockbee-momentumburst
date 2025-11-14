@@ -1,0 +1,118 @@
+## Table of Contents
+
+1. Overview of the Lesson  
+2. The “Tool Inch” Breakout Setup  
+   2.1. Purpose of the Example  
+   2.2. Checklist for a Good Tool Inch Breakout  
+3. Key Characteristics of an Ideal Breakout  
+   3.1. Not Up Two Days in a Row  
+   3.2. Linearity and Persistent Buying  
+   3.3. Consolidation Quality  
+   3.4. Young Setup (Early in the Move)  
+   3.5. Narrow or Negative Day Before Breakout  
+   3.6. Closing Near the High on Breakout Day  
+4. Using the Template to Improve Breakout Trading  
+   4.1. Why Template Matching Matters  
+   4.2. Impact of Poor Setup Selection  
+   4.3. Daily Practice: Selecting Only High-Quality Setups  
+
+
+---
+
+## 1. Overview of the Lesson
+
+This lesson focuses on identifying a high-quality “tool inch” breakout setup using TC2000 charts. Pradeep explains how to evaluate a breakout on the day it occurs and provides a checklist of conditions that define an ideal setup. The emphasis is on pattern quality and disciplined selection to improve the probability of success in 4% breakout trades.
+
+---
+
+## 2. The “Tool Inch” Breakout Setup
+
+### 2.1. Purpose of the Example
+
+- The example is taken from a past chart in TC2000 (a breakout that occurred weeks or months ago).  
+- The goal is to show how a good “tool inch” setup should look **on the day of the breakout**.  
+- This example serves as a **template** for what traders should look for in real time.
+
+### 2.2. Checklist for a Good Tool Inch Breakout
+
+On the breakout day, the setup should meet the following criteria:
+
+1. **Not up two days in a row** before the breakout.  
+2. **Linearity**: strong, persistent buying in the prior move.  
+3. **Good consolidation quality**:  
+   - No 4% breakdown during consolidation.  
+   - Orderly, controlled price action.  
+4. **Young setup**:  
+   - The stock has had a **first leg up**.  
+   - The breakout is starting the **second leg**, not the fourth, fifth, or sixth.  
+5. **Narrow or negative day prior to breakout**:  
+   - The day before the breakout is either a small-range day or a down day.  
+6. **Closing near the high** on the breakout day.  
+
+When all these boxes are ticked, the setup qualifies as a strong “tool inch” breakout candidate.
+
+---
+
+## 3. Key Characteristics of an Ideal Breakout
+
+### 3.1. Not Up Two Days in a Row
+
+- The stock should **not** be already up for two consecutive days before the breakout.  
+- This avoids chasing extended short-term moves and reduces the risk of buying into exhaustion.
+
+### 3.2. Linearity and Persistent Buying
+
+- The prior advance (first leg) should show **strong, persistent buying**.  
+- Price should move in a relatively straight, directional manner (good **linearity**), indicating strong demand and trend strength.
+
+### 3.3. Consolidation Quality
+
+- After the first leg, the stock should enter an **orderly consolidation**:  
+  - No sharp drops or **4% breakdowns** within the base.  
+  - Price action is controlled, without wild swings.  
+- Good consolidation suggests healthy digestion of gains and sets up a cleaner second leg.
+
+### 3.4. Young Setup (Early in the Move)
+
+- The breakout should be part of a **young setup**:  
+  - The stock has completed a **first leg** and is now starting the **second leg**.  
+  - Avoid setups that are in their **fourth, fifth, or sixth leg**, as they are more mature and riskier.  
+
+### 3.5. Narrow or Negative Day Before Breakout
+
+- The day immediately before the breakout should be:  
+  - A **narrow-range day** (small candle), or  
+  - A **negative day** (down close).  
+- This often indicates short-term pause or shakeout, which can precede a strong breakout.
+
+### 3.6. Closing Near the High on Breakout Day
+
+- On the breakout day, the stock should **close near the high of the day**.  
+- This shows strong buying pressure into the close and confirms the breakout strength.
+
+---
+
+## 4. Using the Template to Improve Breakout Trading
+
+### 4.1. Why Template Matching Matters
+
+- The example described (first leg, orderly consolidation, breakout near high, narrow/negative day before, not up two days in a row) is an **ideal template**.  
+- Consistently looking for setups that match this template will **significantly improve** the probability of success in trading 4% breakouts.
+
+### 4.2. Impact of Poor Setup Selection
+
+- If you **make mistakes in selecting setups** and enter **choppy, low-quality patterns**, your trading results will also be **choppy**.  
+- Poor pattern quality directly translates into inconsistent performance.
+
+### 4.3. Daily Practice: Selecting Only High-Quality Setups
+
+- Each day, focus on finding setups that **look like the ideal example**:  
+  - First leg up  
+  - Orderly consolidation  
+  - Breakout near high  
+  - Narrow/negative day before breakout  
+  - Not up two days in a row  
+  - Young setup (second leg)  
+- If you **only** select and trade setups that meet these criteria, you will:  
+  - Have **no difficulty** finding good breakouts.  
+  - Improve your overall trading consistency and results.

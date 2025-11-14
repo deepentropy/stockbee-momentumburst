@@ -1,0 +1,125 @@
+## Table of Contents
+
+1. Introduction to the 4% Breakout Setup  
+2. The Concept of “Tool Inch” (Setup Selection Skill)  
+3. Characteristics of a Good 4% Breakout Setup  
+   3.1 Prior Buying and Momentum  
+   3.2 Sideways Consolidation  
+   3.3 The Day Before Breakout  
+   3.4 The Actual Breakout Day  
+4. The Role of Historical Study and Example Collection  
+5. Developing Instant Recognition of Quality Setups  
+6. Impact of Selecting Only Quality Setups  
+
+---
+
+## 1. Introduction to the 4% Breakout Setup
+
+The lesson focuses on a specific trading setup: the **4% breakout**.  
+The key challenge is not just running a scan to find stocks moving 4% or more, but **selecting the right 4% breakout** from the scan results.
+
+The core objective is to develop the skill to distinguish a **high‑quality 4% breakout setup** from a mediocre or poor one.
+
+---
+
+## 2. The Concept of “Tool Inch” (Setup Selection Skill)
+
+“Tool inch” in this context refers to the **method and skill** used to select a valid 4% breakout setup once it appears in a scan.
+
+- The **critical skill** is:
+  - Becoming good at **identifying a proper 4% breakout setup**.
+  - Avoiding setups that **do not meet the criteria**.
+
+This is not about changing the scan; it is about **improving your judgment** in choosing which scan results to trade.
+
+---
+
+## 3. Characteristics of a Good 4% Breakout Setup
+
+Pradeep illustrates what a **good setup** looks like using a specific example. The structure of that example highlights several important elements.
+
+### 3.1 Prior Buying and Momentum
+
+- The stock shows **a lot of buying coming in** before the consolidation.
+- This indicates:
+  - Strong **demand**.
+  - Existing **upward momentum**.
+- This prior strength is a **necessary foundation** for a quality breakout.
+
+### 3.2 Sideways Consolidation
+
+- After the strong buying, the stock goes **sideways**.
+- This sideways movement is a **consolidation phase**:
+  - Price stops trending strongly and trades in a **narrower range**.
+  - The stock is essentially **resting** after a move up.
+- A good setup typically has this **order**:
+  1. Strong buying.
+  2. Sideways consolidation.
+  3. Breakout.
+
+### 3.3 The Day Before Breakout
+
+- The day before the breakout is described as:
+  - A **negative day** (down day).
+  - A **narrow range** day.
+  - The stock was up only **about 0.5% or less**, effectively going sideways.
+- This shows:
+  - **No major selling pressure**, just minor pullback or pause.
+  - **Tight price action**, which often precedes a strong move.
+
+### 3.4 The Actual Breakout Day
+
+- On the breakout day:
+  - The stock makes a **4% breakout**.
+  - There is **only one 4% breakout** in this sequence (not multiple erratic spikes).
+- This clean, single 4% breakout coming out of a **sideways consolidation** after prior buying is what defines a **good 4% breakout setup** in this example.
+
+---
+
+## 4. The Role of Historical Study and Example Collection
+
+To become skilled at identifying these setups, Pradeep emphasizes **systematic study**:
+
+- **Collect examples** of good setups:
+  - Save charts of strong 4% breakout setups.
+  - Build a **file or library** of these examples.
+- **Study the criteria**:
+  - Review the conditions that were present before the breakout.
+  - Note the **pattern of buying, consolidation, and breakout**.
+- **Study many historical examples**:
+  - The more examples you see, the better your pattern recognition becomes.
+  - Repeated exposure trains your eye to see the difference between **good** and **bad** setups.
+
+This is a deliberate practice process: **collect → organize → review → internalize**.
+
+---
+
+## 5. Developing Instant Recognition of Quality Setups
+
+With enough practice and exposure to good examples:
+
+- You develop the ability to **instantly recognize** a quality setup when it appears in your scan.
+- When a stock shows:
+  - Prior strong buying,
+  - Sideways consolidation,
+  - A proper pre‑breakout day,
+  - And a clean 4% breakout,
+  
+  you can quickly identify it as a **high‑probability setup**.
+
+This instant recognition is the **practical edge**: you can act decisively and avoid hesitation or confusion when scanning.
+
+---
+
+## 6. Impact of Selecting Only Quality Setups
+
+Once you become good at identifying and selecting only **quality 4% breakout setups**:
+
+- You **filter out** weak or non‑qualifying setups.
+- You **only trade** those that match the criteria you have learned from your historical study.
+- As a result:
+  - The **probability of your trades working increases significantly**.
+  - Your overall trading performance improves because you are consistently focusing on **high‑probability opportunities** rather than random 4% movers.
+
+The central message:  
+**Skillful selection of 4% breakout setups, built through studying many good historical examples, leads to higher probability trades and better trading outcomes.**

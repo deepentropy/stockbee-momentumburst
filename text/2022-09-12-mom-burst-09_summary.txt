@@ -1,0 +1,141 @@
+## Table of Contents
+
+1. Introduction: Momentum Burst and Low Float Stocks  
+2. Core Principle: Float Is Not a Necessary Condition  
+3. Evidence from Examples  
+   3.1. Momentum Bursts in Medium Float Stocks  
+   3.2. Momentum Bursts in High Float Stocks  
+   3.3. Very High Float and Large Moves  
+4. Common Mistake: Over-Filtering by Float  
+5. Practical Guidance: How to Think About Momentum Burst  
+6. Conclusion: Focus on the Momentum Burst Itself  
+
+---
+
+## 1. Introduction: Momentum Burst and Low Float Stocks
+
+**Main Idea:**  
+You do not need to trade low float stocks to make money using the momentum burst strategy. Momentum bursts can occur in stocks with a wide range of floats, including medium and high float names.
+
+Pradeep emphasizes that traders often mistakenly believe low float is required for strong moves. This lesson clarifies that the momentum burst setup itself is what matters, not the float level.
+
+---
+
+## 2. Core Principle: Float Is Not a Necessary Condition
+
+**Main Idea:**  
+Low float is *not* a necessary condition for a momentum burst to work.
+
+- Momentum bursts can happen on:
+  - Low float stocks  
+  - Medium float stocks  
+  - High float stocks  
+- Many stocks with **explosive momentum bursts** actually have **high float**.
+- The correct approach is to **trade momentum burst as an isolated phenomenon**, independent of float.
+
+If you treat low float as a requirement, you are adding a condition that is **not necessary** for the strategy to work.
+
+---
+
+## 3. Evidence from Examples
+
+Pradeep refers to examples using TC2000 to illustrate that momentum bursts occur across a wide range of floats and still produce large percentage moves.
+
+### 3.1. Momentum Bursts in Medium Float Stocks
+
+Examples mentioned:
+
+- Stock with **18.6 million** float:
+  - Produced a strong momentum burst.
+- Stock with **50 million** float:
+  - Worked very well.
+  - Made about **155%** move in a momentum burst.
+- Another stock:
+  - Made about **53%** move in a momentum burst.
+
+These examples show that even floats in the tens of millions can generate very large momentum bursts.
+
+### 3.2. Momentum Bursts in High Float Stocks
+
+Additional examples:
+
+- Stock with **35 million** float:
+  - Had a momentum burst.
+- Stock with **100 million** float:
+  - Had a momentum burst that worked very well.
+- Stock with **123 million** float:
+  - Had a momentum burst.
+  - Stock made about **23%** move.
+- Another momentum burst:
+  - Stock made about **59%** move.
+
+These demonstrate that high float stocks can still deliver strong, tradable bursts.
+
+### 3.3. Very High Float and Large Moves
+
+- Example with **482 million** shares (very high float):
+  - Stock made about **21%** move on a momentum burst.
+- Another momentum burst on a high float stock:
+  - Stock made a “big move” (significant gain).
+
+The key takeaway from all these examples:  
+**Float size does not prevent a stock from having a powerful momentum burst.**
+
+---
+
+## 4. Common Mistake: Over-Filtering by Float
+
+**Main Idea:**  
+Restricting trades only to low float stocks (e.g., below 10 million) will cause you to miss many profitable momentum bursts.
+
+- If you say: “I will only trade stocks below 10 million float,” then:
+  - You will **miss out on many momentum bursts**.
+  - You will miss moves in stocks with:
+    - 18.6 million float  
+    - 25 million float  
+    - 35 million float  
+    - 50 million float  
+    - 100+ million float  
+    - 400+ million float  
+- Using float as a strict filter is described as a **“best kind of a filter” that actually leaves you out of many good momentum bursts** (i.e., it feels logical but is counterproductive for this strategy).
+
+The psychological trap:  
+Traders keep “adding conditions” (like float limits) that are not required, which reduces opportunity and performance.
+
+---
+
+## 5. Practical Guidance: How to Think About Momentum Burst
+
+**Main Idea:**  
+Focus on the momentum burst pattern itself, not on float or other unrelated filters.
+
+Key guidance:
+
+- **Do not care about float** when trading momentum bursts.
+- **Do not care about the 200-day moving average** in the context of this specific momentum burst approach.
+- **Do not keep adding unnecessary conditions** (like strict float caps) that are not essential for the setup to work.
+
+The emphasis is on:
+
+- Identifying the **momentum burst** as a standalone phenomenon.
+- Trading the **price action and the burst behavior**, rather than trying to predict or filter based on float.
+
+---
+
+## 6. Conclusion: Focus on the Momentum Burst Itself
+
+**Main Idea:**  
+To make money with the momentum burst strategy, you must focus on the momentum burst itself and avoid overcomplicating the setup with unnecessary filters like float or the 200-day moving average.
+
+Summary points:
+
+- Low float is **not required** for momentum bursts.
+- Momentum bursts occur in **all float ranges**, including very high float stocks.
+- Over-filtering by float will cause you to **miss many profitable trades**.
+- The correct approach:  
+  - **Trade momentum burst as an isolated phenomenon.**  
+  - **Don’t care about float.**  
+  - **Don’t care about the 200-day moving average** for this specific strategy.
+
+The core message:  
+If you want to make money using momentum bursts, concentrate on the **momentum burst pattern itself**, not on float-based constraints.

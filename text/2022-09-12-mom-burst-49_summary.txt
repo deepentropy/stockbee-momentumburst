@@ -1,0 +1,159 @@
+## Table of Contents
+
+1. Introduction: The Challenge of 4% Breakouts  
+2. Using a 6-Month Momentum Filter (MDT)  
+   2.1. Purpose of the 6-Month Momentum Filter  
+   2.2. Implementing MDT in TC2000  
+   2.3. Example of a Strong Momentum Threshold  
+   2.4. Effect on the Trading Universe  
+3. When a 6-Month Momentum Filter is Most Useful  
+   3.1. Longer-Term Holds  
+   3.2. Long-Term Consolidations and Breakouts  
+4. Limitations and Trade-Offs of Using Filters  
+   4.1. Missing Good Trades  
+   4.2. Why Pradeep Does Not Use These Filters Now  
+   4.3. How You Can Still Use Them Effectively  
+5. Managing Overwhelm and High-Pressure Decision Making  
+   5.1. Reducing the Number of Candidates  
+   5.2. Handling Many 4% Breakouts Without TC2000  
+6. Summary of Key Lessons  
+
+
+---
+
+## 1. Introduction: The Challenge of 4% Breakouts
+
+When trading a 4% breakout strategy, a common problem is the large number of breakout candidates on many days—often 200–300 stocks. This volume can be overwhelming and difficult to manage in real time.
+
+To handle this, Pradeep discusses using an additional filter based on longer-term momentum (6-month momentum) to narrow down the list and focus on stronger stocks, especially if the trader intends to hold positions for a longer period.
+
+---
+
+## 2. Using a 6-Month Momentum Filter (MDT)
+
+### 2.1. Purpose of the 6-Month Momentum Filter
+
+The 6-month momentum filter is designed to:
+
+- Identify stocks with strong momentum over a 126-day (approximately 6-month) period.  
+- Reduce the number of 4% breakout candidates to a smaller, higher-quality subset.  
+- Focus on stocks that are not just breaking out today, but have been strong over a longer timeframe.
+
+### 2.2. Implementing MDT in TC2000
+
+In TC2000, Pradeep uses a filter called **MDT**:
+
+- MDT is a momentum indicator.  
+- It measures whether a stock has momentum over **126 trading days** (about 6 months).  
+
+You add MDT as a filter in your scan so that only stocks with sufficient 6-month momentum are included in your 4% breakout list.
+
+### 2.3. Example of a Strong Momentum Threshold
+
+Pradeep gives an example of a momentum threshold:
+
+- Look for stocks that have an **average momentum of about 1.18% per day** over **126 days**.  
+- This is expressed as something like **1.18% / 1.126** in his description, indicating a strong average daily momentum over the 6-month period.
+
+This type of threshold ensures that only very strong momentum stocks pass the filter.
+
+### 2.4. Effect on the Trading Universe
+
+Applying the MDT filter significantly reduces the number of stocks:
+
+- Example: From **73 stocks**, the filter might reduce the universe to only those that are **very strong** on a 6-month basis.  
+
+The result is a smaller, more focused list of candidates that are both:
+
+- Breaking out (4% breakout), and  
+- Strong over the last 6 months.
+
+---
+
+## 3. When a 6-Month Momentum Filter is Most Useful
+
+### 3.1. Longer-Term Holds
+
+The 6-month momentum filter is particularly useful if:
+
+- You are **looking to hold trades for a longer term**, not just very short-term day trades.  
+- You want stocks that have **sustained strength**, not just a one-day spike.
+
+### 3.2. Long-Term Consolidations and Breakouts
+
+This filter is also valuable when:
+
+- You are looking for stocks that have had a **long-term consolidation** and are now **breaking out**.  
+- A strong 6-month momentum reading combined with a breakout from consolidation can indicate a powerful move.
+
+In such cases, the 6-month momentum filter helps you focus on breakouts that are aligned with a strong, established trend.
+
+---
+
+## 4. Limitations and Trade-Offs of Using Filters
+
+### 4.1. Missing Good Trades
+
+Pradeep emphasizes an important drawback:
+
+- Over time, he realized that using strict filters like MDT caused him to **miss some really good trades**.  
+- Some excellent opportunities do not meet the 6-month momentum criteria but still produce strong moves after a 4% breakout.
+
+### 4.2. Why Pradeep Does Not Use These Filters Now
+
+Because of this experience:
+
+- Pradeep **no longer personally uses** the MDT or similar filters in his own trading.  
+- He found that the cost of missing good trades outweighed the benefit of having a smaller, more filtered list.
+
+### 4.3. How You Can Still Use Them Effectively
+
+Despite not using them himself now, Pradeep notes:
+
+- **You can still use the MDT filter** (or similar momentum filters) if you are overwhelmed by too many breakouts.  
+- These filters are useful for **reducing the number of stocks** to a manageable set of **very strong** names.  
+- They can be especially helpful if you are still learning how to handle and select from a large list of breakout candidates.
+
+---
+
+## 5. Managing Overwhelm and High-Pressure Decision Making
+
+### 5.1. Reducing the Number of Candidates
+
+When many stocks are showing 4% breakouts:
+
+- A filter like MDT helps you **manage the pressure** by giving you a smaller list.  
+- This makes it easier to focus, analyze, and make decisions without feeling overloaded.
+
+The idea is to balance:
+
+- The **breadth** of opportunities (many breakouts)  
+- With the **depth** of analysis you can realistically perform under time pressure.
+
+### 5.2. Handling Many 4% Breakouts Without TC2000
+
+Pradeep also alludes to traders who:
+
+- Do **not have TC2000** or the exact same tools.  
+- Still see many stocks showing up in their 4% breakout scans.
+
+For such traders:
+
+- The **concept** remains the same: use some form of **momentum or strength filter** to narrow down the list.  
+- Even if you cannot use MDT specifically, you can apply similar logic with whatever tools or platforms you have to reduce the number of candidates and make the process manageable.
+
+---
+
+## 6. Summary of Key Lessons
+
+- 4% breakout scans can produce **200–300 candidates**, which is overwhelming.  
+- A **6-month momentum filter (MDT)** in TC2000 can be used to focus on stocks with strong **126-day momentum**.  
+- Example threshold: around **1.18% average daily momentum over 126 days**, selecting only very strong stocks.  
+- This filter is especially useful for:
+  - **Longer-term holds**, and  
+  - **Breakouts from long-term consolidations** with strong underlying momentum.  
+- However, strict filters can cause you to **miss good trades**; this is why Pradeep **no longer uses them himself**.  
+- You can still use MDT or similar filters to:
+  - **Reduce the number of stocks**,  
+  - Manage **overwhelm and high-pressure decisions**,  
+  - And focus on the **strongest** names when you are still developing your selection and trade management skills.

@@ -1,0 +1,306 @@
+## Table of Contents
+
+1. Position Sizing for Breakout Trades  
+   1.1. Defining Risk per Trade  
+   1.2. Example Account and Risk Levels  
+
+2. Using the Position Size Calculator Tool  
+   2.1. Inputs Required  
+   2.2. Example 1: Stop at Low of Day  
+   2.3. Example 2: Stop at Half of Day’s Range  
+   2.4. Rounding Share Quantities  
+
+3. Relationship Between Stop Distance and Position Size  
+   3.1. Closer Stops → Larger Position Size  
+   3.2. Impact on Percentage of Account in One Trade  
+
+4. How Stop Placement Determines Number of Positions  
+   4.1. Account Allocation per Setup  
+   4.2. Realistic Number of Positions to Manage  
+
+5. Practical Use of Tools vs. Mental Calculation  
+   5.1. Importance of a Handy, Fast Tool  
+   5.2. Transition to Flat Position Sizing with Experience  
+
+6. Recommended Approach for Beginners  
+   6.1. Start with the Tool  
+   6.2. Risk Levels and Position Count Guidelines  
+
+
+---
+
+## 1. Position Sizing for Breakout Trades
+
+### 1.1. Defining Risk per Trade
+
+- After you find a 4% breakout setup and decide:
+  - Entry price  
+  - Stop loss level  
+- The next key question is: **How many shares to buy / how much to risk on that setup?**
+
+For breakout setups, especially if you are new:
+
+- Typical risk per trade:
+  - 0.25% of account (very conservative)  
+  - 0.5% of account (conservative)  
+  - 1% of account (standard for many traders)
+
+“Risk” here means: **the dollar amount you will lose if your stop is hit.**
+
+### 1.2. Example Account and Risk Levels
+
+- Example account size: **$100,000**
+- If you risk **1%** per trade:
+  - You are willing to lose **$1,000** if the stop is hit.
+- If you risk **0.5%** per trade:
+  - You are willing to lose **$500** if the stop is hit.
+
+All position sizing is built around this fixed dollar risk per trade.
+
+---
+
+## 2. Using the Position Size Calculator Tool
+
+### 2.1. Inputs Required
+
+On the StockBee site, there is a **position sizing tool** under the Tools tab. To use it, you input:
+
+1. **Account size** (e.g., 100,000)  
+2. **Risk percentage per trade** (e.g., 1% or 0.5%)  
+3. **Entry price** of the stock  
+4. **Stop price** (e.g., low of day or half of day’s range)
+
+The tool then calculates:
+
+- How many shares you can buy  
+- How much capital that position will use  
+- The dollar loss if the stop is hit (matching your chosen risk %)
+
+### 2.2. Example 1: Stop at Low of Day
+
+Stock example: **ECH**
+
+- Account size: **$100,000**  
+- Risk: **1%** (i.e., $1,000 risk)  
+- Entry price: **$29.61**  
+- Stop price: **Low of the day = $27.57**
+
+Input into the tool:
+
+- Account: 100,000  
+- Risk: 1%  
+- Entry: 29.61  
+- Stop: 27.57  
+
+The tool output (as described):
+
+- You can buy **490 shares**  
+- You will be putting about **$14,000–15,000** into the trade  
+- If the stop at 27.57 is hit, you lose **$1,000** (1% of account)
+
+This is what is meant by **“taking 1% risk”** on the trade.
+
+### 2.3. Example 2: Stop at Half of Day’s Range
+
+Same stock (ECH), but using **half of the day’s range** as the stop:
+
+- Half of day’s range stop: **$28.63**
+
+Input into the tool:
+
+- Account: 100,000  
+- Risk: 1%  
+- Entry: 29.61  
+- Stop: 28.63  
+
+Because the stop is **closer** to the entry than the low of day:
+
+- The **per-share risk is smaller**, so  
+- The tool allows you to buy **more shares** (roughly double compared to the wider stop example).
+
+In this example, using 28.63 as stop:
+
+- You end up putting about **30% of your account** into this one position.  
+- With that sizing, **3 such setups** would make you **fully invested**.
+
+If you make the stop even closer, say **$29.00**, the tool will show:
+
+- You can put up to around **48% of your account** into this single trade (because the per-share risk is very small).
+
+### 2.4. Rounding Share Quantities
+
+The tool may give you non-round share numbers (e.g., 490 shares).
+
+Practical advice:
+
+- Round to a nearby clean number:
+  - e.g., 490 → **500 shares** or keep it at 490  
+- Avoid worrying about small odd-lot differences; focus on approximate sizing.
+
+---
+
+## 3. Relationship Between Stop Distance and Position Size
+
+### 3.1. Closer Stops → Larger Position Size
+
+Key principle:
+
+- **The closer your stop is to your entry, the larger your position size can be** for the same dollar risk.
+
+Examples from the lesson:
+
+- Stop at low of day (27.57) → fewer shares, smaller % of account in the trade.  
+- Stop at half of day’s range (28.63) → more shares, about 30% of account in the trade.  
+- Stop very close (e.g., 29.00) → even more shares, up to ~48% of account in the trade.
+
+So:
+
+- **Tighter stop = bigger position**  
+- **Wider stop = smaller position**
+
+### 3.2. Impact on Percentage of Account in One Trade
+
+Because position size is tied to stop distance:
+
+- With a **tighter stop**, you may end up with a **very large percentage** of your account in a single trade (30–48% in the examples).  
+- With a **wider stop**, your **capital per trade** is smaller.
+
+As you gain:
+
+- More **expertise** with the setup  
+- Higher **confidence** and **win rate**
+
+You may choose to **increase position size** (within your risk rules), which helps the account grow faster. But this should be done only after you have proven consistency.
+
+---
+
+## 4. How Stop Placement Determines Number of Positions
+
+### 4.1. Account Allocation per Setup
+
+Your **stop distance** and **risk per trade** determine:
+
+- How much of your account goes into each position  
+- Therefore, how many positions you can hold at once
+
+Example:
+
+- If using half of day’s range as stop (28.63 in the ECH example):
+  - You might put **30% of your account** into one trade.  
+  - With that sizing, **3 trades** would make you **fully invested**.
+
+If you use an even tighter stop (e.g., 29.00):
+
+- You might put **45–48% of your account** into one trade.  
+- Then you may only be able to take **2 positions** before you are fully invested.
+
+### 4.2. Realistic Number of Positions to Manage
+
+Guidance:
+
+- **3–4 positions** are generally **manageable**.  
+- Fewer positions (e.g., 2) can be even easier to manage.  
+- Having **10–20 small positions** is possible, but:
+  - It becomes difficult to **truly manage** them well.  
+  - Many tiny positions don’t help much in terms of meaningful returns.
+
+Analogy:
+
+- Managing positions is like managing children:
+  - 2–3 kids: manageable  
+  - 10–20 kids: possible, but are you really managing them?
+
+So, instead of many tiny positions:
+
+- Focus on **fewer, properly sized positions** based on your stop and risk rules.
+
+---
+
+## 5. Practical Use of Tools vs. Mental Calculation
+
+### 5.1. Importance of a Handy, Fast Tool
+
+The position sizing tool (or your own equivalent) should be:
+
+- **Immediately available** when you are trading  
+- **Fast and simple** to use
+
+Workflow:
+
+1. Decide entry and stop (e.g., low of day or half of day’s range).  
+2. Input account size, risk %, entry, and stop into the tool.  
+3. Get the **exact number of shares** to buy.  
+4. Place the order, optionally rounding the share count.
+
+This ensures:
+
+- You know **exactly how much you are risking**.  
+- You avoid random or emotional position sizing.
+
+If you prefer, you can create your own calculator, but it must be:
+
+- Quick  
+- Easy  
+- Always ready when you trade
+
+### 5.2. Transition to Flat Position Sizing with Experience
+
+With experience, you may not need the tool for every trade.
+
+Pradeep’s own practice now:
+
+- Uses **flat share sizes** (e.g., 3,000 or 5,000 shares per trade) in a **million-dollar account**.  
+- Relies on **mental calculation** to know:
+  - What 0.5% or 1% of the account is in dollars  
+  - Whether the chosen share size fits within that risk
+
+Because of experience:
+
+- He can quickly estimate risk without a tool.  
+- But this is **not recommended for beginners** until they are comfortable and accurate with the math.
+
+---
+
+## 6. Recommended Approach for Beginners
+
+### 6.1. Start with the Tool
+
+For beginners:
+
+- **Use the position sizing tool** on the site.  
+- Always input:
+  - Account size  
+  - Risk % (0.25%, 0.5%, or 1%)  
+  - Entry price  
+  - Stop price (low of day or half of day’s range)
+
+Then:
+
+- Take the share number from the tool.  
+- Optionally round to a nearby clean number (e.g., 490 → 500).  
+- Place the trade knowing exactly:
+  - How much capital is used  
+  - How much you will lose if the stop is hit
+
+Over time:
+
+- As you gain confidence and speed, you can transition to:
+  - Your own tools, or  
+  - Flat share sizing with mental calculations.
+
+### 6.2. Risk Levels and Position Count Guidelines
+
+- For **new traders**:
+  - Consider starting with **0.25%–0.5%** risk per trade.  
+  - Move to **1%** only after gaining experience and consistency.
+
+- Keep the number of positions:
+  - Around **3–4**, based on how much of your account each trade uses.  
+  - Avoid many tiny positions that are hard to manage and don’t move the needle.
+
+Overall, the lesson’s core message:
+
+- **Define your risk per trade first.**  
+- **Use a tool to calculate position size based on your stop.**  
+- **Let stop distance and risk rules determine both position size and number of positions.**  
+- Start systematic and precise; only later, with experience, simplify to mental or flat sizing if it suits you.

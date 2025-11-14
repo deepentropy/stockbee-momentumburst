@@ -1,0 +1,280 @@
+## Table of Contents
+
+1. Overview of the 4% Breakout Method  
+2. The Purpose of the 2-LYNCH Checklist  
+3. Component 1: “2” – Not Up Two Days in a Row  
+4. Component 2: “L” – Linearity  
+5. Component 3: “Y” – Young Setup  
+6. Component 4: “N” – Negative or Narrow-Range Day Before Breakout  
+7. Component 5: “C” – Consolidation Quality  
+   - 5.1 4% Breakdowns During Consolidation  
+   - 5.2 Tight, Orderly Price Action  
+   - 5.3 Low Volume in Consolidation  
+8. Component 6: “H” – Close Near High  
+   - 8.1 Intraday Application of “Close Near High”  
+9. Putting 2-LYNCH Together for 4% Breakouts  
+
+
+---
+
+## 1. Overview of the 4% Breakout Method
+
+The lesson focuses on trading **4% breakouts on the bullish side**.  
+After running a 4% breakout scan, you will typically get **100–200 candidate stocks**. The key is **not** to buy randomly, but to apply a **quality control checklist** so that the setups you choose have a **high probability of moving up for the next 3–4 days**.
+
+The checklist used for this purpose is called **2-LYNCH**.
+
+---
+
+## 2. The Purpose of the 2-LYNCH Checklist
+
+**2-LYNCH** is a structured set of conditions used to filter 4% breakout candidates:
+
+- **2** – Stock should **not be up two days in a row** before the breakout  
+- **L** – **Linearity** in prior price moves  
+- **Y** – **Young** setup (early leg of the move, and generally younger stocks)  
+- **N** – **Negative or narrow-range day** before the breakout  
+- **C** – **Consolidation quality** before the breakout  
+- **H** – **Close near high** on the breakout day (at the time you buy)
+
+If you apply 2-LYNCH to your breakout list, you will typically narrow down from hundreds of names to **2–4 high-quality ideas** with a much higher probability of follow-through.
+
+---
+
+## 3. Component 1: “2” – Not Up Two Days in a Row
+
+**Rule:**  
+Before the 4% breakout day, the stock **should not be up two days in a row**.
+
+- If a stock has already been up for **two consecutive days**, the **swing has already started**.  
+- You want to **enter at the start of a swing**, not after it is already underway.
+
+**Tolerance:**
+
+- Very small up moves (e.g., **+0.1%, +0.2%, up to about +2%**) on prior days are acceptable.  
+- A stock that is up **slightly** for one or two days (e.g., +0.5%) may still be taken, but the **ideal candidate** is one that is **not meaningfully up two days in a row**.
+
+**Practical use:**
+
+- If a stock is clearly **up two days in a row** before the breakout, **discard it immediately**.  
+- This is a **first filter**: if it fails here, you don’t need to check the other criteria.
+
+---
+
+## 4. Component 2: “L” – Linearity
+
+**Linearity** refers to how **smooth and predictable** a stock’s prior moves have been.
+
+**What you want:**
+
+- A stock with a history of **smooth, persistent, and consistent buying**.  
+- Prior moves that are **orderly and directional**, not erratic.
+
+**Why linearity matters:**
+
+- **Choppy stocks**:
+  - Require **wider stops**  
+  - Are **unpredictable**  
+  - Can be **very choppy intraday**, making execution and risk control difficult  
+- **Linear stocks**:
+  - Show **predictable moves**  
+  - Indicate **strong, persistent buying** in prior runs  
+  - Increase the **probability that the breakout will work**
+
+**Key point:**
+
+- Linearity is described as **extremely important**—the **most important criterion**.  
+- The trader **only selects linear setups** and **avoids choppy setups under any circumstances**.
+
+---
+
+## 5. Component 3: “Y” – Young Setup
+
+**Young setup** means:
+
+- The breakout is in the **first or second leg** of a move, **not** the third, fourth, or later leg.  
+- The stock itself is preferably **young** in market terms (e.g., IPO within the last **10 years**).
+
+**Why young setups:**
+
+- **Breakout methods**, including 4% breakouts, **work better on younger stocks** and **early legs** of a move.  
+- **Older stocks** tend not to make **explosive moves**.  
+- Later legs (3rd, 4th, 5th, etc.) have a **much higher probability of failure**.
+
+**Analogy used in the lesson:**
+
+- Just as older hedge fund managers or Leonardo DiCaprio prefer younger partners, you want **younger setups** and **younger stocks** for explosive moves.
+
+**Practical rule:**
+
+- Focus on:
+  - **First or second leg** of a move  
+  - Stocks that are **not very old** (IPO within ~10 years is preferred)  
+- Avoid:
+  - **Third, fourth, fifth, or sixth legs** of a continuous move
+
+---
+
+## 6. Component 4: “N” – Negative or Narrow-Range Day Before Breakout
+
+The **day before the breakout** is critical.
+
+**Requirement:**
+
+- The day before the 4% breakout should be:
+  - A **negative (down) day**, or  
+  - A **narrow-range day** (e.g., a **doji** or **small candle**)
+
+**Why this matters:**
+
+- You want to buy the breakout at the **start of a new swing**, not in the middle of an ongoing push.  
+- A **negative or narrow-range day** indicates:
+  - **Low volatility** before the breakout  
+  - A setup where, when the breakout occurs, it can **“explode”** out of that low-volatility state  
+- This explosive move can lead to **10–40% gains in 3–5 days**.
+
+**Consequence of ignoring this:**
+
+- If you select stocks **without** a negative or narrow day before the breakout, you are **unlikely to make much money** from the move.
+
+---
+
+## 7. Component 5: “C” – Consolidation Quality
+
+Before a 4% breakout, the stock typically forms a **consolidation**. The **quality of this consolidation** is **extremely critical**.
+
+You evaluate consolidation quality on three main aspects:
+
+### 7.1 4% Breakdowns During Consolidation
+
+- During the consolidation, the stock **should not have more than one 4% breakdown**.  
+- If there are **two or three 4% breakdowns** in the consolidation:
+  - It indicates **weak or absent strong buyers**.  
+  - Such breakouts are **more likely to fail**.
+
+**Ideal:**
+
+- **No 4% breakdowns** during consolidation.  
+- Acceptable: **At most one** 4% breakdown.
+
+### 7.2 Tight, Orderly Price Action
+
+- The consolidation should be **tight**:
+  - **Low volatility**  
+  - **Orderly** price action  
+  - No wild **up-and-down swings**  
+  - No “jumping all over the place”
+
+**Why:**
+
+- A tight, orderly consolidation suggests **controlled trading** and **accumulation**, not random noise.  
+- This sets up a **clean breakout** with better follow-through.
+
+### 7.3 Low Volume in Consolidation
+
+- During consolidation, **volume should be low** and ideally **keep dropping**.
+
+**Interpretation:**
+
+- **Low and declining volume**:
+  - Indicates **few sellers**  
+  - Suggests that whatever selling is happening is being **absorbed**  
+- **High volume up-and-down days** in consolidation:
+  - Indicate **no settled or strong buyers**  
+  - Suggest instability and a higher chance of **failed breakouts**
+
+**Summary of consolidation quality:**
+
+- **No more than one 4% breakdown**  
+- **Tight, orderly price action**  
+- **Low and declining volume**, without high-volume choppy days
+
+---
+
+## 8. Component 6: “H” – Close Near High
+
+The final filter is how the stock **closes relative to its high** on the breakout day.
+
+**Rule:**
+
+- The stock should be **closing near the high** when you select it to buy.
+
+**Why this matters:**
+
+- If a stock:
+  - Breaks out strongly intraday  
+  - Then **gives back a large portion** of its gains and you buy it after that  
+- It indicates **weak momentum**:
+  - If it **cannot maintain momentum on the first breakout day**, it is unlikely to show strong momentum on the **second or third day**.
+
+**What to avoid:**
+
+- Stocks with **big upper tails** on the breakout candle  
+- Stocks that have **given up half or more** of the day’s gain  
+- Stocks that have **given up 60%** of the day’s gain
+
+**Acceptable giveback:**
+
+- The instructor is willing to accept up to about **30% giveback** of the day’s gain.  
+  - Example:  
+    - Stock is up **$10** intraday  
+    - It gives back **$3** and is still up **$7**  
+    - This is still acceptable.  
+- You can be **stricter** if you want:
+  - Only take stocks that give back **10–20%** of the move.
+
+**Key idea:**
+
+- A stock that **closes strong and near its high** signals that **buyers are still active at that price**.  
+- This is a **qualitative confirmation** of the breakout’s strength.
+
+### 8.1 Intraday Application of “Close Near High”
+
+You **do not** have to wait until the **end of the day** to apply the “close near high” rule.
+
+- At any time (e.g., **9:45 or 10:00 AM**), when you run your **4% breakout scan** and apply **2-LYNCH**:
+  - Treat the current price as the **“close” of that minute**.  
+  - At that moment, the stock should be **trading near its intraday high**.
+
+**Clarification:**
+
+- Every minute of the market has a **current price**, which you can treat as a **temporary close**.  
+- The requirement is: **at the time you are buying**, the stock should be **near its high** for that point in the session.
+
+---
+
+## 9. Putting 2-LYNCH Together for 4% Breakouts
+
+To trade **momentum burst** setups using the **4% breakout** method, you must understand and apply **2-LYNCH** as a complete checklist:
+
+1. **2 – Not up two days in a row**  
+   - The stock should **not** be meaningfully up for **two consecutive days** before the breakout.
+
+2. **L – Linearity**  
+   - The stock should have a history of **smooth, persistent, and predictable moves**, not choppy action.
+
+3. **Y – Young setup**  
+   - The breakout should be in the **first or second leg** of a move.  
+   - Prefer **younger stocks** (e.g., IPO within the last 10 years).  
+   - Avoid **third, fourth, fifth, or later legs**.
+
+4. **N – Negative or narrow-range day before breakout**  
+   - The day before the breakout should be a **down day** or a **narrow-range/small candle day** (e.g., doji).  
+   - This ensures **low volatility** before an **explosive breakout**.
+
+5. **C – Consolidation quality**  
+   - **No more than one 4% breakdown** in the consolidation.  
+   - Consolidation should be **tight and orderly**, not choppy.  
+   - **Low and declining volume** during consolidation; avoid high-volume, choppy action.
+
+6. **H – Close near high**  
+   - At the time you buy, the stock should be **closing/trading near its high**.  
+   - Avoid stocks that give back **half or more** of their intraday gains.  
+   - Prefer those that **hold most of the breakout move** into your entry.
+
+When you apply **all** of these conditions to your 4% breakout scan:
+
+- A large list of **100–200 names** will typically shrink to **2–4 high-quality setups**.  
+- These selected setups have a **much higher probability** of delivering **strong, short-term momentum bursts** over the next **3–5 days**.
+
+The instructor emphasizes that **only when all 2-LYNCH conditions are met** should you select a stock for a 4% breakout trade.

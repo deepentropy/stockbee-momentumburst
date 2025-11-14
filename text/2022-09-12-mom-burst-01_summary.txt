@@ -1,0 +1,183 @@
+## Table of Contents
+
+1. Introduction to Momentum Burst  
+2. Core Characteristics of Momentum Bursts  
+   2.1 Duration of the Move  
+   2.2 Typical Percentage and Dollar Moves  
+   2.3 Occurrence in Different Types of Stocks  
+3. Examples of Momentum Bursts  
+   3.1 Examples in Lower- and Mid-Priced Stocks  
+   3.2 Examples in High-Priced Stocks  
+   3.3 Momentum Bursts on the Downside  
+4. Practical Importance for Traders  
+5. Need for Deeper Understanding  
+   5.1 Studying the Nature of Momentum Bursts  
+   5.2 First Day of the Momentum Burst  
+   5.3 Building a Trading Method Around Momentum Bursts  
+6. Next Steps in the Lesson Series  
+
+
+---
+
+## 1. Introduction to Momentum Burst
+
+Momentum burst is presented as the central tendency of how stocks move. Instead of moving in a smooth, continuous fashion, stocks often move in short, powerful bursts of momentum. These bursts are the key opportunity that traders can use to make substantial profits in a short period.
+
+The lesson emphasizes that understanding and exploiting this momentum burst behavior can be a highly effective way to make money in the stock market. The video series is dedicated to showing how to profit from these bursts.
+
+---
+
+## 2. Core Characteristics of Momentum Bursts
+
+### 2.1 Duration of the Move
+
+- Momentum bursts typically last **3 to 5 trading days**.  
+- Within this short window, the bulk of the move occurs; the stock makes a significant advance (or decline) in that brief period.
+
+### 2.2 Typical Percentage and Dollar Moves
+
+For most stocks:
+
+- In **3 to 5 days**, stocks commonly move **8% to 40%**.
+
+For higher-priced stocks:
+
+- In the same **3 to 5 day** window, they can move **$50 to $300** per share.
+
+These ranges are repeatedly observed in the examples and are described as a common, recurring phenomenon in the market.
+
+### 2.3 Occurrence in Different Types of Stocks
+
+- Momentum bursts occur in **lower-priced**, **mid-priced**, and **high-priced** stocks.  
+- They are not limited to any single sector or price range.  
+- The same burst behavior is seen on both the **upside** (rallies) and the **downside** (sharp declines).
+
+---
+
+## 3. Examples of Momentum Bursts
+
+The instructor uses TC2000 charting software to visually demonstrate multiple instances of momentum bursts. While the exact tickers (except a few) are not all named, the behavior is consistent.
+
+### 3.1 Examples in Lower- and Mid-Priced Stocks
+
+Several unnamed stocks are shown with the following characteristics:
+
+- A **sudden burst of momentum** followed by a **3 to 5 day** move.
+- Example moves mentioned:
+  - A stock making a **121%** move in **3 to 5 days**.
+  - Another stock making a **22%** move in **3 to 5 days**.
+  - A stock making a **104%** move in **3 to 5 days**.
+  - A stock making a **17%** move in **3 to 5 days**.
+  - A stock making an **8% to 12%** move in **3 to 5 days**.
+  - Another stock making an **8% to 20%** move in **3 to 5 days**.
+
+Specific example:
+
+- **EPRON** (as mentioned in the transcript):
+  - Recently had a **big move**.
+  - Displayed a clear **burst of momentum**.
+  - Made a **60%** move in a short burst.
+
+These examples reinforce the idea that such bursts are frequent and can be found by scanning through random stocks.
+
+### 3.2 Examples in High-Priced Stocks
+
+The same momentum burst behavior is shown in high-priced stocks:
+
+- **AutoZone (AZO)**:
+  - Exhibited a **3-day momentum burst**.
+  - Moved around **$100** in those **3 days**.
+
+- **Booking (BKNG)**:
+  - Had a **3-day momentum burst**.
+  - Moved about **$58** in that period.
+
+- **Tesla (TSLA)**:
+  - When it moves, it tends to move in **3 to 5 day** momentum bursts.
+  - Example given:
+    - A **3–4 day** momentum burst.
+    - Resulted in about a **$35 move** or **13%** move.
+
+These examples show that even expensive stocks follow the same burst pattern, just expressed in larger dollar amounts.
+
+### 3.3 Momentum Bursts on the Downside
+
+Momentum bursts also occur in downward moves:
+
+- In the Booking example:
+  - A **momentum burst to the downside** is highlighted.
+  - The stock made a **$92** move down in a short burst.
+
+This confirms that the same 3–5 day burst structure applies to both rallies and sharp declines, offering opportunities for both long and short strategies.
+
+---
+
+## 4. Practical Importance for Traders
+
+- The instructor emphasizes that this **3–5 day momentum burst** is a **very common phenomenon** in the market.
+- Because it repeats **again and again**, traders can **systematically exploit** it.
+- By focusing on these bursts, traders can:
+  - Capture **8–40%** moves in lower/mid-priced stocks.
+  - Capture **$50–$300** moves in higher-priced stocks.
+  - Do so within a **short time frame** (3–5 days), which is attractive for active traders and day/swing traders.
+
+The core message: understanding and trading momentum bursts can be a powerful, repeatable edge.
+
+---
+
+## 5. Need for Deeper Understanding
+
+The current lesson introduces the concept and shows examples. The instructor stresses that **profiting consistently** from momentum bursts requires more detailed knowledge.
+
+### 5.1 Studying the Nature of Momentum Bursts
+
+To use this phenomenon effectively, traders must:
+
+- Develop a **deeper understanding** of how momentum bursts form and unfold.
+- Study many examples of bursts to internalize:
+  - How they start.
+  - How they progress over the 3–5 day window.
+  - How they end.
+
+The instructor encourages studying charts to see this pattern repeatedly.
+
+### 5.2 First Day of the Momentum Burst
+
+A key focus for future lessons:
+
+- **What happens on the first day of the momentum burst?**
+- Understanding the **first day’s characteristics** is crucial because:
+  - It can help identify a burst **early**.
+  - It allows traders to **enter** near the beginning of the move.
+  - It forms the basis for a **rule-based trading method**.
+
+The instructor explicitly states that the next part will examine the **nature of the first day** of a momentum burst.
+
+### 5.3 Building a Trading Method Around Momentum Bursts
+
+The ultimate goal is to translate this understanding into a **concrete trading method**:
+
+- Use knowledge of:
+  - The **3–5 day structure**.
+  - The **typical size** of moves.
+  - The **first day’s behavior**.
+- To create:
+  - **Entry rules** (when a burst is starting).
+  - **Exit rules** (when the burst is likely ending).
+  - A systematic way to **profit from momentum bursts** repeatedly.
+
+The instructor states that this understanding will be used to **create a trading method** specifically designed to exploit momentum bursts.
+
+---
+
+## 6. Next Steps in the Lesson Series
+
+- This lesson serves as an **introduction** to the concept of momentum bursts and demonstrates that:
+  - They are common.
+  - They are powerful.
+  - They occur in all price ranges and in both directions.
+
+- In the **next part** of the series, the instructor will:
+  - Analyze the **nature of momentum bursts** in more detail.
+  - Focus on **what happens on the first day** of a burst.
+  - Show **how to use that understanding** to build a **practical trading method** for profiting from these 3–5 day moves.

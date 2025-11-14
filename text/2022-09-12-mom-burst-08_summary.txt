@@ -1,0 +1,149 @@
+## Table of Contents
+
+1. Introduction  
+2. Understanding ADR (Average Daily Range)  
+   2.1 What ADR Measures  
+   2.2 Why ADR Is Backward-Looking  
+3. Momentum Burst and Its Effect on ADR  
+   3.1 Definition of Momentum Burst  
+   3.2 Range Expansion and ADR Explosion  
+4. The Problem with Filtering Only High-ADR Stocks  
+   4.1 How ADR-Based Filters Make You Miss Trades  
+   4.2 First and Second Leg Moves and ADR  
+5. Practical Guidance on Using ADR in Momentum Trading  
+   5.1 Rethinking ADR-Based Scans  
+   5.2 What to Study and Observe in Real Stocks  
+6. Psychological and Conceptual Advice  
+   6.1 Avoiding “ADR Mentality”  
+   6.2 Focusing on Current Reality vs. Past Statistics  
+
+
+---
+
+## 1. Introduction
+
+This lesson addresses a common question in momentum trading:  
+**Do you need to trade only high ADR (Average Daily Range) stocks for the momentum burst strategy to work?**  
+
+The core answer: **No.** A stock does not need to have a high ADR before a momentum burst. The momentum burst itself typically causes ADR to increase.
+
+---
+
+## 2. Understanding ADR (Average Daily Range)
+
+### 2.1 What ADR Measures
+
+- ADR is a measure of how much a stock typically moves in a day, based on its recent historical price ranges.
+- Traders often use ADR to:
+  - Filter for “volatile” stocks (high ADR).
+  - Avoid “slow” or “dead” stocks (low ADR).
+
+### 2.2 Why ADR Is Backward-Looking
+
+- ADR is calculated from **past** price behavior.
+- It reflects what the stock **used to do**, not what it **is about to do**.
+- Because it is backward-looking, ADR:
+  - Does not predict when a momentum burst will occur.
+  - Does not capture the new reality once a momentum burst starts.
+
+---
+
+## 3. Momentum Burst and Its Effect on ADR
+
+### 3.1 Definition of Momentum Burst
+
+- A **momentum burst** is a sudden, sharp move in a stock’s price.
+- It is characterized by:
+  - A strong, fast price move.
+  - A clear expansion in the daily trading range.
+
+### 3.2 Range Expansion and ADR Explosion
+
+- By definition, a momentum burst is a **range expansion**.
+- When range expands:
+  - The stock’s **ADR increases sharply**.
+  - A stock that had a low ADR **before** the burst can quickly become a high-ADR stock **after** the burst.
+- Therefore:
+  - The **past ADR** of a stock is often irrelevant once a momentum burst occurs.
+  - The **current burst** changes the stock’s behavior and its ADR profile.
+
+---
+
+## 4. The Problem with Filtering Only High-ADR Stocks
+
+### 4.1 How ADR-Based Filters Make You Miss Trades
+
+- Many traders pre-decide:  
+  “I will only trade stocks with ADR above a certain level.”
+- Consequence:
+  - A stock with **low ADR** before its momentum burst will **not appear** in their scan.
+  - When the momentum burst happens, they **never see it**, because it was filtered out based on old ADR data.
+- The trader misses:
+  - The initial big move.
+  - Potentially the most profitable part of the trade.
+
+### 4.2 First and Second Leg Moves and ADR
+
+- The **first leg** of a move:
+  - Often starts from a stock with **low ADR**.
+  - The burst itself causes ADR to spike.
+- The **second leg** of a move:
+  - Can also be missed if the trader is still anchored to pre-burst ADR or rigid ADR rules.
+- If you are “hell-bent” on using ADR as a strict filter:
+  - You will miss many **first and second leg** opportunities.
+  - You will systematically avoid stocks that are just starting to change character.
+
+---
+
+## 5. Practical Guidance on Using ADR in Momentum Trading
+
+### 5.1 Rethinking ADR-Based Scans
+
+- Do **not** automatically eliminate stocks with low ADR from your trading universe.
+- Recognize:
+  - ADR will **change** as soon as a momentum burst occurs.
+  - A stock’s **pre-burst ADR** does not define its **post-burst potential**.
+- Instead of:
+  - “I only trade high ADR stocks,”  
+  focus on:
+  - “I look for **momentum bursts** and **range expansions**, regardless of prior ADR.”
+
+### 5.2 What to Study and Observe in Real Stocks
+
+- Study real examples where:
+  - A stock had **low ADR** before a big move.
+  - A **momentum burst** occurred.
+  - ADR **exploded** after the burst.
+- This will help you:
+  - Understand how quickly ADR can change.
+  - See why relying on past ADR can be misleading.
+  - Build confidence in trading setups based on **current price action**, not historical ADR alone.
+
+---
+
+## 6. Psychological and Conceptual Advice
+
+### 6.1 Avoiding “ADR Mentality”
+
+- “ADR mentality” = being fixated on ADR as a primary or rigid filter.
+- Problems with ADR mentality:
+  - You become **backward-looking**, focused on past volatility.
+  - You ignore the **current reality** of a stock undergoing a new momentum phase.
+  - You miss many of the best opportunities that start from **quiet, low-ADR conditions**.
+
+### 6.2 Focusing on Current Reality vs. Past Statistics
+
+- The key shift:
+  - From: “What was this stock doing in the past?”  
+  - To: “What is this stock doing **now**?”
+- Momentum trading is about:
+  - Recognizing **new behavior** (momentum bursts, range expansions).
+  - Acting on **current price action**, not being constrained by historical averages.
+- Before eliminating a stock because of low ADR:
+  - **Think twice.**
+  - Ask whether a **new momentum burst** is starting that will change its ADR and trading potential.
+
+---
+
+**Core takeaway:**  
+You do **not** need high ADR stocks for the momentum burst strategy to work. Momentum bursts themselves create high ADR through range expansion. If you rigidly filter for high ADR based on past data, you will miss many of the best first and second leg moves. Focus on current momentum and range expansion rather than being locked into an “ADR mentality.”

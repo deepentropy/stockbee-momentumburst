@@ -1,0 +1,99 @@
+## Table of Contents
+
+1. Overview of Pradeep Bond’s Trading Approach  
+2. Core Concept: Momentum Burst  
+3. Main Trading Methods  
+   3.1. 4% Breakout  
+   3.2. Dollar Breakout  
+   3.3. Combination Scan (4% + Dollar Breakout)  
+   3.4. Low Threshold Breakout  
+4. Comparative Advantages of Each Method  
+5. Practical Application: Using the Methods to Find Daily Trades  
+6. Future Lessons and Deeper Method Details  
+
+
+---
+
+## 1. Overview of Pradeep Bond’s Trading Approach
+
+Pradeep Bond’s day trading approach is centered on **momentum burst** setups. All the methods he trades are variations of this same underlying idea. He focuses on a small set of repeatable, rule-based setups that can be used **every day** to find trading opportunities and generate consistent profits.
+
+---
+
+## 2. Core Concept: Momentum Burst
+
+**Momentum burst** is the foundational concept behind all the methods discussed. While this segment does not define it in detail, the key idea is:
+
+- Look for **sudden, strong moves** in a stock’s price.
+- These moves represent a **burst of momentum** that can be exploited for short-term trading.
+- Every method (4% breakout, dollar breakout, low threshold breakout, and combination scan) is simply a different way to **detect and trade** these bursts.
+
+---
+
+## 3. Main Trading Methods
+
+All methods below are **momentum burst–based setups**. They differ mainly in how they define and detect the burst.
+
+### 3.1. 4% Breakout
+
+- A trading method based on a **percentage move** in price.  
+- A stock qualifies when it makes a **4% breakout**, signaling a momentum burst.  
+- This is one of the primary setups Pradeep trades.
+
+### 3.2. Dollar Breakout
+
+- A trading method based on an **absolute dollar move** in price.  
+- Instead of a percentage, it looks for a **specific dollar amount** of breakout to indicate momentum.  
+- Also a core method in his trading.
+
+### 3.3. Combination Scan (4% + Dollar Breakout)
+
+- A method that **combines both 4% breakout and dollar breakout criteria**.  
+- Often referred to as the **combination scan**.  
+- It looks for stocks that meet **both** the percentage and dollar breakout thresholds, aiming to capture strong, high-quality momentum bursts.
+
+### 3.4. Low Threshold Breakout
+
+- A separate setup previously used by Pradeep, also based on **momentum burst**.  
+- Called **low threshold breakout**, implying it uses **lower or more sensitive thresholds** to detect bursts.  
+- It is mentioned as part of his toolkit, though the focus in this lesson is on the other three methods and their combination.
+
+---
+
+## 4. Comparative Advantages of Each Method
+
+- Each method—4% breakout, dollar breakout, low threshold breakout, and the combination scan—has **its own advantages**.  
+- The lesson notes that:
+  - They are all valid ways to trade momentum bursts.
+  - Some may be better suited to certain market conditions or trader preferences than others.
+- Detailed comparison of these advantages is reserved for future videos, where each method will be covered individually.
+
+---
+
+## 5. Practical Application: Using the Methods to Find Daily Trades
+
+Pradeep’s objective is to show how a trader can:
+
+- Use **4% breakout**, **dollar breakout**, or the **combination scan**  
+- To **find trades every day**  
+- And **make money on an ongoing basis**.
+
+The emphasis is on:
+
+- **Daily, repeatable scanning** for momentum bursts using these setups.  
+- Turning these scans into **consistent, actionable trades**.
+
+---
+
+## 6. Future Lessons and Deeper Method Details
+
+Pradeep indicates that this is an **introductory overview**:
+
+- He will go into **details of each method** in a **series of videos**.  
+- Each method (4% breakout, dollar breakout, combination scan, and low threshold breakout) will be taken **one at a time**.  
+- He will demonstrate **how to use each setup** to:
+  - Identify qualifying stocks,
+  - Execute trades,
+  - And apply the methods consistently for ongoing profits.
+
+This lesson establishes the **framework and terminology**; the specific rules, examples, and deeper technical details are to follow in subsequent lessons.

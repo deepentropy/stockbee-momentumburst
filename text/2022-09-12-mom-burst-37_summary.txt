@@ -1,0 +1,205 @@
+## Table of Contents
+
+1. Introduction: Using Stops Efficiently  
+2. Stop Placement Concepts  
+   2.1 Stop at Low of the Day  
+   2.2 Stop at Half of the Day’s Range  
+3. Implementing Stops in TC2000 (Top Bar / Chart Template)  
+   3.1 Adding “Low of the Day” (Bar Low) to the Top Bar  
+   3.2 Creating a Custom Formula for “Half of the Day’s Range”  
+   3.3 Adding the “Half Range Stop” to the Top Bar  
+4. Implementing Stops in TC2000 (Watchlist Columns)  
+   4.1 Adding a “Low of the Day” Column  
+   4.2 Adding a “Half Range Stop” Column  
+5. Trading Process Benefit: Organize Like Crazy Around Your Setup  
+
+
+---
+
+## 1. Introduction: Using Stops Efficiently
+
+Pradeep explains how to automate stop placement in TC2000 so you don’t have to manually calculate stops for each trade. The goal is to:
+
+- Place stops at either:
+  - The low of the day, or  
+  - Half of the day’s range above the open  
+- Have these stop levels displayed automatically on your chart and/or in your watchlist.
+- Speed up execution so that when you see a breakout, you immediately know where to place your stop.
+
+---
+
+## 2. Stop Placement Concepts
+
+### 2.1 Stop at Low of the Day
+
+- One common stop placement is at the **low of the day’s bar**.
+- Example: If the day’s low is **27.57**, then:
+  - Stop = 27.57  
+- In TC2000, this is referred to as **Bar Low**.
+
+### 2.2 Stop at Half of the Day’s Range
+
+- Another approach is to place the stop at **half of the day’s range** above the open.
+- The formula uses:
+  - O = Opening price  
+  - C = Closing price (or current price for the day’s bar)  
+- Half of the day’s range is calculated as:
+  - (C − O) / 2  
+- The stop is then:
+  - Stop = O + (C − O) / 2  
+- Example:
+  - If half of the day’s range works out to **2.17**, and the open is such that this gives a stop at **28.63**, then:
+    - Stop (half range) = 28.63  
+
+This gives you a stop that is **higher than the low of the day**, providing a tighter risk level than using the absolute low.
+
+---
+
+## 3. Implementing Stops in TC2000 (Top Bar / Chart Template)
+
+Pradeep shows how to add these stop values to the **top bar of your chart template** in TC2000 so they are always visible.
+
+### 3.1 Adding “Low of the Day” (Bar Low) to the Top Bar
+
+1. **Open your chart in TC2000** with your usual template.  
+2. **Left-click on the chart template toolbar** and select **“Edit Toolbar”**.  
+3. A configuration window opens.  
+4. Scroll to the **end of the toolbar items**.  
+5. Look for **“Bar Low”** in the available items:
+   - This represents the **low of the current bar (day)**.  
+6. Select **Bar Low** and customize:
+   - Increase font size if desired.  
+   - Make it bold or italics if you want.  
+   - Change the text color (e.g., light blue).  
+   - Add a prefix such as **“Stop”** so it displays like:  
+     - Stop 27.57  
+7. Click **Add** (or equivalent) and then **OK**.  
+
+Now, on your chart’s top bar, you will see something like:
+
+- **Stop 27.57** (which is the low of the day for that stock).
+
+This gives you an automatic **stop at low of the day**.
+
+---
+
+### 3.2 Creating a Custom Formula for “Half of the Day’s Range”
+
+To place a stop at half of the day’s range, you first create a custom indicator formula.
+
+1. In TC2000, go to **New → Indicator Formula** (or similar menu: “Add Indicator Formula”).  
+2. In the formula editor, write the formula for half of the day’s range added to the open:
+
+   - **Formula:**
+     ```text
+     O + (C - O) / 2
+     ```
+
+   - Explanation:
+     - O = Opening price  
+     - C = Closing price  
+     - (C − O) / 2 = half of the day’s range  
+     - O + (C − O) / 2 = price level at half the day’s range above the open  
+
+3. Give this formula a name, for example:
+   - **StopHalf** (Pradeep uses something like “stop half” to distinguish it).  
+4. Click **OK** to save the formula.  
+5. Select any placeholder plot if TC2000 asks, then close the window.  
+
+Now this custom formula is stored in your **library** under **“My Items”** or **“My Formulas”**.
+
+---
+
+### 3.3 Adding the “Half Range Stop” to the Top Bar
+
+Once the custom formula is created:
+
+1. Go again to your chart and **left-click → Edit Toolbar**.  
+2. Scroll to the **end** of the toolbar items.  
+3. Look for your custom formula under:
+   - **Columns and Reports / Indicator and Chart Plots / My Items / My Formulas**  
+   - Find **StopHalf** (or the name you used).  
+4. Select **StopHalf** and add it to the toolbar.  
+5. Customize its appearance:
+   - Change text color if desired.  
+   - It will typically display with its name as a prefix (e.g., “StopHalf 28.63”).  
+   - If needed, manually add a prefix like **“Stop Half”** so it shows clearly:
+     - Stop Half 28.63  
+6. Arrange the order:
+   - Click on the item and use the move arrows to place it **next to the “Stop” (Bar Low)** item.  
+   - For example:
+     - Stop 27.57 | Stop Half 28.63  
+
+7. Click **OK** to save.
+
+Now, on your chart’s top bar, you will see both:
+
+- **Stop 27.57** (low of the day)  
+- **Stop Half 28.63** (half of the day’s range stop)
+
+This allows you to instantly know both possible stop levels when you look at a breakout.
+
+---
+
+## 4. Implementing Stops in TC2000 (Watchlist Columns)
+
+Pradeep also shows how to add these stop values as **columns in your watchlist**, using the same logic.
+
+### 4.1 Adding a “Low of the Day” Column
+
+1. In your watchlist, **insert a new column**:
+   - Right-click on the column header area → **Insert Column → Value Column**.  
+2. In the value selection, look for:
+   - **Low** or **Bar Low** (depending on TC2000’s naming).  
+3. Select **Low** as the column value.  
+4. This column will now show the **low of the day** for each stock.  
+5. To make it clear that this is your stop level:
+   - Right-click the column header → **Properties** → rename it to **“Stop”**.  
+
+Example:
+- For stock **ECH**, the low of the day is **27.57**, so the column will show:
+  - Stop = 27.57  
+
+This matches the stop at low of the day shown on the chart.
+
+---
+
+### 4.2 Adding a “Half Range Stop” Column
+
+Since you already created the **StopHalf** formula:
+
+1. In the watchlist, **insert another column**:
+   - Insert Column → Value Column.  
+2. In the value selection, go to:
+   - **My Items / My Formulas** and find **StopHalf** (or your chosen name).  
+3. Select **StopHalf** as the column value.  
+4. The column will now show the **half-range stop** for each stock.
+
+Example:
+- For stock **ECH**, the half-range stop is **28.63**, so the column will show:
+  - StopHalf = 28.63  
+
+This value will match what you see on the chart’s top bar for the same stock.
+
+Pradeep notes that he **prefers having these values on the chart top bar**, as it’s easier to see and use when entering trades, but the column method is also available and useful.
+
+---
+
+## 5. Trading Process Benefit: Organize Like Crazy Around Your Setup
+
+Key psychological and process advice from Pradeep:
+
+- **“Organize like crazy around your setup.”**  
+  - Pre-build all the tools and calculations you need (like automatic stops) into your platform.  
+  - When a breakout appears, you should:
+    - Immediately know where to enter.  
+    - Immediately know where to place your stop (low of day or half-range).  
+- By having:
+  - **Stop at low of day** and  
+  - **Stop at half of the day’s range**  
+  automatically displayed:
+  - You avoid manual calculations.  
+  - You don’t need a calculator or to “figure it out” in real time.  
+  - Your decision-making becomes faster and more consistent.  
+
+This organization reduces friction and hesitation, allowing you to execute your trading plan quickly and systematically whenever you see a valid breakout.

@@ -1,0 +1,152 @@
+## Table of Contents
+
+1. Introduction: Context of the Lesson  
+2. Core Concept: Trading Momentum Bursts  
+3. Primary Stop-Loss Strategies on Breakouts  
+   3.1. Safest Stop: Low of the Entry Day  
+   3.2. Intermediate Stop: Three-Day Low (Historical Approach)  
+   3.3. Advanced Stop: Half of the Day’s Gain  
+4. Experience Level and Stop Placement  
+   4.1. Beginners: Why Start with Low-of-Day Stops  
+   4.2. Transition Goal: Moving Toward Half-Range Stops  
+5. Intraday Management of Stops  
+6. Impact of Late Entries on Risk and Reward  
+7. Key Practical Takeaways  
+
+---
+
+## 1. Introduction: Context of the Lesson
+
+This lesson focuses on where to place stop-loss orders when trading breakout setups, specifically within a “momentum burst” framework. The discussion assumes you have already identified a breakout stock (e.g., using tools like TC2000 and “two links”) and have entered the trade. The central question is: **where should the stop be placed to manage risk while respecting the nature of a momentum burst?**
+
+---
+
+## 2. Core Concept: Trading Momentum Bursts
+
+- The underlying phenomenon being traded is a **momentum burst**.  
+- A **genuine momentum burst** should:
+  - Continue moving in the direction of the breakout.
+  - Not give back a large portion of its breakout-day gains quickly.
+- Stop placement is designed around this idea:  
+  - If the stock gives up too much of the breakout-day move, the **momentum burst is no longer valid**, and the trade should be exited.
+
+---
+
+## 3. Primary Stop-Loss Strategies on Breakouts
+
+### 3.1. Safest Stop: Low of the Entry Day
+
+- **Definition**: Place the stop at the **low of the breakout day** (the day you entered).  
+- Example (from TC2000 chart):
+  - Breakout day low: **30.12**  
+  - Stop is placed at **30.12**.
+- Characteristics:
+  - Considered the **safest** stop because it gives the trade maximum room within that day’s range.
+  - However, this can be a **very wide stop** in many cases, leading to larger potential losses.
+
+### 3.2. Intermediate Stop: Three-Day Low (Historical Approach)
+
+- Earlier in his trading, Pradeep used:
+  - A stop at the **low of the last three days** (three-day low) instead of the breakout-day low.
+- Example:
+  - Three-day low around **29.36** or **29.24**.
+  - Stop would be placed at that three-day low level.
+- Characteristics:
+  - Tighter than the low-of-day stop if the three-day low is closer to the entry.
+  - This was an earlier method before gaining deeper experience with momentum bursts.
+
+### 3.3. Advanced Stop: Half of the Day’s Gain
+
+- Current preferred method (with experience):
+  - Place the stop at **half of the breakout day’s gain** or **slightly above half**.
+- Logic:
+  - If the stock **gives up half of the day’s gain**, the breakout is **no longer a valid momentum burst**.
+  - A true momentum burst should **not retrace that deeply** on the breakout day.
+- Characteristics:
+  - Much **tighter** than low-of-day stops.
+  - Reduces risk per trade.
+  - Requires **skill in selecting strong breakouts** to avoid frequent stop-outs.
+
+---
+
+## 4. Experience Level and Stop Placement
+
+### 4.1. Beginners: Why Start with Low-of-Day Stops
+
+- For traders who are:
+  - New to this method.
+  - Not yet skilled at consistently finding **high-quality breakouts**.
+- Recommended approach:
+  - Start with **low-of-day stops**.
+- Reason:
+  - If you use a **half-of-day** stop too early in your learning curve:
+    - You may get **shaken out frequently**.
+    - Many trades might hit your tight stop even if they later work.
+- Low-of-day stops provide:
+  - More **room** for normal intraday fluctuations.
+  - A more forgiving learning environment while you improve breakout selection.
+
+### 4.2. Transition Goal: Moving Toward Half-Range Stops
+
+- As you gain:
+  - More **experience**.
+  - Better **understanding** of how momentum bursts behave.
+  - Improved **skill in finding good breakouts**.
+- The **goal**:
+  - Gradually shift from **low-of-day stops** to **half-of-day-range stops**.
+- End objective:
+  - Consistently place stops at **half of the day’s range** (or slightly above) to:
+    - Align with the momentum burst concept.
+    - Limit risk more effectively.
+
+---
+
+## 5. Intraday Management of Stops
+
+- When entering **early** in the breakout (before the stock is up a large percentage, e.g., before it is up 13%):
+  - If the stock moves **in your favor**, you can:
+    - **Move your stop up during the day**.
+- Purpose:
+  - To **reduce risk** as the trade becomes profitable.
+  - To avoid risking too much on a breakout that has already moved significantly in your favor.
+- This intraday adjustment is part of actively managing risk while trading momentum bursts.
+
+---
+
+## 6. Impact of Late Entries on Risk and Reward
+
+- If you enter a breakout **late**:
+  - Example: The stock is already up around **13–14%** when you enter.
+- Problem:
+  - Your stop (e.g., at low of day) might be **13–14% below your entry**.
+  - This creates a **very large risk** on the trade.
+- Consequence:
+  - The **risk/reward** becomes **unfavorable**.
+  - The trade may **not be worth taking** due to the wide stop required.
+- Key implication:
+  - It is **critical** to:
+    - **Find breakouts early**.
+    - **Enter as soon as you identify** a valid breakout.
+  - Early entry allows:
+    - Tighter stops.
+    - Better risk control.
+    - More favorable reward-to-risk profiles.
+
+---
+
+## 7. Key Practical Takeaways
+
+- The method is built around **trading momentum bursts**; stop placement must reflect that.
+- **Stop options**:
+  1. **Low of the entry day** – safest, but often too wide; good for beginners.
+  2. **Three-day low** – an older, intermediate method.
+  3. **Half of the breakout day’s gain** – preferred advanced method; if half is given back, the momentum burst is invalid.
+- **For beginners**:
+  - Start with **low-of-day stops** to avoid being shaken out prematurely.
+- **For experienced traders**:
+  - Aim to use **half-of-day-range stops** or slightly above, consistent with the momentum burst concept.
+- **Intraday**:
+  - If you enter early and the stock moves in your favor, **move your stop up during the day** to reduce risk.
+- **Avoid late entries**:
+  - Entering when the stock is already up ~13–14% forces very wide stops and poor risk/reward.
+  - Focus on **early identification and entry** on breakouts.

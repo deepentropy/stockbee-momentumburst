@@ -1,0 +1,814 @@
+## Table of Contents
+
+1. Executive Summary  
+2. Core Concepts  
+   2.1. What Is a Momentum Burst?  
+   2.2. Typical Duration  
+   2.3. Typical Magnitude by Price Range  
+   2.4. Where Bursts Occur (Highs/Lows, 200‑day, Fundamentals, Float, ADR)  
+   2.5. Anticipatory vs. Reactive Trading  
+3. Setup Criteria and Scanning  
+   3.1. Range Expansion and the First Day of the Burst  
+   3.2. The 4% Breakout / Breakdown Scan  
+   3.3. Chart Template: 4% + Trend Intensity (TI65)  
+   3.4. Filters to Control List Size and Improve Odds  
+   3.5. Market, Sector, and Capitalization Filters  
+4. Entry and Exit Strategies  
+   4.1. When to Enter (Intraday Timing)  
+   4.2. The 2‑LYNCH / Tool‑Inch / Two‑Linch Pattern Template  
+   4.3. Exit Timing: The 3–5 Day “Golden Period”  
+   4.4. Managing the Trade Day‑by‑Day  
+5. Risk Management  
+   5.1. Stop Placement (Low of Day vs. Half‑Range)  
+   5.2. Hard Stops vs. Mental Stops  
+   5.3. Position Sizing and Number of Positions  
+   5.4. Typical Stop Sizes by Price Range  
+6. Psychology and Discipline  
+   6.1. Pattern Recognition and Deep Dive Study  
+   6.2. Young vs. Old Setups  
+   6.3. Avoiding Common Cognitive Traps  
+   6.4. Progression from Basic to Advanced Tactics  
+7. Real‑World Examples and Case Studies  
+   7.1. Low‑Priced Explosive Moves  
+   7.2. High‑Priced Names (BKNG, MCK, AZO, TSLA)  
+   7.3. BYND and Biotech / No‑Earnings Names  
+   7.4. ENTA and Other Tool‑Inch Variations  
+8. Common Mistakes to Avoid  
+9. Key Takeaways  
+
+
+---
+
+## Executive Summary
+
+The Momentum Burst / 4% Breakout method is built on a simple empirical observation: most meaningful stock moves happen in short, sharp bursts that typically last 3–5 days. In that window, low‑priced stocks can move 20–40% (and sometimes 50–100%+), mid‑priced stocks 8–20%, and high‑priced stocks $10–$300. These bursts almost always start with a clear range expansion day—a large bar relative to the prior 3–4 days—often captured by a 4% or greater breakout on expanding volume.
+
+Pradeep Bond’s approach is to trade these bursts reactively, not by prediction. He uses systematic scans (primarily a 4% breakout / breakdown scan in TC2000) to find range expansion days, then applies a strict pattern‑quality checklist (2‑LYNCH / tool‑inch) to select only A‑quality setups. Trades are entered as early as possible on the breakout day, sized by predefined risk (e.g., 0.5–1% of account), with stops based on the breakout day’s range. Exits are driven by the time‑limited nature of bursts (3–5 days) and by aggressive stop tightening once the trade is up 6–14% or more.
+
+The method is highly rule‑based but demands serious preparation: deep study of thousands of historical bursts, disciplined filtering (by pattern quality, market phase, sector, and capitalization), and strict risk control. Done correctly, it can yield 150–200 A‑quality trades per year in a typical bullish environment, with each trade targeting the “golden period” of the move and avoiding the common pitfalls of chasing extended, late‑stage breakouts or holding too long.
+
+
+---
+
+## 2. Core Concepts
+
+### 2.1. What Is a Momentum Burst?
+
+- A **momentum burst** is a short, powerful move in one direction, usually:
+  - Triggered by a **range expansion day** (large bar vs. prior 3–4 days).
+  - Followed by 2–4 more days of directional follow‑through.
+- It occurs on both:
+  - **Upside** (rallies).
+  - **Downside** (sharp declines).
+
+The first day of the burst is typically a **big candle**—often ≥4% on the upside or downside—with volume higher than the prior day.
+
+### 2.2. Typical Duration
+
+- **Standard duration:**  
+  - **3–5 days** for most bursts (especially in stocks below ~$40).
+- **Extended moves:**  
+  - Occasionally **6–10 days** in higher‑priced stocks (>$100).  
+  - Rarely **8–15 days**; these are anomalies and should not drive your base plan.
+- For trading purposes:
+  - Treat bursts as a **3–5 day phenomenon**.
+  - For high‑priced names, allow up to **6–10 days**.
+
+### 2.3. Typical Magnitude by Price Range
+
+**Low‑priced stocks (< $10)**  
+- Typical burst: **20–40% in 3–5 days**.  
+- Very low‑priced (e.g., $4) can do:
+  - **50–100%+** in 3–5 days.
+  - Examples mentioned: **114%** and **100%** bursts in a $4 stock.
+- Common recent examples: **70%, 50%, 40%, 30%, 27%, 24%** in 3–5 days.
+
+**Mid‑priced stocks ($10–$40)**  
+- Typical burst: **8–20% in 3–5 days**.
+
+**High‑priced stocks ($100+)**  
+- Think in **dollars**, not percentages:
+  - Typical burst: **$10–$50** in a few days.
+- Example: **MCK (~$300)** moved **$27 in 5–6 days**.
+
+**Super high‑priced ($500+ / $1000)**  
+- Typical burst: **$50–$300 in 8–10 days**, often only **3–8%** in percentage terms.
+- Example: **BKNG**:
+  - One 3‑day burst: **$96**.
+  - Another: **$62** on the breakout day, **$168** over 3–4 days.
+- **AZO**: ~$100 move in 3 days.
+- **TSLA**: ~$35 (13%) in 3–4 days.
+
+### 2.4. Where Bursts Occur (Highs/Lows, 200‑day, Fundamentals, Float, ADR)
+
+**52‑week highs vs. lows**
+
+- Bursts **do not require** a stock to be near its 52‑week high.
+- Many of the **biggest moves (100–200%, 30%+)** start near **52‑week lows**.
+- Focusing only on 52‑week highs is a **limiting belief** that makes you miss huge moves.
+
+**200‑day moving average**
+
+- Many strong bursts occur **below the 200‑day MA**.
+- A stock can have **2–3 bursts of 20–30%** each before it ever reaches the 200‑day.
+- Treating the 200‑day as a “sacrosanct line” means **leaving a lot of money on the table**.
+
+**Fundamentals**
+
+- For 3–5 day bursts, **fundamentals are irrelevant**:
+  - Many of the biggest movers are **biotech / no‑earnings / no‑sales** names.
+  - Example: **AXSM** and similar stocks with poor current fundamentals made big moves.
+- Stocks with “great fundamentals” often **do not** make the biggest short‑term moves.
+
+**Float**
+
+- Low float is **not required**.
+- Bursts occur in:
+  - **18.6M float** stock: strong burst.
+  - **50M float**: ~**155%** move.
+  - **35M, 100M, 123M** float: **23–59%** moves.
+  - **482M** shares: **21%** move.
+- Over‑filtering to “<10M float only” will make you miss many good bursts.
+
+**ADR / Average Daily Range**
+
+- ADR is **backward‑looking**; it measures past volatility.
+- A momentum burst **itself increases ADR**.
+- If you only trade “high ADR” stocks, you will **miss many first‑leg bursts** that start from low ADR.
+
+### 2.5. Anticipatory vs. Reactive Trading
+
+- **70–80% of bursts cannot be anticipated** in advance.
+- The **first, most explosive bursts** are especially hard to predict.
+- Momentum burst trading is **inherently reactive**:
+  - You **react** to range expansion and volume **after** it starts.
+- Anticipation can sometimes work for:
+  - **Second bursts** after a first burst has occurred.
+- Building a strategy purely on anticipation means **missing most opportunities** and falling prey to hindsight illusions.
+
+
+---
+
+## 3. Setup Criteria and Scanning
+
+### 3.1. Range Expansion and the First Day of the Burst
+
+Characteristics of the **first day**:
+
+- **Large candle / big bar** vs. prior 3–4 days.
+- **Range expansion**:
+  - BYND examples:
+    - **+7%** day → **+28%** in 3–5 days.
+    - **+13%** day → **+10%** in 3 days.
+    - **+42%** day → **+102%** in 7 days.
+    - **+4.66%** day (still larger than prior bars) → continued move.
+- **Direction**:
+  - Big up bar → likely **3–5 day up move**.
+  - Big down bar → likely **3–5 day down move** (e.g., NVDA −16% over 3–5 days after a big down bar).
+- Context:
+  - Often after **sideways**, **minor pullback**, or **drift down**.
+
+### 3.2. The 4% Breakout / Breakdown Scan
+
+**Bullish 4% breakout conditions**
+
+1. **Price move**:  
+   - `C / C1 >= 1.04` (today’s close ≥ 4% above yesterday’s close).
+2. **Volume vs. yesterday**:  
+   - `V > V1`.
+3. **Minimum liquidity**:  
+   - `V >= 100000`.
+
+Example day:
+
+- Scan on US stocks + ETFs + ADRs returned **127** bullish breakouts.
+- Example stock: **+7.91%**, volume 5.2M vs. 1.2M prior day.
+
+**Bearish 4% breakdown conditions**
+
+1. `C / C1 <= 0.96` (today’s close ≤ 4% below yesterday’s close).  
+2. `V >= V1`.  
+3. `V >= 100000`.
+
+Example day:
+
+- **148** breakdowns.
+- Example: **−8%**, volume 599k vs. 337k.
+
+**TC2000 implementation**
+
+- Create **combo lists**:
+  - “4% breakout bullish”
+  - “4% breakdown”
+- Universe: US stocks + ADRs + ETFs.
+- Add price filter (e.g., `Price > 3`) to remove very low‑priced names:
+  - Example: bullish list shrank from 127 to **73**; bearish to **90**.
+
+### 3.3. Chart Template: 4% + Trend Intensity (TI65)
+
+**Base chart**
+
+- Candlesticks, no grid, watermark as desired.
+- Volume panel (black/red bars), no volume MA.
+
+**4% breakout indicator (bullish)**
+
+- Custom PCF % True Indicator, plotted as **green area**:
+  ```text
+  C / C1 >= 1.04 AND
+  V > V1 AND
+  V >= 100000
+  ```
+
+**4% breakdown indicator (bearish)**
+
+- Custom PCF % True Indicator, **red area**:
+  ```text
+  C / C1 <= 0.96 AND
+  V > V1 AND
+  V >= 100000
+  ```
+
+- Overlay bullish and bearish 4% indicators in one panel.
+
+**Trend Intensity (TI65)**
+
+- Bullish TI (green area):
+  ```text
+  AVG(C,7) / AVG(C,65) >= 1.05
+  ```
+- Bearish TI (red area):
+  ```text
+  AVG(C,7) / AVG(C,65) <= 0.95
+  ```
+- Overlay both on the **volume panel**.
+
+Save as a template (e.g., “4P”) so you can instantly see:
+
+- All 4% breakout/breakdown days.
+- Whether the stock is in a bullish or bearish trend.
+
+### 3.4. Filters to Control List Size and Improve Odds
+
+These are **optional**; Pradeep currently trades without them but they are useful for beginners or when lists are huge.
+
+**TI65 filter (momentum)**
+
+- Add condition to 4% breakout scan:
+  ```text
+  AVG(C,7) / AVG(C,65) >= 1.05
+  ```
+  - Reduces list (e.g., 73 → 24).
+- Stricter version:
+  ```text
+  AVG(C,7) / AVG(C,65) >= 1.19
+  ```
+  - Very few, very strong momentum names.
+- Caution: can **miss early leaders**, especially at the **start of a bull market**.
+
+**M20 filter (absolute momentum from 30‑day low)**
+
+- Anchored to **30‑day low**; requires:
+  - **≥20%** above 30‑day low **or** **≥$20** above 30‑day low.
+- Conceptually:
+  - “Up 20% or $20 from 30‑day low” AND 4% breakout.
+- Example: 4% breakout list 73 → **34** after M20.
+- Captures **younger trends** and **first/second legs** after a bottom.
+- Often picks up names like **Beyond Meat** earlier than TI65.
+
+**Top 25 TI65 filter**
+
+- Add TI65 column to breakout list, sort descending.
+- Only review **top 25** by TI65.
+- If none of the 25 are good setups, **skip trading** that day.
+- Good for beginners to avoid overwhelm.
+
+**6‑month momentum filter (MDT)**
+
+- Uses ~126‑day momentum (6 months).
+- Example threshold: average daily momentum ~**1.18%** over 126 days.
+- Filters to very strong 6‑month performers.
+- Useful if:
+  - You want **longer‑term holds**.
+  - You like **long consolidations + breakouts**.
+- Trade‑off: can **miss many good trades**; Pradeep no longer uses it.
+
+### 3.5. Market, Sector, and Capitalization Filters
+
+**Market phase: Market Monitor / Primary Indicator**
+
+- Primary indicator: number of stocks up **25%+ in a month or quarter**.
+  - **Green**: bullish, money flowing in.
+  - **Red**: bearish/weak.
+- 4% breakouts work best when:
+  - Primary indicator is **green** or turning green from oversold.
+  - There are **no 300+ down days** (days with 300+ stocks down big).
+- When:
+  - Primary indicator is **red** or
+  - There are frequent **300+ down days**,
+  - 4% breakouts have **low win rate** → avoid or reduce exposure.
+
+**“20+ daily” study (up 20% in 5 days)**
+
+- Tracks number of stocks **up 20%+ in 5 days**.
+- Extremely high readings (100–200 stocks):
+  - Indicate **peak momentum / blow‑off**.
+  - 4% breakouts often **stop working**.
+- Low readings, especially after a **300+ down day**:
+  - Good environment for new breakouts.
+
+**Fed policy**
+
+- When Fed is **supportive** (QE, liquidity):
+  - Breakouts can work for **8–18 months** straight.
+- When Fed **tightens**:
+  - Breakouts **fade more often**.
+
+**Sector focus**
+
+Best sectors for 4% breakouts:
+
+1. **Healthcare – especially Biotechnology**  
+2. **Technology**  
+3. **Consumer Discretionary** (luxury, fashion, lifestyle brands)
+
+Sectors to generally avoid for this method:
+
+- Utilities  
+- Defense  
+- Defensive consumer staples (e.g., Procter & Gamble, Colgate)
+
+**Capitalization filter**
+
+- Most big movers (20%+ in strong periods) are **< $10B** market cap.
+  - In one sample: **430** stocks up 20%+; only **75** were >$10B.
+- Many **most explosive** names are **< $1B**.
+- Very large caps (e.g., **LMT** at ~$112B):
+  - Few 4% breakout days.
+  - Smaller percentage moves.
+- Practical rule:
+  - Prefer **< $10B** market cap for breakout trades.
+  - For small accounts, this is especially important to get meaningful percentage gains.
+
+**Index‑based universe (for busy traders)**
+
+- Instead of scanning all US stocks + ADRs + ETFs, restrict to:
+  - **NASDAQ 100** + **S&P 500** (Dow 30 is subset of S&P 500).
+- Pros:
+  - Fewer, larger‑cap, more stable names.
+  - Easier to manage if you have limited time.
+- Cons:
+  - Fewer trades, smaller percentage moves vs. small caps.
+
+
+---
+
+## 4. Entry and Exit Strategies
+
+### 4.1. When to Enter (Intraday Timing)
+
+**Real‑time scanning**
+
+- With real‑time data (TC2000 Platinum or real‑time add‑on):
+  - Start scans **at the open**.
+  - Many of the best breakouts appear in the **first 30–60 minutes**.
+  - On strong bull days, by 30 minutes you may see **60–100** 4% breakouts.
+
+**Entry timing**
+
+- Enter **as soon as** a stock:
+  - Appears in the 4% breakout scan,
+  - Meets volume conditions (V > V1, V ≥ 100k),
+  - Meets pattern quality (2‑LYNCH / tool‑inch).
+- You can enter at:
+  - 9:30, 9:45, 10:00, 11:00, 2:00, 3:00, even 3:58,
+  - As long as the setup is valid.
+- **Do not**:
+  - Buy in **after‑hours**.
+  - Buy the breakout **the next day**:
+    - Bursts are 3–5 days; next‑day entries often have poor risk/reward and may gap.
+
+**“Too late at +4–6%?”**
+
+- No. The **4% move is the signal** that a real range expansion is happening.
+- Buying at +1–2% has **no guarantee** of becoming a burst.
+- The method is designed around **buying proven range expansion**, not guessing.
+
+**V/V1 early in the day**
+
+- The belief that V > V1 cannot be met early is **wrong**:
+  - If there is strong buying at the open, V can exceed V1 quickly.
+- Stocks that meet V/V1 and volume early are precisely the ones you want.
+
+### 4.2. The 2‑LYNCH
+
+2‑LYNCH is the **quality checklist** for 4% breakouts. Only A‑quality setups are traded.
+
+**2 – Not up two days in a row**
+
+- Before breakout day, stock should **not be meaningfully up** two days in a row.
+- Tiny moves (e.g., +0.26%, +0.38%, +0.52%) can be treated as **sideways**.
+- If clearly up 2–4 days in a row → **reject**.
+
+**L – Linearity**
+
+- Prior moves should be **smooth and persistent**, not choppy.
+- Linear first leg = consistent buying, no wild swings.
+- Choppy stocks:
+  - Require wide stops.
+  - Are unpredictable.
+  - Are **avoided**.
+
+**Y – Young setup**
+
+- Prefer **first or second leg** of a move.
+- Avoid **third, fourth, fifth, sixth legs**:
+  - Later legs are more obvious and more likely to fail.
+- Prefer **younger stocks** (IPO within ~10 years).
+
+**N – Negative or narrow‑range day before breakout**
+
+- Day before breakout should be:
+  - **Down day**, or
+  - **Narrow‑range / doji / small candle**.
+- Indicates low volatility before an **explosive** move.
+- If prior day is a strong up day (e.g., +3.6%) → reject.
+
+**C – Consolidation quality**
+
+Consolidation before breakout must be:
+
+- **Orderly and tight**:
+  - No wild up‑and‑down swings.
+  - No deep pullbacks.
+- **No more than one 4% breakdown**:
+  - Two or more 4% breakdowns in the base = **automatic reject**.
+- **Low and declining volume**:
+  - High‑volume choppy days in consolidation = distribution / instability → reject.
+- Volatility should **decrease** during consolidation.
+
+**H – Close near high**
+
+- At the time you buy (intraday), the stock should be **trading near its intraday high**.
+- Avoid:
+  - Big upper tails.
+  - Stocks that have given back **half or more** of the day’s gain.
+- Acceptable:
+  - Up $10 intraday, gives back $3, still up $7 (≈30% giveback).
+  - You can be stricter (10–20% giveback).
+
+**Tool‑inch / two‑linch examples**
+
+A textbook tool‑inch setup:
+
+- Strong, linear **first leg up**.
+- **3+ days** of tight consolidation:
+  - No 4% breakdown.
+  - Low volume.
+- Day before breakout: **narrow or negative**.
+- Breakout day:
+  - **4%+** move.
+  - **Close near high**.
+- Setup is **young** (first or second leg), not extended.
+
+Variations:
+
+- Longer consolidations (e.g., ENTA):
+  - Sideways for longer, but still:
+    - No 4% breakdown.
+    - Young setup.
+    - Clean breakout near high.
+- Sideways “up two days” with tiny moves:
+  - +0.26%, +0.38% treated as sideways, not true “up two days”.
+
+### 4.3. Exit Timing: The 3–5 Day “Golden Period”
+
+- Bursts are **3–5 day** phenomena (6–10 days for some high‑priced names).
+- For **low‑priced stocks**:
+  - The **golden period** is **3–5 days**.
+- For **high‑priced stocks**:
+  - Can extend to **6–10 days**, but still treat as a burst, not a long‑term hold.
+- Overstaying beyond day 4–5 often leads to **giving back profits**.
+
+### 4.4. Managing the Trade Day‑by‑Day
+
+Pradeep describes three main scenarios.
+
+**Scenario 1: Immediate follow‑through**
+
+- **Day 1**: Enter on breakout, stop at half‑range or low of day.
+- **Day 2**:
+  - If strong follow‑through (e.g., total profit ~6%):
+    - Move stop **up**:
+      - Slightly above half of Day 2’s range.
+      - Ensure worst case is a **profit**, not a loss.
+- **Day 3**:
+  - If total profit ~14% (common in sub‑$10 names):
+    - Move stop **very aggressively**:
+      - 1–2% below Day 3 close.
+      - Aim to keep **80–90%** of profit.
+- **Day 4**:
+  - Treat as **bonus day**.
+  - Use a **tight trailing stop** (e.g., 2–3%).
+  - Exit when stop is hit; no reason to hold beyond day 4–5.
+
+**Scenario 2: Delayed follow‑through (move starts on Day 3)**
+
+- **Day 1–2**:
+  - No real move; keep original stop.
+- **Day 3**:
+  - Breakout finally works; profit ~10%.
+  - Move stop close to Day 3 close (protect 80–90% of profit).
+- **Day 4**:
+  - If price dips below tightened stop, exit with profit.
+
+**Scenario 3: No follow‑through by Day 3 (time stop)**
+
+- If by **midday of Day 3** there is **no meaningful move**:
+  - Exit the trade, regardless of small profit or small loss.
+- Do **not** convert a failed short‑term burst into a long‑term hold.
+
+
+---
+
+## 5. Risk Management
+
+### 5.1. Stop Placement (Low of Day vs. Half‑Range)
+
+**Safest stop: low of breakout day**
+
+- Stop at **day’s low** (e.g., 30.12).
+- Very wide; safest for beginners but larger risk.
+
+**Intermediate / advanced: half of day’s range**
+
+- Stop at **open + (C − O)/2**:
+  - If day’s move is 5%, half‑range risk ≈ 2.5%.
+- Logic:
+  - If stock gives back **half of the breakout day’s gain**, the burst is **invalid**.
+- Much tighter; requires good selection to avoid frequent stop‑outs.
+
+**Three‑day low (historical)**
+
+- Earlier method: stop at **low of last 3 days**.
+- Now largely superseded by half‑range logic.
+
+**Intraday stop management**
+
+- If you enter early and stock moves strongly in your favor:
+  - You can **move stop up intraday** to reduce risk.
+
+### 5.2. Hard Stops vs. Mental Stops
+
+- Pradeep uses **hard stops**, not mental stops.
+- Reasons:
+  - Mental stops are easy to ignore or delay.
+  - Hard stops enforce discipline and remove emotion.
+- Stops are:
+  - Active **only during regular market hours**.
+  - Not active in **pre‑market or after‑hours** to avoid thin liquidity and bad fills.
+- Carrying stops overnight is fine; they trigger only during the day session.
+
+### 5.3. Position Sizing and Number of Positions
+
+**Risk per trade**
+
+- Typical for new traders:
+  - **0.25–0.5%** of account per trade.
+- Standard:
+  - **1%** of account per trade.
+- Advanced:
+  - **2%** per trade (only after mastery).
+
+**Position sizing tool**
+
+Inputs:
+
+1. Account size (e.g., $100,000).
+2. Risk % (e.g., 1% → $1,000).
+3. Entry price.
+4. Stop price.
+
+Example 1 (ECH, stop at low of day):
+
+- Account: $100,000.
+- Risk: 1% ($1,000).
+- Entry: 29.61.
+- Stop: 27.57.
+- Tool output: ~**490 shares**, ~$14–15k position.
+
+Example 2 (ECH, stop at half‑range 28.63):
+
+- Same account and risk.
+- Entry: 29.61.
+- Stop: 28.63.
+- Per‑share risk smaller → can buy **more shares**.
+- Position size can reach **~30% of account**.
+- With 3 such positions, you are fully invested.
+
+If stop is even closer (e.g., 29.00):
+
+- Position can be **~48% of account**.
+
+**Number of positions**
+
+- With tight stops and 1–2% risk, you may have:
+  - **2–4 positions** and be fully invested.
+- 3–4 positions are **manageable**.
+- 10–20 tiny positions are hard to manage and often ineffective.
+
+### 5.4. Typical Stop Sizes by Price Range
+
+Using **half‑range stops**:
+
+- **<$5 stocks**:
+  - Breakouts often 10–20% on day 1.
+  - Half‑range stop ≈ **10%**.
+- **$10–$40 stocks**:
+  - Breakouts 4–10%.
+  - Half‑range stop ≈ **5–6%**.
+- **Higher‑priced stocks**:
+  - Breakouts 4–5%.
+  - Half‑range stop ≈ **2.5–3%**.
+
+Using **low‑of‑day stops**:
+
+- Stops are generally **wider** (5–10%+), depending on range.
+
+To achieve **2.5–3% stops** on 4% breakouts, you need:
+
+1. Focus on **higher‑priced stocks**.
+2. Select **moderate breakouts** (5–6%, not 20%).
+3. Enter **early** in the move.
+4. Use **half‑range** stop.
+
+For $1–2 stocks, realistic stops are often **~20%** due to volatility.
+
+
+---
+
+## 6. Psychology and Discipline
+
+### 6.1. Pattern Recognition and Deep Dive Study
+
+- You must **train your eye** to recognize high‑quality bursts.
+- Recommended deep dive:
+  - Study **1,000–3,000** historical bursts (Pradeep suggests **3,000+**).
+- For each:
+  - Mark **day 1** and **day 3**.
+  - Record:
+    - First‑day % move (3–16% examples).
+    - Total move by day 3.
+    - Context (52‑week high/low, 52‑day/200‑day MA, ADR, market phase).
+- Goals:
+  - Verify the **3‑day phenomenon**.
+  - Quantify average move and duration.
+  - Derive realistic profit targets and stop strategies.
+- Build a **personal library** of 300–1,000 ideal setups and review them repeatedly.
+
+### 6.2. Young vs. Old Setups
+
+- Moves have **legs**:
+  - 1st, 2nd, 3rd, 4th, etc.
+- **Young setups**:
+  - 1st or 2nd leg.
+  - Early in the trend.
+  - Higher probability.
+- **Old setups**:
+  - 3rd, 4th, 5th, 6th leg.
+  - Very obvious to everyone.
+  - Higher failure rate.
+- Rule:
+  - “Younger the setup, better it is.”
+  - Avoid late, crowded breakouts.
+
+### 6.3. Avoiding Common Cognitive Traps
+
+- **ADR mentality**:
+  - Obsessing over past ADR and missing new bursts.
+- **200‑day MA dogma**:
+  - Refusing to trade below 200‑day and missing multiple 20–30% bursts.
+- **52‑week high bias**:
+  - Only trading near highs and missing huge moves from lows.
+- **Fundamental bias**:
+  - Insisting on “true leaders” with great earnings and missing big moves in poor‑fundamental names.
+- **Float fetish**:
+  - Over‑filtering to low float and missing many high‑float bursts.
+- **Hindsight illusion**:
+  - Believing bursts were obvious in advance.
+- **Greed / fantasy**:
+  - Expecting endless continuation after 14–20% in a few days.
+- **Hope‑based holding**:
+  - Staying in trades that haven’t moved by day 3.
+
+### 6.4. Progression from Basic to Advanced Tactics
+
+**Phase 1: Basic**
+
+- Use **simple stops** (low of day).
+- Risk **0.25–0.5%** per trade.
+- Trade only **A‑quality 2‑LYNCH setups**.
+- Focus on **execution and consistency**.
+
+**Phase 2: Intermediate**
+
+- Move to **half‑range stops**.
+- Risk **1%** per trade.
+- Use position sizing tool.
+- Manage **3–4 positions**.
+
+**Phase 3: Advanced**
+
+- Risk **2%** per trade.
+- Use **very tight stops** and **large positions** (40–80% of account).
+- Use **80–20 partial profit**:
+  - Take **80% off** on day 2–3.
+  - Let **20% run**.
+- Use **reverse pyramiding / pilling** on special patterns (e.g., W patterns).
+- Only after **years** of successful basic trading.
+
+
+---
+
+## 7. Real‑World Examples and Case Studies
+
+### 7.1. Low‑Priced Explosive Moves
+
+- $4 stock:
+  - **114%** burst in 3–5 days.
+  - Another **100%** burst.
+- Other sub‑$10 names:
+  - **70%, 50%, 40%, 30%, 27%, 24%** bursts in 3–5 days.
+
+### 7.2. High‑Priced Names
+
+- **BKNG**:
+  - 3‑day burst: **$96**.
+  - Another: **$62** breakout day, **$168** over 3–4 days.
+  - Also had a **$92** downside burst.
+- **MCK (~$300)**:
+  - Clear range expansion → **$27** in 5–6 days.
+- **AZO**:
+  - 3‑day burst: **~$100**.
+- **TSLA**:
+  - 3–4 day burst: **$35** (~13%).
+
+### 7.3. BYND and Biotech / No‑Earnings Names
+
+- **BYND**:
+  - **+7%** day → **+28%** in 3–5 days.
+  - **+13%** day → **+10%** in 3 days.
+  - **+42%** day → **+102%** in 7 days.
+- Biotech / no‑earnings stocks:
+  - Many **100% moves in short swings**.
+  - Often dominate the list of biggest 15‑day movers.
+
+### 7.4. ENTA and Other Tool‑Inch Variations
+
+- **ENTA**:
+  - Strong first leg with aggressive buying.
+  - Longer sideways consolidation:
+    - Some negative days but **no 4% breakdown**.
+  - Clean breakout:
+    - Close near high.
+    - Not up two days in a row into breakout.
+  - Valid two‑inch setup despite longer consolidation.
+
+
+---
+
+## 8. Common Mistakes to Avoid
+
+- Trading **B‑ or C‑quality** breakouts (choppy, multiple breakdowns, not closing near high).
+- Buying when stock is **up 2–4 days in a row** before breakout.
+- Ignoring **consolidation quality** (deep, choppy, high‑volume bases).
+- Holding beyond **day 4–5** hoping for more.
+- Not using a **time stop** when no move by day 3.
+- Entering **late in the day** with huge distance to stop.
+- Using **mental stops** and failing to exit.
+- Over‑filtering by **float**, **ADR**, **200‑day**, **52‑week high**, or **fundamentals**.
+- Trading 4% breakouts when:
+  - Market Monitor primary indicator is **red**.
+  - There are frequent **300+ down days**.
+  - “20+ daily” readings are extremely high (blow‑off).
+- Trying to **anticipate** every burst instead of reacting to range expansion.
+
+
+---
+
+## 9. Key Takeaways
+
+1. **Core edge**: Stocks move in **3–5 day bursts**; learn to capture that window.
+2. **Trigger**: A **range expansion day**, often a **4%+ breakout** on higher volume.
+3. **Selection**: Use **2‑LYNCH / tool‑inch** to trade only **A‑quality** setups.
+4. **Entry**: Enter **as early as possible** on the breakout day; do not chase next day.
+5. **Exit**: Treat bursts as **3–5 day trades**; aggressively protect profits by day 3–4.
+6. **Stops**: Start with **low‑of‑day** stops; progress to **half‑range** stops as you gain skill.
+7. **Sizing**: Risk **0.25–1%** per trade initially; use a tool to size positions precisely.
+8. **Market filter**: Trade 4% breakouts mainly when the **Market Monitor is bullish** and money is flowing in.
+9. **Universe**: Focus on **< $10B** market cap and sectors like **biotech, tech, consumer discretionary** for the biggest moves.
+10. **Study**: Do a **deep dive** on thousands of bursts; build a personal library of ideal patterns.
+11. **Mindset**: Be **reactive, not predictive**; avoid dogmatic rules and hindsight illusions.
+12. **Progression**: Master the basic method before attempting advanced tactics like **80–20 partials** or very large position sizes.
+
+If you internalize these principles and execute them consistently, the Momentum Burst / 4% Breakout framework provides a clear, repeatable way to exploit the market’s natural tendency to move in short, powerful bursts.

@@ -1,0 +1,241 @@
+## Table of Contents
+
+1. Introduction to the 4% Breakout/Breakdown Scan  
+2. When to Run the 4% Breakout and Breakdown Scans  
+   2.1. Real-Time Data Requirements (TC2000)  
+   2.2. Scan Behavior at Market Open  
+   2.3. Intraday Scan Behavior (Morning vs Afternoon)  
+3. How to Trade Using the 4% Breakout Scan  
+   3.1. Selecting Candidates in Real Time  
+   3.2. Capital Constraints and Trade Frequency  
+4. Common Objections and Misunderstandings  
+   4.1. “By the Time It’s Up 4%, It’s Too Late”  
+   4.2. “V/V1 Condition Can’t Be Met Early in the Day”  
+   4.3. Misunderstanding Momentum, Range Expansion, and Volume  
+5. Practical Guidelines and Psychological Advice  
+   5.1. Focus on Genuine Momentum Bursts  
+   5.2. Avoid Premature Entries and Scan Modifications  
+   5.3. Importance of Deep Study of the Setup  
+
+
+---
+
+## 1. Introduction to the 4% Breakout/Breakdown Scan
+
+The 4% breakout and 4% breakdown scans are tools to identify **momentum bursts**—stocks that are making a significant range expansion move (up or down) with strong participation. These scans are designed to find stocks that are already moving with enough magnitude and volume to have a higher probability of follow-through during the trading day.
+
+The lesson focuses on:
+- **When** to run these scans.
+- **How** to interpret and trade the candidates.
+- **Why** certain conditions (like V/V1 and minimum volume) are critical.
+- **Common misconceptions** traders have about “getting in too late” or about early-day volume conditions.
+
+
+---
+
+## 2. When to Run the 4% Breakout and Breakdown Scans
+
+### 2.1. Real-Time Data Requirements (TC2000)
+
+- The scans are demonstrated using **TC2000**.
+- If you only have **Gold membership**:
+  - You have **20-minute delayed data**.
+  - With delayed data, you will not see meaningful scan results for the **first 30–45 minutes** after the open.
+- To see candidates **immediately at the open**, you need:
+  - **Real-time add-on data** (approximately $12).
+- The instructor personally uses:
+  - **TC2000 Platinum plan**, which allows scans to run **immediately** as the market opens.
+
+**Key point:** Real-time data is essential if you want to capture the early, high-quality momentum bursts that appear right after the open.
+
+---
+
+### 2.2. Scan Behavior at Market Open
+
+- As soon as the market opens, the **4% breakout and 4% breakdown scans start populating**.
+- The **first few minutes** after the open:
+  - Stocks that show up early are often the ones that **build momentum over the day**.
+  - Many stocks that go on to make **big moves** typically appear in the **first 30 minutes to 1 hour**.
+  - Most of them show up in the **first half hour**.
+
+**Behavior in a bull market:**
+- On most days in a **bull market**, the majority of strong 4% breakouts will appear **early in the morning**.
+- On strong days, by **30 minutes after the open**, you may see:
+  - **60, 70, 80, sometimes 100 stocks** in the 4% breakout scan.
+
+---
+
+### 2.3. Intraday Scan Behavior (Morning vs Afternoon)
+
+- The scan should be run **throughout the day**.
+- Typical pattern:
+  - **Morning:** Most of the high-quality momentum bursts appear.
+  - **Afternoon:** Sometimes, especially on certain days, **strong buying can come in during the afternoon**, causing new 4% breakouts to appear later in the day.
+- The instructor:
+  - Runs the **4% breakout and 4% breakdown scans continuously** from the **opening print** until the close.
+
+**Summary:**
+- **Start running the scans as soon as the market opens.**
+- **Continue running them all day.**
+- The **first half of the day** is where the **“real money”** is typically made with this setup, but valid setups can appear at any time.
+
+
+---
+
+## 3. How to Trade Using the 4% Breakout Scan
+
+### 3.1. Selecting Candidates in Real Time
+
+- As stocks start showing up in the scan:
+  - The instructor looks for the **first good setup** and is willing to buy it.
+  - If the first is not ideal, he may buy the **second or third** good setup that appears.
+- He acts **immediately** when a good setup appears that meets the criteria:
+  - 4% breakout condition.
+  - V/V1 condition.
+  - Minimum volume condition (e.g., 100,000 shares).
+
+**Time flexibility:**
+- If no good candidate appears in the first 30 minutes:
+  - He is still willing to buy at **11:00**, **2:00**, **3:00**, or even **3:58** if a **good setup** appears.
+- The key is **quality of the setup**, not the time of day.
+
+---
+
+### 3.2. Capital Constraints and Trade Frequency
+
+- In the **first half hour**, you will often see **more tradeable candidates than you have capital**.
+- This means:
+  - You must **select** among multiple candidates.
+  - You cannot take every trade; you must prioritize the **best setups**.
+
+**Implication:** The early part of the day can be very opportunity-rich, but you must be selective and disciplined in choosing which breakouts to trade.
+
+---
+
+## 4. Common Objections and Misunderstandings
+
+### 4.1. “By the Time It’s Up 4%, It’s Too Late”
+
+Many traders object that:
+- “By the time a stock shows up in the 4% breakout scan, it’s already up 4–6%, or even 10–20% for low-priced stocks. Isn’t that too late?”
+
+**Response:**
+- This objection reflects a **misunderstanding of momentum bursts**.
+- The **whole idea** of the 4% breakout is:
+  - You are selecting stocks that have a **significant range expansion**.
+  - This magnitude (4% or more) is what gives the move a **higher probability of follow-through**.
+- If you try to buy the stock when it is only **1–2% up**:
+  - There is **no guarantee** it will ever become a momentum burst.
+  - It may not be a genuine range expansion at all.
+
+**Key principle:**
+- A **momentum burst** requires a **certain magnitude of move**.
+- The fact that the stock is already up **4–6% (or more)** is **not a reason to avoid it**; it is a **reason to consider it**, because it indicates a real range expansion.
+
+---
+
+### 4.2. “V/V1 Condition Can’t Be Met Early in the Day”
+
+Another common objection:
+- “Your 4% breakout scan has a **V/V1 condition** (today’s volume vs yesterday’s volume), and that condition will never be met in the first half of the day.”
+
+**Response:**
+- This is **incorrect**.
+- The **V/V1 condition can be met as early as 9:30**, right at the open.
+- If, at the open, there are **more buyers than yesterday’s buying**, the stock can meet the V/V1 condition **immediately**.
+- The instructor has traded this setup for **22 years** and has seen **stocks meet V/V1 every day**, including **first thing in the morning**.
+
+**Key point:**
+- Stocks that meet **V/V1 early** and also meet the **minimum volume condition** (e.g., 100,000 shares) are the ones that are being **strongly bought**.
+- These are precisely the kinds of stocks you want for a **momentum burst** trade.
+
+---
+
+### 4.3. Misunderstanding Momentum, Range Expansion, and Volume
+
+- Buying a stock that:
+  - Does **not** meet the **V/V1 condition**, and
+  - Does **not** meet the **100,000 volume condition**,
+- Means you are buying something that:
+  - **Does not have clear momentum**,
+  - **Does not have strong range expansion**,
+  - **Does not have volume expansion**.
+
+The **probability of such trades working** is **much lower**.
+
+**Root cause of objections:**
+- These objections (“too late,” “V/V1 can’t be met early”) come from:
+  - **Not understanding how prices move** in the market.
+  - **Not understanding the mechanics** of the momentum burst setup.
+- Instead of accepting the logic of the setup, traders often:
+  - Try to **modify the scan** to get in “earlier,”
+  - Enter trades that are **not true breakouts** and **not true momentum bursts**.
+
+---
+
+## 5. Practical Guidelines and Psychological Advice
+
+### 5.1. Focus on Genuine Momentum Bursts
+
+- The **4% breakout** is designed to capture **genuine momentum bursts**:
+  - **Range expansion** of at least 4%.
+  - **Volume expansion** (V/V1 and minimum volume).
+- Stocks that:
+  - Show up **early** in the scan,
+  - Meet **V/V1** and **volume** conditions,
+- Are the ones being **strongly bought** and are more likely to **trend for the rest of the day**.
+
+**Remember:**
+- Many of the best trades will:
+  - Show up in the **first few minutes**.
+  - Continue to **go up for the rest of the day** if the momentum is genuine.
+
+---
+
+### 5.2. Avoid Premature Entries and Scan Modifications
+
+- Trying to:
+  - Get in **before** the 4% breakout,
+  - Or **loosening** the conditions (e.g., ignoring V/V1 or volume),
+- Leads to:
+  - Entering trades that **lack true momentum**.
+  - Lower probability setups.
+- Do **not**:
+  - Modify the scan just to catch “early” moves that **haven’t proven themselves** as momentum bursts.
+
+**Guideline:**
+- Let the **setup prove itself**:
+  - Wait for the **4% breakout**.
+  - Ensure **V/V1** and **volume** conditions are met.
+- Trade **proven momentum**, not **hopeful anticipation**.
+
+---
+
+### 5.3. Importance of Deep Study of the Setup
+
+- The instructor emphasizes:
+  - Many objections and mistakes come from **superficial understanding**.
+- He advises:
+  - Spend time doing **deep dives** into:
+    - How **prices move**.
+    - How **momentum bursts** behave.
+    - The **mechanics** of the 4% breakout setup.
+- Before:
+  - Modifying scans.
+  - Entering trades that are **not even breaking out**.
+
+**Psychological takeaway:**
+- Be **patient** and **disciplined**.
+- Respect the **rules of the setup**.
+- Do the **work to understand** why each condition exists, instead of trying to shortcut the process.
+
+---
+
+**Core Summary:**
+
+- **Run 4% breakout and breakdown scans from the market open and throughout the day.**
+- **Use real-time data** (e.g., TC2000 with real-time add-on or Platinum) to capture early opportunities.
+- The **first half hour to one hour** is typically where the **best momentum bursts** appear, but valid setups can occur at any time.
+- Do **not fear buying stocks already up 4–6% (or more)**; that magnitude is what defines a momentum burst.
+- The **V/V1 and volume conditions can and do get met early** and are essential to identify **strongly bought** stocks.
+- Avoid **premature entries** and **scan modifications** that dilute the setup; instead, **study and understand** the mechanics of momentum bursts before changing anything.

@@ -1,0 +1,135 @@
+## Table of Contents
+
+1. Understanding “Young” vs “Old” Setups in 4% Breakouts  
+   1.1 Definition of a “Leg” in a Move  
+   1.2 What Makes a Setup “Young”  
+   1.3 What Makes a Setup “Old”
+
+2. Why Younger Setups Have Higher Probability  
+   2.1 Failure Rates in Later Legs  
+   2.2 Profit-Taking Pressure on Obvious Breakouts
+
+3. Ideal Setup Characteristics in the 4% Breakout Method  
+   3.1 First Leg Followed by Orderly Consolidation  
+   3.2 The “Two-Leg” Context for a Good Setup  
+   3.3 Future Focus: Finding the First Leg with 4% Breakouts
+
+4. Practical Guidelines for Selecting Setups  
+   4.1 Prefer Young, Early-Stage Moves  
+   4.2 Avoid Late, Crowded, “Everybody’s Watching” Moves  
+   4.3 Summary Rule to Remember
+
+
+---
+
+## 1. Understanding “Young” vs “Old” Setups in 4% Breakouts
+
+### 1.1 Definition of a “Leg” in a Move
+- A “leg” refers to a distinct upward move in the stock’s price within a trend.  
+- The sequence is typically described as:
+  - First leg  
+  - Second leg  
+  - Third leg  
+  - Fourth leg, etc.  
+- Each leg is usually followed by some form of consolidation or pullback before the next leg begins.
+
+### 1.2 What Makes a Setup “Young”
+- A setup is considered “young” when:
+  - The stock is in its first or second leg of the move.  
+  - The breakout is occurring early in the overall trend.  
+- In the example described:
+  - The stock has a strong first leg.  
+  - It then forms an orderly consolidation or pullback.  
+  - The breakout from this early consolidation is a “young” setup.
+
+### 1.3 What Makes a Setup “Old”
+- A setup is considered “old” when:
+  - The stock is in its third, fourth, or later leg of the move.  
+  - The stock has already made a big move and is widely recognized.  
+- By the fourth leg:
+  - The stock is often well known.  
+  - “Everybody’s eyes are on it.”  
+  - The breakout is obvious to many market participants.  
+- Such later-stage breakouts are no longer “young” setups.
+
+---
+
+## 2. Why Younger Setups Have Higher Probability
+
+### 2.1 Failure Rates in Later Legs
+- As the number of legs increases, the probability of failure rises:
+  - “Typically the older the setup becomes, more is the rate of failures.”  
+- Fourth, fifth, or sixth leg breakouts:
+  - Tend to have lower win rates.  
+  - Are more likely to fail compared to first or second leg setups.
+
+### 2.2 Profit-Taking Pressure on Obvious Breakouts
+- When a stock has already made a large move:
+  - The breakout becomes obvious and attracts a lot of attention.  
+  - Many traders are already in the stock with profits.  
+- These obvious, late-stage breakouts:
+  - Often attract profit-taking rather than fresh, strong buying.  
+  - This profit-taking can cause the breakout to fail or stall.  
+
+---
+
+## 3. Ideal Setup Characteristics in the 4% Breakout Method
+
+### 3.1 First Leg Followed by Orderly Consolidation
+- A good 4% breakout setup typically shows:
+  - A clear first leg of the move.  
+  - Followed by an orderly consolidation or pullback (not wild or erratic).  
+  - Then a breakout from this consolidation.  
+- This structure indicates:
+  - Early-stage momentum.  
+  - Controlled, healthy pause before continuation.
+
+### 3.2 The “Two-Leg” Context for a Good Setup
+- Ideal setups often appear:
+  - After the first leg has been established.  
+  - When the first “tool-inch” (two-leg) type setup shows up.  
+- In this context:
+  - The stock has proven it can move (first leg).  
+  - The consolidation sets up the second leg.  
+  - The breakout is still early in the overall move, keeping the setup “young.”
+
+### 3.3 Future Focus: Finding the First Leg with 4% Breakouts
+- Beyond trading the second leg:
+  - It is also possible to identify and trade the first leg itself using the 4% breakout method.  
+- This is mentioned as a future topic:
+  - “Later we are going to see how you can find even the first leg of the move itself by another kind of a setup using four percent breakout.”  
+- The key idea:
+  - There are specific 4% breakout setups that can capture the very beginning of the move, not just the second leg.
+
+---
+
+## 4. Practical Guidelines for Selecting Setups
+
+### 4.1 Prefer Young, Early-Stage Moves
+- Core principle:
+  - “Younger the setup, better it is.”  
+- Focus on:
+  - First or second leg breakouts.  
+  - Early consolidations after an initial strong move.  
+- These have:
+  - Higher probability of success.  
+  - Better odds of producing profitable trades.
+
+### 4.2 Avoid Late, Crowded, “Everybody’s Watching” Moves
+- Be cautious when:
+  - The stock is on its fourth, fifth, or sixth leg.  
+  - The stock is widely followed and “everybody is excited about consolidation.”  
+- In such cases:
+  - The breakout is more likely to fail.  
+  - Profit-taking pressure is higher.  
+  - Your win rate will tend to decrease if you repeatedly buy these late-stage breakouts.
+
+### 4.3 Summary Rule to Remember
+- Always remember:
+  - Look for younger setups in the 4% breakout method.  
+  - Avoid obvious, late-stage breakouts after big moves.  
+- Practical rule:
+  - Ideal: First leg established, then an orderly consolidation, then breakout (early in the move).  
+  - Risky: Fourth, fifth, sixth leg breakouts that are obvious and crowded.  
+- Applying this nuance consistently:
+  - Improves your probability of making money with the 4% breakout setup.

@@ -1,0 +1,306 @@
+## Table of Contents
+
+1. Introduction  
+2. The 2-Lynch Criteria: Definition and Components  
+   2.1. Not Up Two Days in a Row  
+   2.2. Linearity  
+   2.3. Young Setup  
+   2.4. Narrow or Negative Day Prior to Breakout  
+   2.5. Consolidation Quality  
+   2.6. Low Volume During Consolidation  
+   2.7. Decreasing Volatility in Consolidation  
+   2.8. Close Near the High  
+3. The 4% Breakout Scan Setup  
+4. Applying 2-Lynch to the 4% Breakout Scan  
+   4.1. Using 2-Lynch to Rapidly Eliminate Weak Setups  
+   4.2. Examples of Rejected Setups and Why They Fail  
+   4.3. Examples of Accepted Setups and Why They Qualify  
+5. A-, B-, and C-Quality Setups  
+6. Practical Workflow: How to Use 2-Lynch Daily  
+7. Key Takeaways and Psychological Advice  
+
+
+---
+
+## 1. Introduction
+
+This lesson explains how to apply the 2-Lynch criteria to a 4% breakout scan in TC2000. The goal is to filter a large list of breakout candidates down to a small number of high-quality trades, improving win rate and reducing frustration.
+
+The example used is a specific trading day (Friday) where a 4% breakout scan produced 73 stocks. The lesson shows how most of these are eliminated using 2-Lynch, leaving only a few A-quality setups.
+
+---
+
+## 2. The 2-Lynch Criteria: Definition and Components
+
+**2-Lynch** is a set of conditions used to judge whether a breakout setup is high quality. It focuses on the behavior of price and volume before the breakout.
+
+2-Lynch stands for:
+
+- Not up two days in a row  
+- Linearity  
+- Young setup  
+- Narrow or negative day prior to breakout  
+- Consolidation quality should be good  
+- Not more than one 4% breakdown in consolidation  
+- Low volume during consolidation  
+- Not a choppy consolidation  
+- Volatility should decrease during consolidation  
+- Stock should close near the high
+
+Each component is used to quickly accept or reject a stock from the scan list.
+
+### 2.1. Not Up Two Days in a Row
+
+- The stock **should not be up two days in a row** going into the breakout.  
+- If the stock is already up 2–3 days before the breakout day, it is extended and risk is higher.  
+- Example: “Stock is up two days in a row… so no.”  
+- Stocks up three or four days in a row are also rejected.
+
+### 2.2. Linearity
+
+- The **first leg up** (prior advance) should be **linear**, not choppy.  
+- Linear means consistent buying with relatively smooth upward movement.  
+- Choppy first legs with many sharp reversals or overlapping bars are downgraded or rejected.  
+- Example: “This is a very choppy stock. So linearity is an issue… so I am not going to select that.”
+
+### 2.3. Young Setup
+
+- The setup should be **young**, meaning:
+  - Not in the 4th or 5th leg of an extended move.
+  - Preferably the **first leg** followed by a fresh consolidation and breakout.
+- If the stock has already had multiple legs (first, second, third, fourth) and this would be the fifth leg, it is **not young** and is rejected.
+
+### 2.4. Narrow or Negative Day Prior to Breakout
+
+- The day **before the breakout** should be:
+  - A **narrow range** day, or  
+  - A **negative** (down) day.
+- This indicates a controlled, low-volatility pause before the breakout.
+- If the day before breakout is a strong up day (e.g., up 3.6%), it is a negative sign and the setup is rejected.
+
+### 2.5. Consolidation Quality
+
+Consolidation quality is a central part of 2-Lynch. A good consolidation:
+
+- Is **orderly**, not wild or erratic.
+- Has **no more than one 4% breakdown** during the consolidation.
+- Is not a **deep pullback** that looks like a sharp correction rather than a tight base.
+- Is not **all over the place** with large swings.
+
+Bad consolidation examples:
+
+- Multiple 4% breakdowns (e.g., “two 4% breakdowns” or “three–four percent breakdowns”).  
+- Deep pullbacks instead of tight sideways action.  
+- Very choppy consolidations with big up and down days.  
+- High volume during consolidation (see next section).
+
+If consolidation is poor, choppy, deep, or has multiple 4% breakdowns, the setup is rejected.
+
+### 2.6. Low Volume During Consolidation
+
+- During consolidation, **volume should be low**.  
+- High volume in consolidation suggests distribution or lack of controlled pause.  
+- Example: “There was like a volume was high during this consolidation. So it doesn’t meet 2-Lynch criteria.”
+
+### 2.7. Decreasing Volatility in Consolidation
+
+- Volatility should **decrease** during consolidation.  
+- The stock should “quiet down” before the breakout.  
+- Large, erratic bars in the base indicate poor consolidation quality and are rejected.
+
+### 2.8. Close Near the High
+
+- On the breakout day, the stock should **close near the high of the day**.  
+- If the stock gaps up and then gives up gains, or fails to close near the high, it is rejected.  
+- “Stock is not closing near the high” is repeatedly used as a reason to eliminate candidates.
+
+---
+
+## 3. The 4% Breakout Scan Setup
+
+- The scan is run in **TC2000**.  
+- Conditions:
+  - **4% breakout** (price up at least 4% on the day).  
+  - **Price above $3**.  
+- On the example Friday, this scan produced **73 stocks**.
+
+The scan is only the first step. Most stocks that pass the scan are not good buys. 2-Lynch is used to filter them.
+
+---
+
+## 4. Applying 2-Lynch to the 4% Breakout Scan
+
+### 4.1. Using 2-Lynch to Rapidly Eliminate Weak Setups
+
+The process:
+
+1. Run the 4% breakout scan.
+2. Go through each stock **quickly**, using 2-Lynch as a checklist.
+3. Eliminate stocks immediately when:
+   - Up 2+ days in a row.
+   - Multiple 4% breakdowns in consolidation.
+   - Choppy or deep consolidation.
+   - High volume in consolidation.
+   - Not closing near the high.
+   - Setup is not young (many prior legs).
+   - Stock is in a clear downtrend.
+
+Using this method, **80–95%** of the stocks from the scan are eliminated. Only a few A-quality setups remain.
+
+### 4.2. Examples of Rejected Setups and Why They Fail
+
+Below are typical reasons used in the lesson to reject stocks:
+
+- **Up multiple days in a row**:
+  - “Stock is up two days in a row… so no.”
+  - “Stock is now up three days almost… this is the third day of a swing… so no.”
+  - “Stock is up four days in a row… so that is not a good breakout.”
+
+- **Multiple 4% breakdowns in consolidation**:
+  - “There are two 4% breakdowns… am I going to select this? No.”
+  - “Consolidation has two 4% breakdowns… so this is not a good candidate.”
+  - “Two 4% breakdown itself is a killer.”
+
+- **Choppy or poor consolidation**:
+  - “This is a very choppy stock… linearity is an issue.”
+  - “This is not an orderly consolidation.”
+  - “Consolidation is very choppy.”
+  - “Consolidation is all over the place.”
+  - “Deep consolidation… very choppy consolidation… not a good setup.”
+
+- **High volume during consolidation**:
+  - “There was like a volume was high during this consolidation. So it doesn’t meet 2-Lynch criteria.”
+  - “One big high volume down day in this consolidation… so answer is no.”
+
+- **Not closing near the high**:
+  - “Stock is not closing near the high… so automatically it goes.”
+  - “Gapping up and giving up the gains, not closing near high… eliminate.”
+
+- **Not young / too many legs**:
+  - “First leg, second leg, third leg, fourth leg, this will be a fifth leg. So is it young? No.”
+
+- **Downtrend**:
+  - “Stock is in a downtrend actually… so no.”
+  - “This is in a downtrend… and not closing near the high also.”
+
+These criteria are applied quickly, often rejecting a stock after just one or two clear violations.
+
+### 4.3. Examples of Accepted Setups and Why They Qualify
+
+A few stocks from the scan **did** meet 2-Lynch criteria. Key characteristics:
+
+1. **Example 1 (unnamed individual stock)**  
+   - First leg was **very linear**.  
+   - **Orderly pullback** with:
+     - No 4% breakdown.
+     - Low volume during pullback.
+   - Breakout day:
+     - Stock is **breaking out**.
+     - **Closing near the high**.  
+   - This is identified as a valid candidate.
+
+2. **Another candidate (individual stock)**  
+   - First leg with **continuous buying**.  
+   - **Orderly pullback**, not a major pullback.  
+   - Pullback was **hardly 3%**.  
+   - Breakout day:
+     - **Breaking out**.
+     - **Closing near high**.  
+   - Meets 2-Lynch and is considered a good candidate.
+
+3. **ECH (ETF)**  
+   - First leg with **consistent buying for 4–5 days**.  
+   - **Orderly pullback**.  
+   - **Negative or narrow range day** before breakout.  
+   - Breakout day:
+     - **Closing near the high**.  
+   - Meets 2-Lynch and is selected.
+
+4. **BCH (stock)**  
+   - **Continuous buying** in the first leg.  
+   - **Orderly pullback**, not a major pullback.  
+   - Breakout day:
+     - **Breaking out**.
+     - **Closing near high**.  
+   - Meets 2-Lynch and is selected.
+
+These are described as **A-quality setups** that fully meet the 2-Lynch criteria.
+
+---
+
+## 5. A-, B-, and C-Quality Setups
+
+The lesson distinguishes between quality levels:
+
+- **A-quality setups**:
+  - Fully meet 2-Lynch criteria.
+  - Clean, linear first leg.
+  - Orderly, low-volume consolidation.
+  - No more than one 4% breakdown.
+  - Young setup.
+  - Close near the high.
+  - These are the setups you **should** trade.
+
+- **B- or C-quality setups**:
+  - Have issues such as:
+    - Choppy first leg.
+    - Choppy consolidation.
+    - Not closing near the high.
+    - Multiple breakdowns.
+  - Example: “This is a B category, C category setup… maybe kind of a setup unless somebody is putting gun to your head. I would not say that you should buy a setup like this.”
+  - These are **not recommended**. Trading them leads to lower win rates and frustration.
+
+The core advice: **Only select A-quality setups** that meet 2-Lynch. Avoid B and C setups even if they sometimes work.
+
+---
+
+## 6. Practical Workflow: How to Use 2-Lynch Daily
+
+The methodology described:
+
+1. **Run the 4% breakout scan** in TC2000:
+   - Condition: 4% breakout.
+   - Price > $3.
+
+2. **As soon as stocks start showing up**, go through them one by one.
+
+3. **Apply 2-Lynch criteria**:
+   - Check:
+     - Not up 2+ days in a row.
+     - Linearity of first leg.
+     - Young setup (not many prior legs).
+     - Narrow/negative day before breakout.
+     - Consolidation quality:
+       - Orderly.
+       - No more than one 4% breakdown.
+       - Low volume.
+       - Decreasing volatility.
+       - Not choppy or deep.
+     - Breakout day closes near the high.
+
+4. **Eliminate 80–95% of stocks**:
+   - Most stocks will fail on one or more criteria.
+   - Quickly discard them and move on.
+
+5. **Select only those that meet all criteria**:
+   - These are your **A-quality** candidates.
+   - Once a stock meets all your criteria, it becomes a valid trade idea.
+
+---
+
+## 7. Key Takeaways and Psychological Advice
+
+- When you apply 2-Lynch to a 4% breakout list, **about 95%** of setups will not meet your criteria.
+- This is **normal and desired**: the goal is to be highly selective.
+- The “trick” to having a **higher win rate** in breakout trading is:
+  - **Only select A-quality setups** that meet 2-Lynch.
+  - **Do not trade** B- or C-quality setups.
+- If you ignore 2-Lynch and trade lower-quality breakouts:
+  - You will likely be **frustrated** with the breakout method.
+- The process is simple:
+  - Run the scan.
+  - Apply 2-Lynch.
+  - Select only those that meet all criteria.
+  - Stop there.
+
+This disciplined filtering is the core of the lesson and the key to improving breakout trading performance.

@@ -1,0 +1,160 @@
+## Table of Contents
+
+1. Overview: Stops on 4% Breakouts  
+2. Impact of Stock Price on Breakout Size and Stops  
+   2.1. Low-Priced Stocks (Below $5)  
+   2.2. Mid-Priced Stocks ($10–$40)  
+   2.3. Higher-Priced Stocks  
+3. How Stop Placement Method Affects Stop Size  
+   3.1. Using Half of the Day’s Range  
+   3.2. Using Low of the Day  
+4. Selecting Breakouts to Control Risk  
+5. Typical Average Stops from Experience  
+6. Role of Early Entries in Reducing Stops  
+7. Realistic Expectations for Very Low-Priced Stocks  
+8. Key Requirements to Achieve 2.5–3% Stops on 4% Breakouts  
+
+
+---
+
+## 1. Overview: Stops on 4% Breakouts
+
+When trading 4% breakouts, the average percentage stop is not fixed. It depends primarily on:
+
+- The price range of the stock you trade.
+- The size of the breakout move on that day.
+- How and when you enter (early vs. late in the day).
+- Where you place your stop (half of the day’s range vs. low of the day).
+
+You cannot assume a uniform 2.5–3% stop on all 4% breakouts; it is only possible in specific conditions.
+
+---
+
+## 2. Impact of Stock Price on Breakout Size and Stops
+
+### 2.1. Low-Priced Stocks (Below $5)
+
+- Typical breakout size:  
+  - Often 10–20% on the first day of the breakout.
+- Implication for stops:  
+  - If you place your stop at half of the day’s range, your stop will be around 10%.  
+  - Realistically, stops need to be wide to accommodate volatility.
+- Conclusion:  
+  - Low-priced stocks can make big moves, but they require correspondingly wider stops.
+
+### 2.2. Mid-Priced Stocks ($10–$40)
+
+- Typical breakout size:  
+  - Usually between 4% and 10%.
+- Implication for stops:  
+  - If using half of the day’s range as a stop, average stops are around 5–6%.  
+  - If using the low of the day as a stop, stops can be in the 5–10% range, depending on the day’s range.
+- Conclusion:  
+  - For this price range, 5–6% is a realistic average stop if you use half of the day’s range.
+
+### 2.3. Higher-Priced Stocks
+
+- Typical breakout size:  
+  - Often just 4–5% (e.g., 4%, 4.5%, 5%).
+- Implication for stops:  
+  - Using half of the day’s range can give you stops in the 2.5–3% range.
+- Conclusion:  
+  - Higher-priced stocks tend to have smaller percentage breakouts, allowing tighter stops if you enter and place stops correctly.
+
+---
+
+## 3. How Stop Placement Method Affects Stop Size
+
+### 3.1. Using Half of the Day’s Range
+
+- Method:  
+  - Place the stop roughly at the midpoint of the breakout day’s range.
+- Resulting stops:  
+  - Low-priced stocks (<$5): around 10% or more.  
+  - Mid-priced stocks ($10–$40): around 5–6%.  
+  - Higher-priced stocks: around 2.5–3%.
+- Key point:  
+  - This is the primary way to keep stops tighter when the breakout itself is not too large.
+
+### 3.2. Using Low of the Day
+
+- Method:  
+  - Place the stop at the low of the breakout day.
+- Resulting stops:  
+  - Can be significantly larger than using half of the day’s range, often 5–10% or more depending on the stock and breakout size.
+- Key point:  
+  - Using the low of the day generally increases your stop size compared to using half of the day’s range.
+
+---
+
+## 4. Selecting Breakouts to Control Risk
+
+- If a stock is breaking out 20% in a day:
+  - Even a stop at half of the day’s range implies about a 10% stop.
+  - For personal trading, such large breakouts are avoided because they require wide stops.
+- Preferred breakouts:
+  - Breakouts closer to 5–6% are selected.
+  - This allows stops to be controlled around 2.5–3% when using half of the day’s range.
+- Key idea:
+  - Controlling stop size starts with selecting the right kind of breakout (moderate, not extreme).
+
+---
+
+## 5. Typical Average Stops from Experience
+
+- Early years (trading 4% breakouts, not focusing on higher-priced stocks):
+  - Average stop was around 8%.
+- After gaining experience and refining the method:
+  - Trading more higher-priced stocks and momentum bursts reduced average stops significantly.
+- Additional methods used:
+  - Dollar breakouts are also traded, which tend to give lower average stops than the 5–6% typical of standard 4% breakouts.
+- Key point:
+  - Experience, stock selection, and method refinement can materially reduce average stop size over time.
+
+---
+
+## 6. Role of Early Entries in Reducing Stops
+
+- If you do not have early entries:
+  - Entering near the end of the day (e.g., 3:00–4:00 PM) typically leads to larger stops.
+  - For late entries, average stops on 4% breakouts will realistically be in the 5–10% range, depending on price point.
+- To reduce stops on 4% breakouts:
+  - Incorporate early entries into your process.
+  - Focus on setups where, at the time you enter, the stock is up around 5–6%.
+  - Place stops near half of the day’s range.
+- Key point:
+  - Timing of entry is critical; late entries make tight stops (2.5–3%) very difficult to achieve.
+
+---
+
+## 7. Realistic Expectations for Very Low-Priced Stocks
+
+- For $1–$2 stocks (and below $1):
+  - Many traders are attracted to these because they can make big percentage moves.
+  - However, for the method to work realistically, stops often need to be around 20%.
+- Reason:
+  - Volatility is much higher in very low-priced stocks.
+  - To avoid being stopped out by normal volatility, stops must be wide.
+- Key point:
+  - Bigger potential moves come with the cost of much wider stops; this must be accepted if trading very low-priced stocks.
+
+---
+
+## 8. Key Requirements to Achieve 2.5–3% Stops on 4% Breakouts
+
+To realistically get stops in the 2.5–3% range on 4% breakouts, the following conditions are necessary:
+
+1. **Focus on higher-priced stocks**  
+   - These typically have smaller percentage breakouts (around 4–5%), allowing tighter stops.
+
+2. **Select moderate breakouts (around 5–6%)**  
+   - Avoid huge 20% breakout days, which force wide stops.
+
+3. **Enter early in the move**  
+   - Do not wait until late in the day to enter.
+   - Aim to enter when the stock is up around 5–6% on the day.
+
+4. **Use half of the day’s range for stop placement**  
+   - This is the main technique to keep stops around 2.5–3% in suitable setups.
+
+If you want stops tighter than 2.5–3%, this 4% breakout method is not suitable. For most traders using 4% breakouts, realistic average stops will be in the 5–10% range, depending on stock price, breakout size, and entry timing.

@@ -1,0 +1,210 @@
+## Table of Contents
+
+1. Introduction  
+2. The M20 Filter: Concept and Purpose  
+   2.1. Definition of M20 (Absolute Momentum from 30-Day Low)  
+   2.2. Why Use M20 with 4% Breakouts  
+3. Implementing the M20 Filter in TC2000  
+   3.1. Adding the M20 Condition to a 4% Breakout Scan  
+   3.2. The M20 Formula Logic (Percent or Dollar Move)  
+   3.3. Visualizing M20 on Charts (Template / Indicator Setup)  
+4. Practical Effects of the M20 Filter  
+   4.1. Reducing the Number of Breakout Candidates  
+   4.2. Identifying Younger Trends and Early Legs  
+5. Market Context Where M20 Works Best  
+   5.1. After Long Market Corrections  
+   5.2. Example: “Beyond Meat” Type Setup  
+6. Comparison: M20 vs. TI65 Filter  
+   6.1. What M20 Captures That TI65 Misses  
+   6.2. Sequence of Appearance in Each Filter  
+7. Core Objective of Using Filters  
+   7.1. Improving Win Rate  
+   7.2. Catching Earlier Breakouts After the First Leg  
+
+
+---
+
+## 1. Introduction
+
+When running a 4% breakout scan, traders can easily become overwhelmed by the number of breakout candidates. To manage this and improve the quality of setups, adding filters is recommended. One such powerful filter is the **M20 filter**, which focuses on **absolute momentum from a 30-day low** and helps isolate younger, early-stage trends.
+
+---
+
+## 2. The M20 Filter: Concept and Purpose
+
+### 2.1. Definition of M20 (Absolute Momentum from 30-Day Low)
+
+- **M20** is an **absolute momentum filter** anchored to the **30-day low** of a stock.  
+- It measures how far price has moved **up from its 30-day low**, either in **percentage terms** or **dollar terms**.  
+- The key threshold used is **20% or $20** from that low.
+
+In essence, M20 looks for stocks that have already made a **significant initial move off a recent low** (at least 20% or $20), indicating the first leg of a potential new trend.
+
+### 2.2. Why Use M20 with 4% Breakouts
+
+- The M20 filter is designed to:
+  - **Reduce the number of 4% breakout candidates** to a more manageable list.
+  - Focus on **younger setups**: stocks in the **first or second leg** of a move.
+  - Help find **early breakouts** that occur after a meaningful bounce from a recent low.
+
+By combining M20 with a 4% breakout scan, you avoid many extended or late-stage moves and concentrate on stocks that are just starting to trend.
+
+---
+
+## 3. Implementing the M20 Filter in TC2000
+
+### 3.1. Adding the M20 Condition to a 4% Breakout Scan
+
+In TC2000:
+
+1. Open your existing **4% breakout scan**.
+2. Add a **new condition/filter** to that scan.
+3. This new condition will represent the M20 logic (absolute momentum from the 30-day low).
+
+Once added, the scan will only return stocks that both:
+- Meet your **4% breakout criteria**, and  
+- Satisfy the **M20 momentum condition**.
+
+### 3.2. The M20 Formula Logic (Percent or Dollar Move)
+
+The M20 condition is conceptually:
+
+- The stock must be **up at least 20% from its 30-day low**, **or**
+- The stock must be **up at least $20 from its 30-day low**.
+
+In formula terms (as described):
+
+- A condition like:  
+  - “Absolute momentum anchored to the 30-day low ≥ 1.2”  
+    - This corresponds to being **≥ 20% above the 30-day low**.
+- Or a condition like:  
+  - `C - (30-day low) ≥ 20`  
+    - This corresponds to being **$20 above the 30-day low**.
+
+The idea is:  
+You want a stock that is **either** up 20% from its low **or** up $20 from its low.
+
+### 3.3. Visualizing M20 on Charts (Template / Indicator Setup)
+
+To see where the M20 condition becomes true on a chart:
+
+- Create a **chart template** that visually marks the periods when the M20 filter is satisfied.
+- You can add the same formula used in the scan as an **indicator/condition** on the chart.
+- The lesson references adding it similarly to how a TI65 condition is added, with something like:
+  - `C > 3` and `mean(3)` (this is mentioned as part of how the visual condition is set up; the key point is that the same M20 logic is added to the chart).
+
+When applied:
+
+- You will see on the chart **where the stock first moved 20% from the bottom**.
+- Those points will show the M20 filter as **true**, helping you visually confirm how the filter behaves.
+
+---
+
+## 4. Practical Effects of the M20 Filter
+
+### 4.1. Reducing the Number of Breakout Candidates
+
+Example from the lesson:
+
+- Initial 4% breakout scan returns **73 stocks**.
+- After applying the M20 filter:
+  - The list is reduced to **34 stocks**.
+
+This demonstrates that M20 **drastically cuts down** the number of candidates, leaving you with a more focused list of stocks that:
+
+- Have already moved significantly off a recent low, and  
+- Are now showing a 4% breakout.
+
+### 4.2. Identifying Younger Trends and Early Legs
+
+The M20 filter is particularly good at:
+
+- Finding **younger trends**.
+- Capturing **first-leg or second-leg moves**:
+  - First, the stock establishes a **new low**.
+  - Then it **bounces 20% (or $20)** from that low.
+  - It often **consolidates or pulls back in an orderly way**.
+  - Then it **breaks out** again.
+
+M20 is designed to catch that breakout **after the first leg has been established**, but **before** the move becomes too extended.
+
+---
+
+## 5. Market Context Where M20 Works Best
+
+### 5.1. After Long Market Corrections
+
+The M20 filter is especially effective when:
+
+- The **overall market is coming out of a long correction**.
+- In such environments:
+  - Many stocks establish **new lows**.
+  - Then they **bounce strongly** (20% or more) from those lows.
+  - After a **consolidation or orderly pullback**, they start a **new up leg**.
+
+M20 helps you find those stocks **right as they transition from the initial bounce into a new breakout leg**.
+
+### 5.2. Example: “Beyond Meat” Type Setup
+
+The lesson references a “Beyond Meat” style example:
+
+- In that example:
+  - The stock had already moved **20% from its low**.
+  - It then **showed up on the M20 filter** on the breakout day (or around that breakout area).
+- Importantly:
+  - This stock **would not show up** in a TI65 filter at that earlier stage.
+  - It **does show up** in M20 because M20 is keyed to the **20% move from the low**, not to the TI65 condition.
+
+This illustrates how M20 can **capture earlier breakout opportunities** that other filters (like TI65) might only catch later.
+
+---
+
+## 6. Comparison: M20 vs. TI65 Filter
+
+### 6.1. What M20 Captures That TI65 Misses
+
+- **M20**:
+  - Anchored to the **30-day low**.
+  - Triggers when the stock is **up 20% or $20 from that low**.
+  - Designed to find **younger trends** and **early breakouts** after the first leg.
+
+- **TI65**:
+  - A different filter (not fully defined in this excerpt).
+  - The key point from the lesson:  
+    - Certain early setups (like the Beyond Meat example) **do not appear** in TI65 at the time they appear in M20.
+    - They only show up in TI65 **later**, after the stock has moved further.
+
+Thus, M20 is better at **capturing the earlier part of the move**.
+
+### 6.2. Sequence of Appearance in Each Filter
+
+Using the Beyond Meat–type example:
+
+- **M20**:
+  - The stock appears in the M20 filter **once it is up 20% from the low** and is breaking out.
+- **TI65**:
+  - The same stock would **only appear later**, after it reaches a higher price level that satisfies TI65’s criteria.
+
+This timing difference is why M20 is described as a **good filter to find younger trends** and **early breakouts**.
+
+---
+
+## 7. Core Objective of Using Filters
+
+### 7.1. Improving Win Rate
+
+All the filters discussed (including M20) have a common purpose:
+
+- **Improve your win rate** by:
+  - Narrowing the universe of breakouts to those with **better odds**.
+  - Focusing on setups that have already shown **strong initial momentum** from a recent low.
+
+### 7.2. Catching Earlier Breakouts After the First Leg
+
+The overarching idea:
+
+- Use filters like M20 on your **4% breakout scan** to:
+  - **Increase the probability** that the breakout you are trading is **early in the trend**.
+  - Specifically, target breakouts that occur **after a first leg has been established** (20% or $20 off the low), but **before** the move becomes mature and extended.
+
+In summary, the M20 filter is a practical, momentum-based tool to refine 4% breakout scans, reduce noise, and focus on **high-probability, early-stage breakout opportunities**, especially when markets are emerging from significant corrections.

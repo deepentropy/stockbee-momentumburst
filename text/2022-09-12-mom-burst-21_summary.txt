@@ -1,0 +1,146 @@
+## Table of Contents
+
+1. Overview of the Tool Link Setup  
+2. Importance of Studying Historical Examples  
+3. Core Conditions of a High-Quality Tool Link Setup  
+   3.1. Not Up Two Days in a Row  
+   3.2. Linearity and Persistent Buying  
+   3.3. Narrow or Negative Day Before Breakout  
+   3.4. Consolidation Quality  
+   3.5. Volume Behavior During Consolidation  
+   3.6. No 4% Breakdown  
+   3.7. Breakout Day Characteristics  
+4. Example Walkthrough Using TC2000  
+5. Selectivity and Probability of Success  
+6. Common Mistake: Choppy, Extended Setups  
+
+
+---
+
+## 1. Overview of the Tool Link Setup
+
+The “tool link” setup is a specific breakout pattern with clearly defined conditions. It focuses on:
+
+- A strong, linear first leg of the move (persistent buying).
+- A compact, orderly consolidation.
+- A clean breakout that meets strict criteria.
+
+The goal is to identify only the highest-quality instances of this pattern to improve trading success.
+
+---
+
+## 2. Importance of Studying Historical Examples
+
+To recognize and trade the tool link setup effectively in real time, you must:
+
+- Study many past examples of tool link setups.
+- Review charts where the setup has already played out.
+- Train your eye so that, when running scans, you can instantly recognize a valid tool link pattern.
+
+The more examples you study, the easier it becomes to spot the setup quickly and accurately during live trading.
+
+---
+
+## 3. Core Conditions of a High-Quality Tool Link Setup
+
+A valid tool link setup must meet several specific conditions. The example discussed in the lesson satisfies all of them.
+
+### 3.1. Not Up Two Days in a Row
+
+- The stock should **not** be up two days in a row going into the breakout.
+- This means the immediate pre-breakout action is not an extended, multi-day run.
+- Avoid setups where the stock has been up multiple days consecutively before the breakout; those tend to be lower quality.
+
+### 3.2. Linearity and Persistent Buying
+
+- The first leg of the move should show **linearity**:
+  - Price moves in a relatively straight, consistent upward fashion.
+  - There is **persistent buying** rather than erratic, choppy movement.
+- A linear first leg indicates strong, steady demand and a cleaner trend.
+
+### 3.3. Narrow or Negative Day Before Breakout
+
+- The day immediately prior to the breakout should be:
+  - A **narrow range day**, or  
+  - A **negative day** (down day).
+- This narrow or negative day occurs **right before** the breakout and is a key characteristic of the setup.
+- It often reflects a brief pause or shakeout before the next leg higher.
+
+### 3.4. Consolidation Quality
+
+The consolidation after the first leg and before the breakout must be:
+
+- **Orderly** and **compact**:
+  - Price action is controlled, not wild or erratic.
+  - No big, random swings.
+- **Just up four days** in total during the consolidation phase:
+  - The consolidation is not overly extended in time or number of up days.
+- The consolidation should visually appear tight and well-structured, not loose or choppy.
+
+### 3.5. Volume Behavior During Consolidation
+
+- During the consolidation:
+  - There should be **no big volume spikes**.
+- Quiet volume in consolidation suggests:
+  - No heavy distribution.
+  - No abnormal activity that might signal weakness or instability.
+
+### 3.6. No 4% Breakdown
+
+- Throughout the consolidation, there should be **no 4% breakdown**:
+  - The stock should not drop 4% or more from recent levels during this phase.
+- A 4% breakdown would violate the setup and indicate a failure or breakdown of the pattern.
+
+### 3.7. Breakout Day Characteristics
+
+On the breakout day itself:
+
+- The stock should be **breaking out** of the consolidation.
+- It should be **closing near the high of the day**.
+- This strong close confirms buying strength and validates the breakout.
+
+When all these conditions are present, the setup qualifies as a high-quality tool link pattern.
+
+---
+
+## 4. Example Walkthrough Using TC2000
+
+Using TC2000, the lesson walks through a specific example:
+
+- On the chosen day:
+  - The first leg showed **linearity** and **persistent buying**.
+  - The stock was **not up two days in a row** before the breakout.
+  - The day before the breakout was a **narrow or negative day**.
+  - The **consolidation** was:
+    - Very **orderly** and **compact**.
+    - **Just up four days**.
+    - Without **big volume** spikes.
+    - Without any **4% breakdown**.
+  - On the breakout day, the stock **broke out** and **closed near the high**.
+
+This example is presented as a model of what a **good tool link setup** should look like.
+
+---
+
+## 5. Selectivity and Probability of Success
+
+- If you **focus only** on setups that meet **every** tool link condition:
+  - Your **probability of success** increases significantly.
+- Even if you find only a limited number of such setups in a year:
+  - Those few high-quality trades can be enough to produce strong results.
+- The emphasis is on **quality over quantity**:
+  - Avoid marginal or partial setups.
+  - Trade only the cleanest, highest-probability patterns.
+
+---
+
+## 6. Common Mistake: Choppy, Extended Setups
+
+A key warning in the lesson:
+
+- Avoid **very choppy setups**.
+- Avoid setups where the stock is **up three days in a row** going into the breakout.
+  - These are less likely to work well.
+- Choppy, extended pre-breakout action often leads to failed breakouts or poor follow-through.
+
+By strictly filtering out these lower-quality patterns and trading only the clean, textbook tool link setups, you align your trading with higher-probability opportunities.

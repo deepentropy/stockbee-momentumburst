@@ -1,0 +1,88 @@
+## Table of Contents
+
+1. Applicability of Momentum Burst Across Global Markets  
+   1.1. Momentum Works in Most Markets  
+   1.2. Evidence from International Traders  
+2. Exceptions and Market Structure Constraints  
+   2.1. Price Filters and Trading Halts  
+   2.2. Impact of Regulatory Rules on Momentum Burst  
+3. Adapting Momentum Burst to Local Conditions  
+   3.1. Core Concept Remains the Same  
+   3.2. Adjusting Volume and Price Filters  
+   3.3. Country-Specific Customization  
+
+---
+
+## 1. Applicability of Momentum Burst Across Global Markets
+
+### 1.1. Momentum Works in Most Markets
+
+- Momentum and momentum burst patterns are not limited to the US market.  
+- In the vast majority of the approximately 130 countries with stock markets, stock price movement still follows momentum-based behavior.  
+- If you examine charts from any of these markets, you will see stocks moving in ways that are consistent with momentum burst concepts.
+
+### 1.2. Evidence from International Traders
+
+- Traders from multiple countries have reported using the momentum burst method successfully in their local markets.  
+- These traders have taken the same core method and applied it outside the US, confirming that the approach is broadly applicable.  
+- This includes markets such as:
+  - Great Britain  
+  - European countries  
+  - Korea  
+  - China  
+  - Singapore  
+  - Malaysia  
+  - And many other countries with functioning stock markets  
+
+---
+
+## 2. Exceptions and Market Structure Constraints
+
+### 2.1. Price Filters and Trading Halts
+
+- Some countries have specific rules that can interfere with momentum trading, particularly:
+  - **Price filters / daily limits**: For example, if a stock is up 5% in a day, trading in that stock may be halted or restricted for the rest of the day.  
+- In such markets, momentum burst strategies become difficult to execute because:
+  - The stock cannot continue its move beyond the imposed limit.  
+  - You cannot freely enter or exit once the filter is triggered.
+
+### 2.2. Impact of Regulatory Rules on Momentum Burst
+
+- These issues are not due to momentum burst as a concept failing, but due to **regulatory constraints** in those specific markets.  
+- Based on feedback from members, such restrictive environments appear to be relatively rare:
+  - Only one or two countries reported this as a significant problem.  
+- In most other markets, there are no such severe daily price limits that would prevent momentum burst trading.
+
+---
+
+## 3. Adapting Momentum Burst to Local Conditions
+
+### 3.1. Core Concept Remains the Same
+
+- The fundamental idea of momentum burst is universal:
+  - Stocks move in bursts of momentum across different markets.  
+  - The pattern of sharp, short-term moves is visible on charts regardless of country.  
+- As long as there is a functioning stock market with freely traded stocks, the basic behavior that momentum burst exploits will be present.
+
+### 3.2. Adjusting Volume and Price Filters
+
+- While the core concept is the same, **implementation details may need adjustment**:
+  - **Volume filters**: You may need to modify minimum volume requirements to match typical liquidity levels in your market.  
+  - **Price perception / price filters**: You may need to adjust:
+    - What you consider a meaningful price move (e.g., % move thresholds).  
+    - Any filters related to stock price levels (e.g., avoiding very low-priced stocks if that fits your market’s structure).  
+
+### 3.3. Country-Specific Customization
+
+- Because each market has its own:
+  - Liquidity profile  
+  - Typical volatility  
+  - Regulatory environment  
+- You should:
+  - Understand the momentum burst concept thoroughly.  
+  - Then adapt:
+    - Volume filters  
+    - Price filters  
+    - Any perception-based thresholds  
+  - To fit the characteristics and rules of your specific country.  
+- Many traders outside the US have successfully done this and are profitably using momentum burst in their local markets.

@@ -1,0 +1,138 @@
+## Table of Contents
+
+1. Introduction: The Single Most Important Parameter  
+2. Market Capitalization and Breakout Potential  
+   2.1. Why Capitalization Matters  
+   2.2. The 10 Billion Threshold  
+   2.3. Sub-1 Billion Capitalization and Explosive Moves  
+3. Using Capitalization with the 4% Breakout Scan  
+   3.1. Applying a Capitalization Filter to Scan Results  
+   3.2. Example: Distribution of Big Movers by Capitalization  
+4. Comparing High vs. Low Capitalization Stocks  
+   4.1. Large-Cap Stocks and Limited Percentage Moves  
+   4.2. Example: Lockheed Martin (LMT)  
+5. Practical Trade Selection Guidelines  
+   5.1. Choosing Between Multiple Good Setups  
+   5.2. Special Considerations for Small Accounts  
+6. Key Takeaways and Core Rules  
+
+---
+
+## 1. Introduction: The Single Most Important Parameter
+
+Pradeep emphasizes that if you focus on one single parameter when trading breakouts, you can consistently find breakouts that work better and make larger percentage moves.  
+That parameter is **market capitalization**.
+
+---
+
+## 2. Market Capitalization and Breakout Potential
+
+### 2.1. Why Capitalization Matters
+
+- The **size of a company’s market capitalization** strongly influences how big its price moves can be in percentage terms.  
+- **Lower capitalization stocks** tend to make **bigger percentage moves** (e.g., 8%, 10%, 20%, 40% moves) compared to very large-cap stocks.  
+- Understanding this relationship helps you prioritize which breakout candidates are likely to deliver the most profit.
+
+### 2.2. The 10 Billion Threshold
+
+- Pradeep repeatedly highlights **$10 billion market capitalization** as a key dividing line.  
+- **Stocks with capitalization below $10 billion**:
+  - Are more likely to make **large percentage moves**.
+  - Dominate the list of stocks that move **20% or more** during strong market periods.
+- In a specific observation:
+  - Out of **430 stocks** that went up **20%+** during a strong market phase,
+  - Only **75 stocks** had capitalization **above $10 billion**.
+  - The **bulk of the big movers** had capitalization **below $10 billion**.
+- Conclusion: **“Below $10 billion capitalization”** is a critical filter for finding explosive breakouts.
+
+### 2.3. Sub-1 Billion Capitalization and Explosive Moves
+
+- Within the under-$10B group, many of the **most explosive movers** have **capitalization below $1 billion**.  
+- The **lower the capitalization**, the more **explosive** the potential move tends to be.  
+- This does not mean every low-cap stock will move, but **when they do break out**, the **percentage move** is often much larger than in big caps.
+
+---
+
+## 3. Using Capitalization with the 4% Breakout Scan
+
+### 3.1. Applying a Capitalization Filter to Scan Results
+
+- Pradeep refers to using a **4% scan** (a scan that finds stocks moving 4% or more).  
+- After running the 4% scan, you will typically get **multiple candidates** that look like good setups.  
+- To improve your results:
+  - **Look at the market capitalization** of each candidate.
+  - **Prioritize stocks with capitalization below $10 billion**.
+- Example mentioned:
+  - A stock like **BSC** with a capitalization of **$2.4 billion** is the type of candidate that fits the criteria for potentially larger percentage moves.
+
+### 3.2. Example: Distribution of Big Movers by Capitalization
+
+- During a recent strong market period (e.g., last 1.5 months or about 15 days of strong action):
+  - Many stocks went up **20% or more**.
+  - When sorted by capitalization:
+    - Only **75 out of 430** big movers had capitalization **above $10 billion**.
+    - The **majority** had capitalization **below $10 billion**.
+- This empirical observation reinforces the rule:
+  - **Most big percentage movers are under $10 billion in market cap.**
+
+---
+
+## 4. Comparing High vs. Low Capitalization Stocks
+
+### 4.1. Large-Cap Stocks and Limited Percentage Moves
+
+- **Very high capitalization stocks** (large caps and mega caps) tend to:
+  - Make **smaller percentage moves**.
+  - Have **fewer 4% breakout days**.
+  - Even when they break out, the **follow-through** is often limited in percentage terms compared to smaller caps.
+- If you consistently choose very high-cap stocks for breakouts, your **profit potential per trade** is generally lower.
+
+### 4.2. Example: Lockheed Martin (LMT)
+
+- **Lockheed Martin (LMT)** is used as a concrete example:
+  - Capitalization: around **$112 billion**.
+  - Characteristics:
+    - It may **not have many 4% breakout days** for long stretches (many months).
+    - When it does break out, the **percentage move** is usually **not as big** as that of a stock with capitalization **below $10 billion**.
+- This illustrates why focusing on **very large caps** is suboptimal if your goal is **large percentage gains** from breakouts.
+
+---
+
+## 5. Practical Trade Selection Guidelines
+
+### 5.1. Choosing Between Multiple Good Setups
+
+When you have **5–7 good breakout setups** from your scan:
+
+1. **Check the market capitalization** of each candidate.
+2. **Select the ones with lower capitalization**, especially:
+   - **Below $10 billion** as a primary filter.
+   - Prefer even **smaller caps** (often below $1 billion) if the setups are otherwise comparable.
+3. By doing this, you **increase the likelihood** that:
+   - Your trades will make **larger percentage moves**.
+   - Your **overall profitability** improves.
+
+### 5.2. Special Considerations for Small Accounts
+
+- If you have a **smaller trading account**, this capitalization focus is even more important:
+  - You need **bigger percentage moves** to grow the account meaningfully.
+  - Focusing on **stocks below $10 billion** in market cap can help you **make more money** relative to your account size.
+- The core idea:  
+  - **Small accounts benefit most from targeting stocks capable of large percentage moves**, which are typically **lower-cap stocks**.
+
+---
+
+## 6. Key Takeaways and Core Rules
+
+- **Primary parameter to focus on for breakout trading**:  
+  - **Market capitalization**.
+- **Core rules from the lesson**:
+  1. **Prefer stocks with capitalization below $10 billion** for breakout trades.
+  2. Understand that **the lower the capitalization**, the more **explosive** the potential move.
+  3. After running a **4% breakout scan**, **filter and prioritize** by capitalization.
+  4. Recognize that **most 20%+ movers** in strong markets are **under $10 billion** in market cap.
+  5. Avoid relying heavily on **very large-cap stocks** (e.g., $100B+ like Lockheed Martin) if your goal is **large percentage gains**.
+  6. If you have a **small account**, focusing on **sub-$10B capitalization stocks** can significantly improve your **profit potential**.
+
+These principles form a simple but powerful framework:  
+**Use market capitalization—especially the “below $10 billion” rule—as a primary filter to find breakout stocks with the highest potential for large percentage moves.**

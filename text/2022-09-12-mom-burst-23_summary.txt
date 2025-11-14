@@ -1,0 +1,81 @@
+## Table of Contents
+
+1. Pattern Recognition in Momentum Burst Trading  
+   1.1. Trading as a Pattern Recognition Game  
+   1.2. The Goal: Instant Breakout Identification  
+
+2. The “Tool Inch” Momentum Burst Setup  
+   2.1. Overview of the Setup  
+   2.2. First Leg of the Breakout  
+   2.3. Consolidation Phase Requirements  
+   2.4. Pre-Breakout Day Characteristics  
+   2.5. Breakout Day Characteristics  
+
+3. Practical Application  
+   3.1. Using TC2000 to View the Setup  
+   3.2. Daily Focus: Searching for Qualified Setups  
+
+
+---
+
+## 1. Pattern Recognition in Momentum Burst Trading
+
+### 1.1. Trading as a Pattern Recognition Game
+- The method described is based on recognizing a recurring price/volume pattern.  
+- The objective is to train your brain so that this pattern becomes instantly recognizable on a chart.
+
+### 1.2. The Goal: Instant Breakout Identification
+- As soon as you see a chart, you should be able to quickly decide whether it is a “good breakout” that fits the momentum burst setup.  
+- Developing this instant recognition is a key trading skill for this style.
+
+---
+
+## 2. The “Tool Inch” Momentum Burst Setup
+
+### 2.1. Overview of the Setup
+- The setup is referred to as “tool inch” in the lesson.  
+- It is a specific type of momentum burst pattern with clearly defined conditions.  
+- You should focus on finding setups that meet *all* of these conditions.
+
+### 2.2. First Leg of the Breakout
+- The pattern starts with a **first leg of the breakout**:
+  - A strong initial move up in price.
+  - This leg establishes momentum and direction.
+
+### 2.3. Consolidation Phase Requirements
+After the first leg, the stock enters a **consolidation**:
+
+- There may be a **negative day** during consolidation, but:
+  - The stock **should not have a 4% breakdown** (no large, sharp drop).
+  - The **volume should not be high** on the negative day.
+- This indicates a normal, controlled pause rather than a failure of the move.
+
+### 2.4. Pre-Breakout Day Characteristics
+- Just before the breakout, the stock typically shows:
+  - A **narrower negative day** (small down day).
+  - This day can be around **0% to slightly negative** (flat to mildly down).
+- This narrow, quiet day sets up the next breakout by showing reduced selling pressure and tight price action.
+
+### 2.5. Breakout Day Characteristics
+- On the breakout day:
+  - The stock **breaks out of the consolidation**.
+  - The **stock closes near the high of the day**.
+- A close near the high confirms strength and follow-through of the momentum burst.
+
+---
+
+## 3. Practical Application
+
+### 3.1. Using TC2000 to View the Setup
+- The example is demonstrated using **TC2000** charting software.  
+- On the day of the breakout, the chart will show:
+  - The first leg up.
+  - A consolidation with acceptable negative days (no 4% breakdown, no high volume).
+  - A narrow negative or flat day just before the breakout.
+  - A breakout candle closing near the high.
+
+### 3.2. Daily Focus: Searching for Qualified Setups
+- Every trading day, you should:
+  - **Actively scan** for setups that look like this pattern.
+  - **Focus only on setups that meet these criteria** rather than random breakouts.
+- Consistent attention to this specific pattern helps build the pattern recognition skill necessary for trading this momentum burst setup effectively.

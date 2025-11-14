@@ -1,0 +1,124 @@
+## Table of Contents
+
+1. Tool-Inch Concept and Core Importance  
+2. Example Setup: Structure of the Breakout  
+   2.1 First Leg and Linearity  
+   2.2 Three-Day Consolidation  
+   2.3 4% Breakdown Rule and Small Up Day  
+   2.4 Breakout Day Behavior and Close  
+3. Evaluating the Setup Against Tool-Inch Criteria  
+4. Young Setups vs. Later-Leg Setups  
+5. Practical Takeaway: What to Look For in 4% Breakouts  
+
+
+---
+
+## 1. Tool-Inch Concept and Core Importance
+
+The central idea in this lesson is the **“tool-inch” condition**, which is a set of criteria used to evaluate whether a breakout setup is high quality.
+
+- The **most important skill** is the ability to **select setups that meet all tool-inch criteria**.  
+- Only setups that satisfy these criteria are considered valid **tool-inch setups** and are preferred for trading.
+
+---
+
+## 2. Example Setup: Structure of the Breakout
+
+Pradeep uses a specific stock example from the last month that appeared in his scan and then broke out. He walks through how this stock illustrates a proper tool-inch setup.
+
+### 2.1 First Leg and Linearity
+
+- The chart shows a **clear first leg up** before consolidation.  
+- This first leg has **linearity**, meaning:
+  - The move is **strong and directional**, not choppy.
+  - There is **strong buying** in this initial move.
+
+### 2.2 Three-Day Consolidation
+
+- After the first leg, the stock enters a **three-day consolidation**:
+  - Price action tightens and **holds the gains** from the first leg.
+  - The consolidation is described as **good quality**:
+    - No major breakdowns.
+    - The stock maintains most of the prior advance.
+
+### 2.3 4% Breakdown Rule and Small Up Day
+
+- During the consolidation:
+  - There is **no 4% breakdown** on any day. This is critical:
+    - A 4% or greater drop during consolidation would violate tool-inch criteria.
+  - One of the days in consolidation is **up only 0.52%**:
+    - Some might say the stock is “up two days in a row,” but:
+      - Pradeep treats this 0.52% day as effectively **flat or negligible**.
+      - It does **not** invalidate the consolidation.
+      - He even notes one day was effectively **down**, reinforcing that this is essentially a **one-day up** move, not an extended run.
+
+### 2.4 Breakout Day Behavior and Close
+
+- On the breakout day:
+  - The stock moves **4%+** (meets the 4% breakout requirement).  
+  - It **does not close exactly at the high**, but:
+    - It **does not give up most of the gains**.
+    - It **maintains the bulk of the day’s advance**.
+- Even though the close is not at the absolute high, the behavior is still acceptable and considered a **good breakout** within tool-inch criteria.
+
+---
+
+## 3. Evaluating the Setup Against Tool-Inch Criteria
+
+Pradeep explicitly checks the example against tool-inch conditions:
+
+- **Linearity in the first leg?**  
+  Yes – strong, clean buying in the initial move.
+  
+- **Consolidation quality?**  
+  Yes – three days of consolidation, holding gains, no major breakdown.
+
+- **Any 4% breakdown during consolidation?**  
+  No – this is essential; a 4% breakdown would disqualify the setup.
+
+- **Narrow or negative day acceptable?**  
+  Yes – the 0.52% day is considered narrow and acceptable; it does not count as a problematic “up” day.
+
+- **Breakout of 4%+?**  
+  Yes – the stock breaks out more than 4%.
+
+- **Close near high required?**  
+  Not strictly at the high, but:
+  - The stock must **not give up most of the gains**.
+  - Maintaining the bulk of the breakout move is sufficient.
+
+Because it meets all these points, this is labeled a **good tool-inch setup**.
+
+---
+
+## 4. Young Setups vs. Later-Leg Setups
+
+Pradeep emphasizes that this example is a **“young setup”**:
+
+- It is **not** a second or third leg of an extended move.  
+- The stock had gone **sideways for almost a month** before starting this leg.
+- The current move is:
+  - Either the **first leg** of a new advance, or  
+  - The **second part of the first leg**, still early in the overall move.
+
+He stresses that traders should **prefer these young setups** over later-leg moves, as they typically offer better risk-reward and cleaner behavior.
+
+---
+
+## 5. Practical Takeaway: What to Look For in 4% Breakouts
+
+From this lesson, the practical checklist for a valid 4% breakout under tool-inch conditions is:
+
+1. **Strong, linear first leg** with clear buying pressure.  
+2. **Good-quality consolidation**:
+   - Typically a few days (e.g., three days).
+   - Holds most of the prior gains.
+   - No **4% breakdown** during this period.
+   - Small or negligible up days (like 0.52%) are acceptable.
+3. **Breakout of 4%+** from the consolidation.  
+4. **Close that maintains most of the breakout gains**, even if not at the exact high.  
+5. Preference for **young setups**:
+   - Not in the second or third extended leg.
+   - Often following a period of sideways action.
+
+The key skill is to **consistently select setups that match these tool-inch criteria**, focusing on young, clean 4% breakout patterns like the example described.

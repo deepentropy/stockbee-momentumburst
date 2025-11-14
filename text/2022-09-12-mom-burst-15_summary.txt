@@ -1,0 +1,156 @@
+## Table of Contents
+
+1. Overview of the 4% Breakout/Breakdown Concept  
+2. Bullish 4% Breakout: Definition and Conditions  
+   2.1. Exact Scan Criteria  
+   2.2. Example of a Bullish 4% Breakout  
+3. Bearish 4% Breakdown: Definition and Conditions  
+   3.1. Exact Scan Criteria  
+   3.2. Example of a Bearish 4% Breakdown  
+4. Range Expansion and Momentum Burst  
+5. Using the 4% Breakout/Breakdown Scan in TC2000  
+6. Relationship to Actual Buy/Sell Decisions and Next Steps  
+
+
+---
+
+## 1. Overview of the 4% Breakout/Breakdown Concept
+
+The 4% breakout/breakdown scan is designed to identify **range expansion** moves in stocks—either strong upward moves (bullish breakouts) or strong downward moves (bearish breakdowns)—on **high volume**.
+
+- A **4% breakout** looks for stocks up at least 4% on higher-than-usual volume.  
+- A **4% breakdown** looks for stocks down at least 4% on higher-than-usual volume.  
+- Both sides use volume filters to ensure the move is significant and tradable.
+
+These scans are used to find potential **start of momentum bursts**, not every stock that moves slightly.
+
+---
+
+## 2. Bullish 4% Breakout: Definition and Conditions
+
+A **bullish 4% breakout** identifies stocks making a strong upward move with confirming volume.
+
+### 2.1. Exact Scan Criteria
+
+For a stock to qualify as a **bullish 4% breakout**, it must meet all three conditions:
+
+1. **Price Move**:  
+   - The stock is **up 4% or more** for the day.
+
+2. **Volume vs. Previous Day**:  
+   - **Today’s volume > yesterday’s volume**.
+
+3. **Minimum Liquidity**:  
+   - **Today’s volume > 100,000 shares**.
+
+If all three conditions are met, the stock will appear in the bullish 4% breakout scan.
+
+### 2.2. Example of a Bullish 4% Breakout
+
+On the example Friday used in the lesson:
+
+- The scan was run on:
+  - US common stocks  
+  - Exchange Traded Funds (ETFs)  
+  - American Depository Receipts (ADRs)
+
+- **127 stocks** met the 4% breakout conditions.
+
+Example stock from that day:
+
+- Price change: **+7.91%** (greater than 4%)  
+- Today’s volume: **5.2 million**  
+- Yesterday’s volume: **1.2 million**  
+- Today’s volume is:
+  - Greater than yesterday’s volume  
+  - Greater than 100,000 shares  
+
+Because it satisfies all three criteria, it appears in the **bullish breakout scan**.
+
+---
+
+## 3. Bearish 4% Breakdown: Definition and Conditions
+
+A **bearish 4% breakdown** identifies stocks making a strong downward move with confirming volume.
+
+### 3.1. Exact Scan Criteria
+
+For a stock to qualify as a **bearish 4% breakdown**, it must meet all three conditions:
+
+1. **Price Move**:  
+   - The stock is **down 4% or more** for the day.
+
+2. **Volume vs. Previous Day**:  
+   - **Today’s volume > yesterday’s volume**.
+
+3. **Minimum Liquidity**:  
+   - **Today’s volume > 100,000 shares**.
+
+If all three conditions are met, the stock will appear in the bearish 4% breakdown scan.
+
+*(Note: In the transcription, “3%” is mentioned repeatedly in one line, but the scan being described is clearly the same 4% breakdown scan with the conditions above.)*
+
+### 3.2. Example of a Bearish 4% Breakdown
+
+On the same example Friday:
+
+- **148 stocks** met the 4% breakdown conditions.
+
+Example stock from that day:
+
+- Price change: **–8%** (down more than 4%)  
+- Today’s volume: **599,000 shares**  
+- Yesterday’s volume: **337,000 shares**  
+- Today’s volume is:
+  - Greater than yesterday’s volume  
+  - Greater than 100,000 shares  
+
+This stock is a clear example of a **bearish breakdown** and appears in the 4% breakdown scan.
+
+---
+
+## 4. Range Expansion and Momentum Burst
+
+The 4% breakout/breakdown scans are fundamentally **range expansion** scans:
+
+- They look for days where the stock’s price moves significantly (≥ 4%) compared to its recent behavior.
+- When a stock appears in these scans and **did not have a similar breakout/breakdown yesterday or the day before**, it often indicates:
+  - A **new range expansion**, or  
+  - The **start of a momentum burst**.
+
+However:
+
+- **Not all stocks** that show up in the scan will be suitable trades.
+- The scan is a **starting point** to find candidates; further filters and rules are needed for actual entries and exits.
+
+---
+
+## 5. Using the 4% Breakout/Breakdown Scan in TC2000
+
+The lesson demonstrates using these scans in **TC2000**:
+
+- The same bullish scan described is implemented in TC2000 and run on:
+  - US common stocks  
+  - ETFs  
+  - ADRs  
+
+- Running the **bullish 4% breakout scan** on the example Friday produced **127 stocks**.
+- Running the **bearish 4% breakdown scan** on the same day produced **148 stocks**.
+
+The scans in TC2000 are built directly from the three conditions for each side (price move, volume vs. yesterday, and minimum volume).
+
+A detailed, step-by-step setup of these scans in TC2000 (for both bullish and bearish sides) is promised in the **next video**, not in this segment.
+
+---
+
+## 6. Relationship to Actual Buy/Sell Decisions and Next Steps
+
+- The 4% breakout/breakdown scans **do not automatically define buy or sell signals**.
+- They only identify **candidates** that are experiencing significant price and volume moves.
+- **Additional buy and sell conditions** (entry rules, exit rules, risk management, etc.) are required and will be discussed separately.
+
+Next step (as stated by Pradeep):
+
+- In the **next video**, he will show:
+  - How to **set up the 4% breakout and breakdown scans step by step in TC2000** for both bullish and bearish sides.
+  - After that, he will cover **specific buy and sell conditions** to use with these scan results.

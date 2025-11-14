@@ -1,0 +1,108 @@
+## Table of Contents
+
+1. Types of Stops in Trading  
+   1.1 Mental Stops  
+   1.2 Hard Stops  
+
+2. Pradeep Bond’s Preferred Approach  
+   2.1 Why He Uses Hard Stops  
+   2.2 Problems With Mental Stops  
+
+3. Myths and Misconceptions About Stops  
+   3.1 “Market Makers Gun for Your Stops”  
+   3.2 Pradeep’s View on Conspiracy Theories  
+
+4. When Stops Should Be Active  
+   4.1 Market Hours vs. Pre-Market and After-Hours  
+   4.2 Liquidity and Partial Fills  
+   4.3 Carrying Stops Overnight  
+
+5. Practical Implementation Guidelines  
+
+
+---
+
+## 1. Types of Stops in Trading
+
+### 1.1 Mental Stops
+- Mental stops are price levels a trader keeps in mind without placing an actual stop order in the system.  
+- Execution depends on the trader manually exiting when the price reaches that level.
+
+### 1.2 Hard Stops
+- Hard stops are real stop orders entered into the trading system.  
+- They are automatically triggered when the price hits the specified level.  
+- They do not rely on the trader’s discretion at the moment of loss.
+
+---
+
+## 2. Pradeep Bond’s Preferred Approach
+
+### 2.1 Why He Uses Hard Stops
+- Pradeep explicitly states he is not a fan of mental stops and uses hard stops.  
+- Hard stops:
+  - Are “real stops” placed in the system.
+  - Enforce discipline by automatically taking the loss at the predetermined level.
+  - Remove the need for emotional decision-making in the moment.
+
+### 2.2 Problems With Mental Stops
+- Mental stops make it easy to:
+  - Avoid taking losses at the right time.
+  - Rationalize delaying the exit.
+  - Fail to move or honor stops as planned.  
+- Because of this, he does not recommend mental stops and does not use them himself.
+
+---
+
+## 3. Myths and Misconceptions About Stops
+
+### 3.1 “Market Makers Gun for Your Stops”
+- Many traders believe:
+  - Market makers target their stop orders.
+  - Their small positions are being hunted.
+
+### 3.2 Pradeep’s View on Conspiracy Theories
+- He does not subscribe to these conspiracy theories.  
+- His reasoning:
+  - If a market maker is so focused on targeting small orders (e.g., 1,000–5,000 shares), that market maker is likely to go out of business.  
+  - Market makers have more important tasks than trying to hit small retail stops.  
+- Conclusion: Fear of stop-hunting should not prevent traders from using hard stops.
+
+---
+
+## 4. When Stops Should Be Active
+
+### 4.1 Market Hours vs. Pre-Market and After-Hours
+- Pradeep’s stops:
+  - Are active only during regular market hours.
+  - Are not active in pre-market or after-hours trading.  
+- He does not recommend placing stops that can be triggered outside regular hours.
+
+### 4.2 Liquidity and Partial Fills
+- In pre-market and after-hours:
+  - Liquidity is very low.
+  - Spreads can be wide and trading is thin.  
+- Risks of having stops active in these sessions:
+  - You may lose a lot of money due to poor fills.
+  - You may receive partial fills, leaving you with an undesirable remaining position.
+
+### 4.3 Carrying Stops Overnight
+- Pradeep’s practice:
+  - He has been trading for 22 years using this approach.
+  - He is comfortable placing stops and carrying them to the next day.
+  - The stops only become active and executable during regular market hours.  
+- Key point: It is acceptable to carry hard stops overnight as long as they are set to work only during the day session.
+
+---
+
+## 5. Practical Implementation Guidelines
+
+- Use hard stops, not mental stops:
+  - Enter actual stop orders into the system.
+  - Let them enforce your risk management automatically.
+- Configure stops to be active only during regular market hours:
+  - Do not allow stops to trigger in pre-market or after-hours sessions.
+- Avoid after-hours and pre-market stop activation:
+  - To reduce the risk of large slippage and partial fills due to low liquidity.
+- Maintain discipline:
+  - Do not rely on memory or emotion to exit losing trades.
+  - Use system-based hard stops to ensure consistent execution of your plan.

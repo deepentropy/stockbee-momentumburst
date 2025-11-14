@@ -1,0 +1,129 @@
+## Table of Contents
+
+1. Understanding the “2 Lynch” Breakout Setup  
+   1.1 Purpose of the Example  
+   1.2 Visual Pattern on the Breakout Day  
+
+2. Key Structural Elements of a Good Breakout  
+   2.1 First Leg Up  
+   2.2 Orderly Pullback / Consolidation  
+   2.3 Narrow or Negative Day Before Breakout  
+   2.4 Absence of Choppiness  
+
+3. Formal Criteria for the “2 Lynch” Setup  
+   3.1 Linear Price Structure  
+   3.2 Narrow or Negative Pre‑Breakout Day  
+   3.3 Consolidation Quality and Volatility  
+   3.4 4% Breakout and 4% Down Days  
+   3.5 Closing Near the High on Breakout Day  
+
+4. Practical Application and Example Summary  
+
+
+---
+
+## 1. Understanding the “2 Lynch” Breakout Setup
+
+### 1.1 Purpose of the Example
+Pradeep uses an example from TC2000 to illustrate what a *good* breakout looks like according to his “2 Lynch” criteria. The goal is to help traders recognize high‑quality breakout setups and distinguish them from noisy, low‑probability patterns.
+
+### 1.2 Visual Pattern on the Breakout Day
+On the breakout day, the stock in the example shows:
+- A clear prior advance (“first leg”).
+- A clean, orderly pullback or consolidation.
+- A narrow or slightly negative day immediately before the breakout.
+- A strong breakout with the stock closing near its high.
+
+This visual pattern is what traders should train themselves to identify.
+
+---
+
+## 2. Key Structural Elements of a Good Breakout
+
+### 2.1 First Leg Up
+- The stock must have a **first leg up** before the breakout.
+- This first leg is a clear, directional move higher, establishing momentum.
+- The breakout is then a continuation move after a pause, not a random spike from a flat base.
+
+### 2.2 Orderly Pullback / Consolidation
+- After the first leg, the stock should show an **orderly pullback** or **orderly consolidation**.
+- “Orderly” means:
+  - Price action is controlled and not erratic.
+  - The pullback is relatively shallow and structured.
+- This sets up the stock “very nicely” for a breakout, as it indicates controlled profit-taking rather than distribution.
+
+### 2.3 Narrow or Negative Day Before Breakout
+- The day immediately prior to the breakout should be:
+  - A **narrow range day**, or
+  - A **negative day** (down day), but still controlled.
+- This narrow/negative day is part of the setup and is specifically highlighted as desirable for the “2 Lynch” criteria.
+
+### 2.4 Absence of Choppiness
+- **Avoid choppiness.**
+- In a good setup:
+  - The stock does not swing wildly up and down.
+  - There are no erratic, overlapping bars that suggest indecision.
+- In the example, “there is no choppiness”; the stock goes up, then consolidates cleanly, then breaks out.
+
+---
+
+## 3. Formal Criteria for the “2 Lynch” Setup
+
+Pradeep summarizes the characteristics of the example as matching his “2 Lynch” criteria. The key elements are:
+
+### 3.1 Linear Price Structure
+- The move should be **linear**, meaning:
+  - Price progresses in a relatively straight, directional manner.
+  - The trend is clear, not jagged or noisy.
+- This linearity applies both to the first leg and to the overall structure leading into the breakout.
+
+### 3.2 Narrow or Negative Pre‑Breakout Day
+- The **day before the breakout** should be:
+  - A **narrow range day**, or
+  - A **negative day** (slightly down).
+- This is explicitly part of the “2 Lynch” criteria:  
+  > “Linear narrow or negative day prior to breakout.”
+
+### 3.3 Consolidation Quality and Volatility
+- **Consolidation quality** is critical:
+  - The pullback or consolidation must be **orderly**.
+  - Volatility during this phase should be **very low**.
+- Low volatility indicates:
+  - Lack of panic selling.
+  - Controlled behavior by market participants.
+- This “orderly consolidation with a very low volatility” is a required feature.
+
+### 3.4 4% Breakout and 4% Down Days
+- Pradeep mentions:
+  - “No 4% breakout.”
+  - “More than one 4% rate down.”
+- The key takeaway from his description is that:
+  - The setup should **not** show wild 4%+ breakout spikes during the consolidation phase.
+  - Multiple large (4%+) down days during the setup phase are undesirable, as they indicate instability and higher volatility.
+- The example stock **met the criteria** in terms of how it behaved around these 4% moves.
+
+### 3.5 Closing Near the High on Breakout Day
+- On the breakout day itself, the stock should:
+  - **Close near the high of the day.**
+- A close near the high confirms:
+  - Strong buying interest into the close.
+  - A decisive breakout rather than a failed or faded move.
+
+---
+
+## 4. Practical Application and Example Summary
+
+- The example stock shown in TC2000:
+  - Had a clear **first leg up**.
+  - Formed an **orderly, low‑volatility pullback/consolidation**.
+  - Printed a **narrow or negative day** just before the breakout.
+  - Avoided **choppy, erratic price action** and multiple large 4%+ down days during the setup.
+  - **Closed near the high** on the breakout day.
+
+- This combination of:
+  - Linear advance,
+  - Clean, low‑volatility consolidation,
+  - Proper pre‑breakout day structure,
+  - Strong close on breakout day,
+
+is what defines a **high‑quality “2 Lynch” breakout setup** according to Pradeep’s criteria. Traders should focus on finding these orderly, non‑choppy patterns and avoid noisy, volatile setups that do not meet these conditions.

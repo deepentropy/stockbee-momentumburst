@@ -1,0 +1,172 @@
+## Table of Contents
+
+1. Overview of Momentum Burst Magnitude  
+2. Relationship Between Stock Price and Momentum Burst  
+   2.1. Low-Priced Stocks (Below $10)  
+   2.2. Mid-Priced Stocks ($10–$40)  
+   2.3. High-Priced Stocks ($100+)  
+   2.4. Super High-Priced Stocks ($500+ / $1000)  
+3. Time Frame of Momentum Burst Moves  
+4. Practical Profit Expectations by Price Category  
+5. Examples of Momentum Burst in High-Priced Stocks  
+   5.1. Example: Booking Holdings (BKNG)  
+   5.2. Example: McKesson (MCK)  
+6. Examples of Momentum Burst in Low-Priced Stocks  
+7. Key Psychological and Tactical Takeaways  
+
+
+---
+
+## 1. Overview of Momentum Burst Magnitude
+
+**Concept:**  
+A momentum burst is a short-term, sharp move in a stock’s price following a breakout and range expansion. These moves have a typical magnitude that traders should understand and use to set realistic profit expectations.
+
+**Typical Magnitude:**
+
+- In percentage terms:  
+  - Approximately **8% to 40%** in **3–5 days**.
+- In dollar terms (for higher-priced stocks):  
+  - Approximately **$10 to $300** per share over the burst period.
+
+Understanding this range helps you avoid undercutting your profit potential and align your targets with what the setup can realistically deliver.
+
+---
+
+## 2. Relationship Between Stock Price and Momentum Burst
+
+Momentum burst magnitude behaves differently depending on the price level of the stock. The key distinction is:
+
+- **Lower-priced stocks:** Larger moves in **percentage** terms.  
+- **Higher-priced stocks:** Larger moves in **dollar** terms, but smaller in percentage.
+
+### 2.1. Low-Priced Stocks (Below $10)
+
+- Typical momentum burst: **20% to 40%** in **3–5 days** after breakout.  
+- Very low-priced stocks (e.g., around $4) can show:
+  - **100%+ moves** in a few days in strong bursts.
+  - Frequent **70%, 50%, 40%** type moves in 3–5 days in some cases.
+- For stocks **below $10**, your **objective** should be:
+  - Aim for **20%–40%** gains per momentum burst.
+  - Most common range: **20%–30%**.
+
+### 2.2. Mid-Priced Stocks ($10–$40)
+
+- Typical momentum burst: **8% to 20%** in **3–5 days**.
+- These stocks generally do not move as explosively in percentage terms as sub-$10 stocks, but still offer solid short-term gains.
+
+### 2.3. High-Priced Stocks ($100+)
+
+- For stocks trading at **$100 and above**:
+  - Momentum bursts are better measured in **dollar terms** rather than percentage.
+  - Typical burst magnitude: **$10 to $50** per share in a few days.
+- Example:
+  - On a **$300 stock**, a **$10 move** is relatively small and not a good trade in this context.
+  - On such stocks, you should expect and look for **$30 to $50** moves in a momentum burst.
+
+### 2.4. Super High-Priced Stocks ($500+ / $1000)
+
+- For **$500+ stocks**:
+  - Momentum bursts can be **$50 to $300** per share over **8–10 days**.
+- For **$1000 stocks**:
+  - A **$50 to $300** move may only be **3% to 8%**.
+- Key point:
+  - The **absolute dollar move** can be large, but the **percentage move** is relatively modest compared to low-priced stocks.
+
+---
+
+## 3. Time Frame of Momentum Burst Moves
+
+- Typical duration of a momentum burst:
+  - **3 to 5 days** for most setups.
+  - In some high-priced or super high-priced stocks, the move can extend to **8–10 days**.
+- The burst usually follows:
+  - A **breakout** and a **range expansion** day (a day where the price move is larger than recent days).
+
+---
+
+## 4. Practical Profit Expectations by Price Category
+
+Align your profit targets with the stock’s price level:
+
+- **Below $10:**
+  - Aim for **20%–40%** in **3–5 days**.
+  - Very low-priced names can occasionally deliver **50%–100%+** bursts.
+- **$10–$40:**
+  - Expect **8%–20%** in **3–5 days**.
+- **$100+ (high-priced):**
+  - Expect **$10–$50** per share in **3–5 days**.
+- **$500+ / $1000 (super high-priced):**
+  - Expect **$50–$300** per share in **8–10 days**, which often translates to **3%–8%**.
+
+Using these ranges prevents you from exiting too early (undercutting profit potential) or holding for unrealistic targets.
+
+---
+
+## 5. Examples of Momentum Burst in High-Priced Stocks
+
+### 5.1. Example: Booking Holdings (BKNG)
+
+- Very high-priced stock (example used to illustrate large dollar moves).
+- Observations:
+  - A **3-day momentum burst** produced a move of about **$96**.
+  - Another momentum burst:
+    - Range expansion day where the stock was up about **$62** on that day alone.
+    - From the entry on that range expansion day, over the next **3–4 days**, the stock moved approximately **$168**.
+- Takeaway:
+  - **$50–$100+** swings in a few days are common in such high-priced names.
+  - This is why some traders focus specifically on high-priced stocks: the **absolute dollar gains** per share can be very large.
+
+### 5.2. Example: McKesson (MCK)
+
+- High-priced stock trading around **$300**.
+- A clear **range expansion** day marked the start of a momentum burst:
+  - The move from that range expansion:
+    - In **5–6 days**, the stock moved about **$27**.
+- Takeaway:
+  - On high-priced stocks, **$10–$40+** moves in a few days are typical for a good momentum burst.
+  - A **$27** move on a $300 stock is a standard, solid burst.
+
+---
+
+## 6. Examples of Momentum Burst in Low-Priced Stocks
+
+- Example: A **$4 stock**:
+  - After a breakout, a momentum burst in **3–5 days** produced a **114%** move.
+  - Another burst in the same stock produced about **100%**.
+- Other low-priced examples (generalized from recent moves):
+  - Stocks under $10 showing:
+    - **70%**, **50%**, **40%** momentum bursts in **3–5 days**.
+    - An **$8 stock** with a **30%** momentum burst.
+    - Another low-priced stock with a **27%** burst.
+    - A momentum burst of **24%** in **4 days**.
+- Takeaway:
+  - For **low-priced stocks**, especially **below $10**, **20%–40%** in **3–5 days** is common and should be your **primary target range**.
+  - Very low-priced names can be **“very, very explosive”** in percentage terms.
+
+---
+
+## 7. Key Psychological and Tactical Takeaways
+
+1. **Match Expectations to Price Level**  
+   - Do not expect the same percentage move from a $300 stock as from a $4 stock.  
+   - For low-priced stocks, think in **percentages** (20–40%+).  
+   - For high-priced stocks, think in **dollars** ($10–$300).
+
+2. **Avoid Undercutting Profit Potential**  
+   - If you understand the typical magnitude of a momentum burst for the price range you are trading, you are less likely to:
+     - Exit too early with small profits.
+     - Misjudge what a “good” move looks like for that stock.
+
+3. **Use Range Expansion as a Trigger**  
+   - Momentum bursts often start with a **range expansion day**:
+     - A day where the price move is larger than recent days.
+   - Entries are often considered on or just after such a day, and the subsequent **3–5 days** (or up to **8–10 days** for very high-priced stocks) are where the burst plays out.
+
+4. **Set Clear, Realistic Targets**  
+   - For **below $10**: aim for **20–40%**.  
+   - For **$10–$40**: aim for **8–20%**.  
+   - For **$100+**: aim for **$10–$50**.  
+   - For **$500+ / $1000**: aim for **$50–$300** over a slightly longer window.
+
+By internalizing these ranges and examples, you can structure your momentum burst trades with realistic, price-appropriate profit targets and avoid both over- and under-expectation in your day and swing trading.

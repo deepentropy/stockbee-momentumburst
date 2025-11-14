@@ -1,0 +1,147 @@
+## Table of Contents
+
+1. Introduction: Purpose of Using Filters on 4% Breakouts  
+2. The Top 25 Breakouts Filter  
+   2.1. Concept and Rationale  
+   2.2. Implementation in TC2000  
+   2.3. Using TI65 as a Momentum Ranking  
+3. Practical Use of the Top 25 Filter  
+   3.1. How to Select Trades from the Top 25  
+   3.2. What to Do If No Good Setup Appears  
+   3.3. Trade-Offs and Limitations of Filters  
+4. Psychological and Process Benefits  
+   4.1. Reducing Overwhelm for Beginners  
+   4.2. Lowering Complexity and Confusion  
+   4.3. Guideline for Adding Filters  
+
+---
+
+## 1. Introduction: Purpose of Using Filters on 4% Breakouts
+
+Using filters on 4% breakouts helps reduce the number of stocks you need to evaluate, so you are not overwhelmed by a large list of candidates (e.g., 300 breakouts). This is especially useful for beginning traders who can easily become confused when faced with too many choices.
+
+The core idea:  
+- Start with all 4% breakouts.  
+- Apply additional filters to narrow the list to a manageable number of high-quality candidates.
+
+---
+
+## 2. The Top 25 Breakouts Filter
+
+### 2.1. Concept and Rationale
+
+One effective filter Pradeep used for 2–3 years is the “Top 25 Breakouts” filter:
+
+- From all 4% breakouts, only consider the top 25 stocks ranked by a momentum measure called TI65.
+- This focuses your attention on stocks showing **extremely strong buying** and **high momentum**.
+- The goal is to find good buy candidates within this smaller, high-momentum subset instead of scanning every breakout.
+
+This method is particularly helpful for beginners who want to reduce the number of charts they must analyze.
+
+### 2.2. Implementation in TC2000
+
+In TC2000, the process is:
+
+1. Start with your 4% breakout scan (e.g., a list of “stars” or breakout candidates).  
+2. Remove any previous filters if necessary (e.g., filters created in earlier steps or videos).  
+3. Add a column for TI65 to your watchlist or scan results.  
+4. Sort the list by TI65 in descending order (highest momentum at the top).  
+5. Only look at the first 25 stocks in this sorted list.
+
+Example from the lesson:
+- After removing a prior filter, there were 73 breakout candidates.
+- By sorting on TI65 and focusing only on the top 25, the list becomes much more manageable.
+
+### 2.3. Using TI65 as a Momentum Ranking
+
+TI65 is defined as:
+
+> **TI65 = Average(C, 7) / Average(C, 65)**  
+> where C is the closing price,  
+> Average(C, 7) is the 7-day average close,  
+> Average(C, 65) is the 65-day average close.
+
+Interpretation:
+- A higher TI65 value indicates that the recent price (7-day average) is significantly higher than the longer-term price (65-day average), signaling strong recent momentum.
+- Ranking by TI65 ensures you are focusing on stocks with the strongest current buying pressure.
+
+---
+
+## 3. Practical Use of the Top 25 Filter
+
+### 3.1. How to Select Trades from the Top 25
+
+Once you have the top 25 breakouts ranked by TI65:
+
+- Review only these 25 charts for potential buy setups.
+- Within these 25, you typically will find **one or two good ideas**.
+- For example, on a given day (like a Friday in the example), you might end up with just one strong candidate from the top 25.
+
+This keeps your decision-making focused and manageable.
+
+### 3.2. What to Do If No Good Setup Appears
+
+If you go through the top 25 and:
+
+- By the time you reach stock number 25 you **still do not find a good setup**,  
+- Then **do not take a trade** from that list.
+
+The rule:  
+- You want a stock with **very high momentum and a good technical setup**.  
+- If none of the top 25 meet your criteria, you simply skip trading that day from this method.
+
+### 3.3. Trade-Offs and Limitations of Filters
+
+Pradeep notes some important trade-offs:
+
+- Using strict filters like the top 25 TI65 can cause you to **miss some trades** that might have worked but did not rank in the top 25.
+- He personally does **not overuse** such filters now because:
+  - He has deep experience (22 years using this method).
+  - He does not feel overwhelmed by large lists of breakouts.
+
+However, for beginners:
+- The benefit of reduced confusion and workload often outweighs the cost of missing some opportunities.
+
+---
+
+## 4. Psychological and Process Benefits
+
+### 4.1. Reducing Overwhelm for Beginners
+
+Beginners can easily be overwhelmed by:
+
+- Large breakout lists (e.g., 300 or even 70+ names).
+- The difficulty of deciding which of many breakouts to buy.
+
+By limiting attention to the top 25:
+
+- You only need to analyze a small, focused list.
+- You avoid the stress of trying to choose among too many options.
+- You are more likely to execute consistently and confidently.
+
+### 4.2. Lowering Complexity and Confusion
+
+Filters like the top 25 TI65:
+
+- Lower the **complexity** of your daily routine.
+- Reduce **confusion** about which stocks to prioritize.
+- Help you concentrate on the **strongest momentum names**, which often have better odds of follow-through.
+
+The practical outcome:
+- Instead of being stuck between 10+ possible breakouts, you narrow down to 1–2 clear ideas.
+
+### 4.3. Guideline for Adding Filters
+
+General advice on filters:
+
+- Add filters that:
+  - **Increase your win rate**, or  
+  - **Decrease your confusion**.
+- Avoid adding filters just for complexity’s sake.
+- For newer traders, simplicity and clarity are more important than capturing every possible trade.
+
+In summary, the top 25 TI65 filter on 4% breakouts is a structured way to:
+- Focus on the strongest momentum stocks,
+- Reduce the number of charts you must review,
+- Lower psychological stress,
+- And build a more disciplined, manageable trading process.

@@ -1,0 +1,195 @@
+## Table of Contents
+
+1. Introduction to the 4% Scan  
+2. Platform Setup: Using TC2000  
+3. Creating the 4% Breakout (Bullish) Scan  
+   3.1. Creating a New Combo List  
+   3.2. Defining the Source Universe (Lists to Scan)  
+   3.3. Writing the 4% Breakout Formula  
+   3.4. Applying and Viewing Results  
+4. Creating the 4% Breakdown (Bearish) Scan  
+   4.1. Creating a New Combo List  
+   4.2. Defining the Source Universe  
+   4.3. Writing the 4% Breakdown Formula  
+   4.4. Applying and Viewing Results  
+5. Adding Price Filters to Exclude Low-Priced Stocks  
+   5.1. Filtering the 4% Breakout List  
+   5.2. Filtering the 4% Breakdown List  
+6. Using and Refining the Scan  
+   6.1. Purpose of the Initial Setup  
+   6.2. Adding Further Filters Over Time  
+
+
+---
+
+## 1. Introduction to the 4% Scan
+
+The 4% scan is a basic, systematic way to find stocks that move sharply in a single day, either up (breakout) or down (breakdown), with confirming volume. The lesson focuses on how to set up these scans in TC2000 so you can consistently identify such candidates.
+
+---
+
+## 2. Platform Setup: Using TC2000
+
+All instructions are demonstrated using TC2000. The process involves:
+
+- Creating a **combo list** that defines which stocks will be scanned.
+- Writing a **formula** that captures the 4% move and volume conditions.
+- Applying optional **filters** (such as minimum price) to refine the results.
+
+---
+
+## 3. Creating the 4% Breakout (Bullish) Scan
+
+### 3.1. Creating a New Combo List
+
+1. In TC2000, go to **New**.  
+2. Select **Open Combo List**.  
+3. Name the list: **“4% breakout bullish”**.
+
+This combo list will be the container for your bullish 4% breakout scan.
+
+### 3.2. Defining the Source Universe (Lists to Scan)
+
+Within this new combo list, specify what types of securities you want to scan:
+
+- Add **US stocks**.  
+- Add **American Depository Receipts (ADRs)**.  
+- Add **ETFs**.
+
+These combined lists form the **source list** that the scan will run on.
+
+### 3.3. Writing the 4% Breakout Formula
+
+Add a **condition** to the combo list by writing a formula:
+
+Name the condition: **“4% breakout bullish”**.
+
+Formula logic:
+
+- Price up at least 4% from yesterday:
+  - `C / C1 >= 1.04`  
+  (Today’s close divided by yesterday’s close is at least 1.04.)
+
+- Today’s volume greater than yesterday’s volume:
+  - `V / V1`  
+  (Used as a condition that today’s volume is higher than yesterday’s.)
+
+- Minimum absolute volume:
+  - `V >= 100000`  
+  (Today’s volume is at least 100,000 shares.)
+
+Combined, this identifies stocks that are up 4% or more on higher volume, with a minimum liquidity threshold.
+
+### 3.4. Applying and Viewing Results
+
+- After entering the formula, run the scan on the defined source list.  
+- You will see a set of results (example given: **127 stocks**).  
+- To organize the display, use **Move Window → Tab Here** to place this result list as a tab labeled **“4% breakout bullish”**.
+
+This gives you a dedicated tab showing all current 4% bullish breakouts.
+
+---
+
+## 4. Creating the 4% Breakdown (Bearish) Scan
+
+The bearish scan mirrors the bullish setup but looks for 4% declines.
+
+### 4.1. Creating a New Combo List
+
+1. Go to **New**.  
+2. Select **Open Combo List**.  
+3. Name the list: **“4% breakdown”**.
+
+### 4.2. Defining the Source Universe
+
+As with the breakout scan, add:
+
+- **US stocks**  
+- **ADRs**  
+- **ETFs**
+
+This ensures both scans use the same underlying universe.
+
+### 4.3. Writing the 4% Breakdown Formula
+
+Add a **condition** and write the formula:
+
+Name the condition: **“4% breakdown”**.
+
+Formula logic:
+
+- Price down at least 4% from yesterday:
+  - `C / C1 <= 0.96`  
+  (Today’s close is 4% or more below yesterday’s close.)
+
+- Today’s volume greater than or equal to yesterday’s volume:
+  - `V >= V1`
+
+- Minimum absolute volume:
+  - `V >= 100000`
+
+This identifies stocks that are down 4% or more on at least equal or higher volume, with sufficient liquidity.
+
+### 4.4. Applying and Viewing Results
+
+- Run the scan on the defined source list.  
+- You will get a set of results (example given: **148 stocks**, including ETFs).  
+- Use **Move Window → Tab Here** to place this result list as a tab labeled **“4% breakdown”**.
+
+Now you have two tabs side by side:
+
+- **4% breakout** (bullish candidates)  
+- **4% breakdown** (bearish candidates)
+
+---
+
+## 5. Adding Price Filters to Exclude Low-Priced Stocks
+
+Scanning all stocks will often include very low-priced names, which many traders prefer to avoid. You can refine both lists by adding a **price filter**.
+
+### 5.1. Filtering the 4% Breakout List
+
+1. In the **4% breakout** tab, add a **Filter**.  
+2. Choose **Condition** → **Price**.  
+3. Set the condition: **Price > 3** (greater than 3 dollars).
+
+Effect:
+
+- The number of breakout candidates drops (example: from 127 to **73** stocks).  
+- Very low-priced stocks are removed from the breakout list.
+
+### 5.2. Filtering the 4% Breakdown List
+
+1. In the **4% breakdown** tab, add a **Filter**.  
+2. Choose **Condition** → **Price**.  
+3. Set the condition: **Price > 3** (greater than 3 dollars).
+
+Effect:
+
+- The number of breakdown candidates is reduced (example: to **90** stocks).  
+- Low-priced breakdowns are filtered out.
+
+This step makes the lists more manageable and focused on stocks above a chosen price threshold.
+
+---
+
+## 6. Using and Refining the Scan
+
+### 6.1. Purpose of the Initial Setup
+
+Setting up the 4% breakout and breakdown scans is the **first step**. Once the scans are in place:
+
+- You can see **what kinds of stocks** show up daily.  
+- You get a feel for the **character** of 4% movers with volume.  
+
+This foundational setup is necessary before you start refining or building more complex rules.
+
+### 6.2. Adding Further Filters Over Time
+
+After observing the scan results:
+
+- You may choose to add **more filters** (beyond price and volume) to:
+  - Reduce the number of stocks.  
+  - Focus on specific types of setups that fit your trading style.  
+
+The lesson emphasizes that this initial 4% breakout and breakdown configuration is the **starting point**. Once you are comfortable with what appears in these lists, you can systematically refine them to make your trading process easier and more efficient.

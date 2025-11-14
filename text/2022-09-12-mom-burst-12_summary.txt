@@ -1,0 +1,249 @@
+## Table of Contents
+
+1. Introduction to Momentum Burst Vector  
+2. Why a Deep Dive Is Essential  
+3. How to Perform a Deep Dive Study  
+   3.1. Number of Examples to Study  
+   3.2. Using TC2000 for Historical Chart Review  
+   3.3. What to Mark and Observe on the Charts  
+4. Key Variables to Analyze in Momentum Bursts  
+   4.1. Size of the Move (Percentage Gain)  
+   4.2. Duration of the Move (Three-Day Phenomenon)  
+   4.3. Price Location and Market Context  
+   4.4. Moving Averages and ADR  
+5. Understanding Momentum Bursts Across Market Phases  
+6. Deriving Trading Rules from the Deep Dive  
+   6.1. Average Move and Days in the Burst  
+   6.2. Stop-Loss Placement and Stop Strategies  
+7. Building Confidence and Conviction  
+8. Recommended Deep Dive Sequence  
+   8.1. First Deep Dive: Understanding the Three-Day Phenomenon  
+   8.2. Subsequent Deep Dives: How to Trade Momentum Bursts  
+
+
+---
+
+## 1. Introduction to Momentum Burst Vector
+
+Momentum burst vector refers to the characteristic behavior and structure of short, powerful price moves (“momentum bursts”) in stocks. To understand it properly, you must study how these bursts actually appear and evolve on historical charts, rather than relying on theory alone.
+
+The goal is to see, in detail, how these bursts behave so you can later trade them with clarity and confidence.
+
+---
+
+## 2. Why a Deep Dive Is Essential
+
+A deep dive is a thorough, systematic study of past momentum bursts. It is required before you start trading this setup because:
+
+- It shows you how real momentum bursts look on charts, not just in definitions.  
+- It allows you to quantify the moves:  
+  - Did the stock move 8%, 10%, 20%?  
+  - Did the move last 3 days or longer?  
+- It helps you understand where these bursts start and how they develop.
+
+This deep study is what will ultimately allow you to:
+
+- Recognize valid momentum bursts in real time.  
+- Understand their typical behavior.  
+- Design realistic trading and risk management rules.
+
+---
+
+## 3. How to Perform a Deep Dive Study
+
+### 3.1. Number of Examples to Study
+
+The deep dive must be extensive. The recommended scale is:
+
+- Study **1,000 to 3,000** examples of momentum bursts.  
+- A minimum of **3,000 examples** is suggested as a starting point for a deeper understanding.
+
+This large sample size is crucial to see patterns across different stocks, price levels, and market conditions.
+
+### 3.2. Using TC2000 for Historical Chart Review
+
+The suggested tool for this study is **TC2000**:
+
+- Load all the stocks in your watchlist or database.  
+- Go through the charts systematically (for example, alphabetically).  
+- For each stock, look at the **last one year** of data and identify:  
+  - Momentum bursts on the **positive side (up moves)**.  
+  - Momentum bursts on the **negative side (down moves)**.
+
+### 3.3. What to Mark and Observe on the Charts
+
+For each momentum burst you identify:
+
+1. **Mark the first day of the momentum burst**  
+   - Note how the first day’s move looks.  
+   - Record the percentage move on that day (e.g., 3%, 6%, 8%, 10%, etc.).
+
+2. **Mark how it looks by the third day**  
+   - Go to the chart three days after the first burst day.  
+   - Mark the price and total percentage move by day 3.
+
+3. **Repeat this process for thousands of examples**  
+   - For each example, record:  
+     - First-day move size.  
+     - Third-day outcome.  
+     - Context (price level, market phase, etc.).
+
+This repeated marking and observation is the core of the deep dive.
+
+---
+
+## 4. Key Variables to Analyze in Momentum Bursts
+
+During your deep dive, you should pay attention to several critical variables.
+
+### 4.1. Size of the Move (Percentage Gain)
+
+For each momentum burst, measure the percentage move:
+
+- Examples mentioned:  
+  - 3%, 6%, 7%, 8%, 9%, 10%, 11%, 12%, 13%, 14%, 15%, 16%.  
+- From these, determine:  
+  - What is the **typical (average) percentage move** of a momentum burst?  
+  - How often do you see small vs. large bursts?
+
+This helps you understand realistic expectations for profit targets.
+
+### 4.2. Duration of the Move (Three-Day Phenomenon)
+
+A key concept is the **three-day phenomenon**:
+
+- Many momentum bursts tend to play out over about **three days**.  
+- Your first deep dive should focus specifically on:  
+  - How the move develops from day 1 to day 3.  
+  - Whether the bulk of the move typically completes within three days.
+
+You want to verify for yourself that this three-day pattern actually occurs consistently.
+
+### 4.3. Price Location and Market Context
+
+Study where the momentum bursts occur in relation to:
+
+- **52-week high**  
+- **52-week low**
+
+Questions to answer:
+
+- Do bursts tend to start near 52-week highs?  
+- Do they also occur near 52-week lows?  
+- How does the starting location affect the quality and follow-through of the burst?
+
+### 4.4. Moving Averages and ADR
+
+Evaluate the role of key technical measures:
+
+- **52-day moving average**  
+- **200-day moving average**  
+- **ADR (Average Daily Range)**
+
+For each burst, observe:
+
+- Is the 52-day moving average relevant to where the burst starts or how it behaves?  
+- Does the 200-day moving average act as support, resistance, or have any clear influence?  
+- Is ADR important in understanding the size and volatility of the burst?
+
+Your deep dive should help you decide whether these factors matter and how.
+
+---
+
+## 5. Understanding Momentum Bursts Across Market Phases
+
+You must study how momentum bursts behave in different **market phases**:
+
+- **Bearish markets**:  
+  - Do momentum bursts still work?  
+  - Are they weaker, shorter, or less frequent?
+
+- **Market turning points**:  
+  - What happens to momentum bursts when the market is turning from down to up or up to down?  
+  - Do bursts cluster around these turning points?
+
+By examining bursts across various phases, you learn:
+
+- When the strategy is most effective.  
+- When it may be riskier or less reliable.
+
+---
+
+## 6. Deriving Trading Rules from the Deep Dive
+
+The purpose of the deep dive is not just observation; it is to derive practical trading rules.
+
+### 6.1. Average Move and Days in the Burst
+
+From your data, determine:
+
+- **Average percentage move** of a momentum burst.  
+- **Average number of days** the burst lasts (especially around the three-day window).
+
+These averages will guide:
+
+- Profit expectations.  
+- Holding period assumptions.  
+- Whether a three-day hold is optimal or needs adjustment.
+
+### 6.2. Stop-Loss Placement and Stop Strategies
+
+Your deep dive should also answer:
+
+- **Where should you put your stop?**  
+- **What kind of stop strategy works best for momentum bursts?**
+
+By studying thousands of examples, you can see:
+
+- How far price typically pulls back during a burst.  
+- What stop levels would have kept you in winning trades while cutting losers.  
+
+All this information—average move, duration, and pullback behavior—comes directly from your historical analysis of momentum bursts.
+
+---
+
+## 7. Building Confidence and Conviction
+
+A major psychological benefit of the deep dive is **confidence**:
+
+- You should not trade momentum bursts just because someone told you they work.  
+- You need to **convince yourself** through your own study that:  
+  - Momentum bursts exist.  
+  - They have repeatable characteristics.  
+  - The three-day phenomenon is real in your data.
+
+The observations you gather will determine:
+
+- How much conviction you have in trading momentum bursts.  
+- Whether you are comfortable executing the strategy in real time.
+
+Your confidence will be proportional to the depth and quality of your own research.
+
+---
+
+## 8. Recommended Deep Dive Sequence
+
+### 8.1. First Deep Dive: Understanding the Three-Day Phenomenon
+
+The **first deep dive** should focus on:
+
+- Identifying momentum bursts.  
+- Studying how they behave over the **first three days**.  
+- Verifying that the three-day pattern is real and consistent across many examples.
+
+This initial study is about **understanding** and **belief-building**, not yet about optimizing entries and exits.
+
+### 8.2. Subsequent Deep Dives: How to Trade Momentum Bursts
+
+After the first deep dive:
+
+- Conduct a **second deep dive**, then a **third**, each more specific.  
+- These later deep dives should focus on:  
+  - How to **trade** momentum bursts effectively.  
+  - Fine-tuning **entry rules**, **exit rules**, and **stop strategies** based on your findings.
+
+Each additional deep dive refines your approach, moving from understanding the pattern to executing it as a trading strategy.
+
+---
+
+In summary, understanding the momentum burst vector requires a disciplined, data-driven deep dive into thousands of historical examples. By systematically marking and analyzing these bursts, you learn their typical size, duration, context, and behavior across market phases, and from that, you derive practical trading rules and build the confidence needed to trade them.
